@@ -16,3 +16,6 @@ Mons and Moves stored separately, with one .txt per Mon/Move.
   Accuracy  
   PP  
   What mons can learn the move outside of events
+
+To do: rework 'Mon' file to use new .txt file formatting
+(How to search for filenames? "import os" is the only way I've found)
