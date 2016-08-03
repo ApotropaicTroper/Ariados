@@ -1,0 +1,32 @@
+Rock Throw
+Rock / Physical
+50
+90%
+15 PP
+Golem
+Archeops
+Carbink
+Solrock
+Regirock
+Conkeldurr
+Aurorus
+Graveler
+Amaura
+Shuckle
+Geodude
+Smeargle
+Gurdurr
+Sudowoodo
+Mudkip
+Steelix
+Timburr
+Archen
+Diancie
+Lunatone
+Landorus
+Nosepass
+Onix
+Bonsly
+Magcargo
+Tirtouga
+Slugma

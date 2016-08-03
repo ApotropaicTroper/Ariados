@@ -1,0 +1,10 @@
+Ivysaur
+Grass / Poison
+Overgrow, Chlorophyll
+ 60
+ 62
+ 63
+ 80
+ 80
+ 60
+ 13.0 kg

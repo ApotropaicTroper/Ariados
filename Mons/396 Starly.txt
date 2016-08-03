@@ -1,0 +1,10 @@
+Starly
+Normal / Flying
+Keen Eye, Reckless
+ 40
+ 55
+ 30
+ 30
+ 30
+ 60
+  2.0 kg

@@ -1,0 +1,9 @@
+Zigzagoon
+NormalPickup, Gluttony, Quick Feet
+ 38
+ 30
+ 41
+ 30
+ 41
+ 60
+ 17.5 kg

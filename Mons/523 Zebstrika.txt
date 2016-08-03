@@ -1,0 +1,9 @@
+Zebstrika
+ElectricLightning Rod, Motor Drive, Sap Sipper
+ 75
+100
+ 63
+ 80
+ 63
+116
+ 79.5 kg

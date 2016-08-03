@@ -1,0 +1,10 @@
+Haunter
+Ghost / Poison
+Levitate
+ 45
+ 50
+ 45
+115
+ 55
+ 95
+  0.1 kg

@@ -1,0 +1,10 @@
+Armaldo
+Rock / Bug
+Battle Armor, Swift Swim
+ 75
+125
+100
+ 70
+ 80
+ 45
+ 68.2 kg

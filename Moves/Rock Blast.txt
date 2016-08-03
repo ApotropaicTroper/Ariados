@@ -1,0 +1,34 @@
+Rock Blast
+Rock / Physical
+25
+90%
+10 PP
+Golem
+Crustle
+Roggenrola
+Corsola
+Gigalith
+Anorith
+Boldore
+Octillery
+Omanyte
+Graveler
+Trubbish
+Shuckle
+Rhydon
+Geodude
+Probopass
+Smeargle
+Rhyhorn
+Shellder
+Armaldo
+Remoraid
+Wormadam
+Nosepass
+Onix
+Cinccino
+Dwebble
+Omastar
+Shieldon
+Heracross
+Rhyperior

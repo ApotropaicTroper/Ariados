@@ -1,0 +1,10 @@
+Rhydon
+Ground / Rock
+Lightning Rod, Rock Head, Reckless
+105
+130
+120
+ 45
+ 45
+ 40
+120.0 kg

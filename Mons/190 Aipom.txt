@@ -1,0 +1,9 @@
+Aipom
+NormalRun Away, Pickup, Skill Link
+ 55
+ 70
+ 55
+ 40
+ 55
+ 85
+ 11.5 kg

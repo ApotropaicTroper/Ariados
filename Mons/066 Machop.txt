@@ -1,0 +1,9 @@
+Machop
+FightingGuts, No Guard, Steadfast
+ 70
+ 80
+ 50
+ 35
+ 35
+ 35
+ 19.5 kg

@@ -1,0 +1,10 @@
+Chesnaught
+Grass / Fighting
+Overgrow, Bulletproof
+ 88
+107
+122
+ 74
+ 75
+ 64
+ 90.0 kg

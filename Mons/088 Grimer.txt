@@ -1,0 +1,9 @@
+Grimer
+PoisonStench, Sticky Hold, Poison Touch
+ 80
+ 80
+ 50
+ 40
+ 50
+ 25
+ 30.0 kg

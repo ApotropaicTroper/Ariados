@@ -1,0 +1,10 @@
+Kabutops
+Rock / Water
+Swift Swim, Battle Armor, Weak Armor
+ 60
+115
+105
+ 65
+ 70
+ 80
+ 40.5 kg

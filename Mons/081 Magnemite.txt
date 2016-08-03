@@ -1,0 +1,10 @@
+Magnemite
+Electric / Steel
+Magnet Pull, Sturdy, Analytic
+ 25
+ 35
+ 70
+ 95
+ 55
+ 45
+  6.0 kg

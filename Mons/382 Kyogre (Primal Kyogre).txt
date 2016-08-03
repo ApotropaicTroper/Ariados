@@ -1,0 +1,9 @@
+Primal Kyogre
+WaterPrimordial Sea
+100
+150
+ 90
+180
+160
+ 90
+430.0 kg

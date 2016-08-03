@@ -1,0 +1,10 @@
+Escavalier
+Bug / Steel
+Swarm, Shell Armor, Overcoat
+ 70
+135
+105
+ 60
+105
+ 20
+ 33.0 kg

@@ -1,0 +1,9 @@
+Pichu
+ElectricStatic, Lightning Rod
+ 20
+ 40
+ 15
+ 35
+ 35
+ 60
+  2.0 kg

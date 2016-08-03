@@ -1,0 +1,10 @@
+Graveler
+Rock / Ground
+Rock Head, Sturdy, Sand Veil
+ 55
+ 95
+115
+ 45
+ 45
+ 35
+105.0 kg

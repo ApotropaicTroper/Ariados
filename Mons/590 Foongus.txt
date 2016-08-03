@@ -1,0 +1,10 @@
+Foongus
+Grass / Poison
+Effect Spore, Regenerator
+ 69
+ 55
+ 45
+ 55
+ 55
+ 15
+  1.0 kg

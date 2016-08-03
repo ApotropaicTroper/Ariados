@@ -1,0 +1,10 @@
+Staraptor
+Normal / Flying
+Intimidate, Reckless
+ 85
+120
+ 70
+ 50
+ 60
+100
+ 24.9 kg

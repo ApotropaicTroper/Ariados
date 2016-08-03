@@ -1,0 +1,9 @@
+Trubbish
+PoisonStench, Sticky Hold, Aftermath
+ 50
+ 50
+ 62
+ 40
+ 62
+ 65
+ 31.0 kg

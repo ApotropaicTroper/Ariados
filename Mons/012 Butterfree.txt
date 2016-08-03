@@ -1,0 +1,10 @@
+Butterfree
+Bug / Flying
+Compound Eyes, Tinted Lens
+ 60
+ 45
+ 50
+ 90
+ 80
+ 70
+ 32.0 kg

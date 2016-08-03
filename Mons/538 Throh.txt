@@ -1,0 +1,9 @@
+Throh
+FightingGuts, Inner Focus, Mold Breaker
+120
+100
+ 85
+ 30
+ 85
+ 45
+ 55.5 kg

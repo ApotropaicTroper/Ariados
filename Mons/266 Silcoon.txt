@@ -1,0 +1,9 @@
+Silcoon
+BugShed Skin
+ 50
+ 35
+ 55
+ 25
+ 25
+ 15
+ 10.0 kg

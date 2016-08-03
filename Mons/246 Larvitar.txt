@@ -1,0 +1,10 @@
+Larvitar
+Rock / Ground
+Guts, Sand Veil
+ 50
+ 64
+ 50
+ 45
+ 50
+ 41
+ 72.0 kg

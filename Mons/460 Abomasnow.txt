@@ -1,0 +1,10 @@
+Abomasnow
+Grass / Ice
+Snow Warning, Soundproof
+ 90
+ 92
+ 75
+ 92
+ 85
+ 60
+135.5 kg

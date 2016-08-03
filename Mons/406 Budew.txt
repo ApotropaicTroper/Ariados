@@ -1,0 +1,10 @@
+Budew
+Grass / Poison
+Natural Cure, Poison Point, Leaf Guard
+ 40
+ 30
+ 35
+ 50
+ 70
+ 55
+  1.2 kg

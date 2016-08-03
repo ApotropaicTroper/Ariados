@@ -1,0 +1,9 @@
+Bayleef
+GrassOvergrow, Leaf Guard
+ 60
+ 62
+ 80
+ 63
+ 80
+ 60
+ 15.8 kg

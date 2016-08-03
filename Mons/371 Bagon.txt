@@ -1,0 +1,9 @@
+Bagon
+DragonRock Head, Sheer Force
+ 45
+ 75
+ 60
+ 40
+ 30
+ 50
+ 42.1 kg

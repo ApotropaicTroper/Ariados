@@ -1,0 +1,9 @@
+Sandshrew
+GroundSand Veil, Sand Rush
+ 50
+ 75
+ 85
+ 20
+ 30
+ 40
+ 12.0 kg

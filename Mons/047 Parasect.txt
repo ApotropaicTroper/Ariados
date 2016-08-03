@@ -1,0 +1,10 @@
+Parasect
+Bug / Grass
+Effect Spore, Dry Skin, Damp
+ 60
+ 95
+ 80
+ 60
+ 80
+ 30
+ 29.5 kg

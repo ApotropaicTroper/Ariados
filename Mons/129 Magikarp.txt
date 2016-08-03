@@ -1,0 +1,9 @@
+Magikarp
+WaterSwift Swim, Rattled
+ 20
+ 10
+ 55
+ 15
+ 20
+ 80
+ 10.0 kg

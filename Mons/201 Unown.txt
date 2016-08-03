@@ -1,0 +1,9 @@
+Unown
+PsychicLevitate
+ 48
+ 72
+ 48
+ 72
+ 48
+ 48
+  5.0 kg

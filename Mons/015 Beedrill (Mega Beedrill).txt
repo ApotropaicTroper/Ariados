@@ -1,0 +1,10 @@
+Mega Beedrill
+Bug / Poison
+Adaptability
+ 65
+150
+ 40
+ 15
+ 80
+145
+ 29.5 kg

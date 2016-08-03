@@ -1,0 +1,9 @@
+Hitmontop
+FightingIntimidate, Technician, Steadfast
+ 50
+ 95
+ 95
+ 35
+110
+ 70
+ 48.0 kg

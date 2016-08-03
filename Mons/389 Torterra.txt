@@ -1,0 +1,10 @@
+Torterra
+Grass / Ground
+Overgrow, Shell Armor
+ 95
+109
+105
+ 75
+ 85
+ 56
+310.0 kg

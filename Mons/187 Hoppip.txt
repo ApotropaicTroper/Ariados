@@ -1,0 +1,10 @@
+Hoppip
+Grass / Flying
+Chlorophyll, Leaf Guard, Infiltrator
+ 35
+ 35
+ 40
+ 35
+ 55
+ 50
+  0.5 kg

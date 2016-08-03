@@ -1,0 +1,10 @@
+Aerodactyl
+Rock / Flying
+Rock Head, Pressure, Unnerve
+ 80
+105
+ 65
+ 60
+ 75
+130
+ 59.0 kg

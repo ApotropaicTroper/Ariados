@@ -1,0 +1,9 @@
+Pachirisu
+ElectricRun Away, Pickup, Volt Absorb
+ 60
+ 45
+ 70
+ 45
+ 90
+ 95
+  3.9 kg

@@ -1,0 +1,9 @@
+Blissey
+NormalNatural Cure, Serene Grace, Healer
+255
+ 10
+ 10
+ 75
+135
+ 55
+ 46.8 kg

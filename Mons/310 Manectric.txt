@@ -1,0 +1,9 @@
+Manectric
+ElectricStatic, Lightning Rod, Minus
+ 70
+ 75
+ 60
+105
+ 60
+105
+ 40.2 kg

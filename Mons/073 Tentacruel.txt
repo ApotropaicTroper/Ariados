@@ -1,0 +1,10 @@
+Tentacruel
+Water / Poison
+Clear Body, Liquid Ooze, Rain Dish
+ 80
+ 70
+ 65
+ 80
+120
+100
+ 55.0 kg

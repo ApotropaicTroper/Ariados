@@ -1,0 +1,9 @@
+Arceus
+NormalMultitype
+120
+120
+120
+120
+120
+120
+320.0 kg

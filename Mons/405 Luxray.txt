@@ -1,0 +1,9 @@
+Luxray
+ElectricRivalry, Intimidate, Guts
+ 80
+120
+ 79
+ 95
+ 79
+ 70
+ 42.0 kg

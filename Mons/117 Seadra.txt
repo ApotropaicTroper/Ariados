@@ -1,0 +1,9 @@
+Seadra
+WaterPoison Point, Sniper, Damp
+ 55
+ 65
+ 95
+ 95
+ 45
+ 85
+ 25.0 kg

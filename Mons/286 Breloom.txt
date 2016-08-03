@@ -1,0 +1,10 @@
+Breloom
+Grass / Fighting
+Effect Spore, Poison Heal, Technician
+ 60
+130
+ 80
+ 60
+ 60
+ 70
+ 39.2 kg

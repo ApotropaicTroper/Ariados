@@ -1,0 +1,6 @@
+Aura Sphere
+Fighting / Special
+80
+—
+20 PP
+Event move

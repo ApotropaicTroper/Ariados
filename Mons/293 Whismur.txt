@@ -1,0 +1,9 @@
+Whismur
+NormalSoundproof, Rattled
+ 64
+ 51
+ 23
+ 51
+ 23
+ 28
+ 16.3 kg

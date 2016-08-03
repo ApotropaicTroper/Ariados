@@ -1,0 +1,10 @@
+Jellicent
+Water / Ghost
+Water Absorb, Cursed Body, Damp
+100
+ 60
+ 70
+ 85
+105
+ 60
+135.0 kg

@@ -1,0 +1,10 @@
+Mega Aerodactyl
+Rock / Flying
+Tough Claws
+ 80
+135
+ 85
+ 70
+ 95
+150
+ 59.0 kg

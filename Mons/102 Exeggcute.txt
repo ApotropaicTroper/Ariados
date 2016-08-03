@@ -1,0 +1,10 @@
+Exeggcute
+Grass / Psychic
+Chlorophyll, Harvest
+ 60
+ 40
+ 80
+ 60
+ 45
+ 40
+  2.5 kg

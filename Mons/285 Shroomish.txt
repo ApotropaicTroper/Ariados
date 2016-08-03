@@ -1,0 +1,9 @@
+Shroomish
+GrassEffect Spore, Poison Heal, Quick Feet
+ 60
+ 40
+ 60
+ 40
+ 60
+ 35
+  4.5 kg

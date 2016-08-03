@@ -1,0 +1,10 @@
+Skiploom
+Grass / Flying
+Chlorophyll, Leaf Guard, Infiltrator
+ 55
+ 45
+ 50
+ 45
+ 65
+ 80
+  1.0 kg

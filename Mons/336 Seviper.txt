@@ -1,0 +1,9 @@
+Seviper
+PoisonShed Skin, Infiltrator
+ 73
+100
+ 60
+100
+ 60
+ 65
+ 52.5 kg

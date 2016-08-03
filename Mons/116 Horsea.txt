@@ -1,0 +1,9 @@
+Horsea
+WaterSwift Swim, Sniper, Damp
+ 30
+ 40
+ 70
+ 70
+ 25
+ 60
+  8.0 kg

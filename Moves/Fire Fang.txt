@@ -1,0 +1,47 @@
+Fire Fang
+Fire / Physical
+65
+95%
+15 PP
+Flareon
+Darmanitan
+Stoutland
+Tyranitar
+Growlithe
+Salamence
+Arbok
+Heatran
+Poochyena
+Deino
+Gliscor
+Charizard
+Litleo
+Reshiram
+Druddigon
+Garchomp
+Hippowdon
+Drapion
+Darumaka
+Granbull
+Smeargle
+Electrike
+Exploud
+Lillipup
+Tyrunt
+Rhyhorn
+Entei
+Steelix
+Houndoom
+Mawile
+Aerodactyl
+Shinx
+Bagon
+Snubbull
+Charmeleon
+Pyroar
+Houndour
+Sandile
+Arcanine
+Manectric
+Donphan
+Charmander

@@ -1,0 +1,10 @@
+Seismitoad
+Water / Ground
+Swift Swim, Poison Touch, Water Absorb
+105
+ 95
+ 75
+ 85
+ 75
+ 74
+ 62.0 kg

@@ -1,0 +1,9 @@
+Marowak
+GroundRock Head, Lightning Rod, Battle Armor
+ 60
+ 80
+110
+ 50
+ 80
+ 45
+ 45.0 kg

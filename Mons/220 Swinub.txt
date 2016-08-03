@@ -1,0 +1,10 @@
+Swinub
+Ice / Ground
+Oblivious, Snow Cloak, Thick Fat
+ 50
+ 50
+ 40
+ 30
+ 30
+ 50
+  6.5 kg

@@ -1,0 +1,10 @@
+Lotad
+Water / Grass
+Swift Swim, Rain Dish, Own Tempo
+ 40
+ 30
+ 30
+ 40
+ 50
+ 30
+  2.6 kg

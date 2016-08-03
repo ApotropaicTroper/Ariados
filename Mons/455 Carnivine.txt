@@ -1,0 +1,9 @@
+Carnivine
+GrassLevitate
+ 74
+100
+ 72
+ 90
+ 72
+ 46
+ 27.0 kg

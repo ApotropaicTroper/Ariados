@@ -1,0 +1,9 @@
+Hippowdon
+GroundSand Stream, Sand Force
+108
+112
+118
+ 68
+ 72
+ 47
+300.0 kg

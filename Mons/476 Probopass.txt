@@ -1,0 +1,10 @@
+Probopass
+Rock / Steel
+Sturdy, Magnet Pull, Sand Force
+ 60
+ 55
+145
+ 75
+150
+ 40
+340.0 kg

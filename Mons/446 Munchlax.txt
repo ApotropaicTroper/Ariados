@@ -1,0 +1,9 @@
+Munchlax
+NormalPickup, Thick Fat, Gluttony
+135
+ 85
+ 40
+ 40
+ 85
+  5
+105.0 kg

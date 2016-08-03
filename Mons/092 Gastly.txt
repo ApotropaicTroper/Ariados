@@ -1,0 +1,10 @@
+Gastly
+Ghost / Poison
+Levitate
+ 30
+ 35
+ 30
+100
+ 35
+ 80
+  0.1 kg

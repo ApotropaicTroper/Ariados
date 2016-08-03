@@ -1,0 +1,10 @@
+Tentacool
+Water / Poison
+Clear Body, Liquid Ooze, Rain Dish
+ 40
+ 40
+ 35
+ 50
+100
+ 70
+ 45.5 kg

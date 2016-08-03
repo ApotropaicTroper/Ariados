@@ -1,0 +1,9 @@
+Cacnea
+GrassSand Veil, Water Absorb
+ 50
+ 85
+ 40
+ 85
+ 40
+ 35
+ 51.3 kg

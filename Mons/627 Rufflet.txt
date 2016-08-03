@@ -1,0 +1,10 @@
+Rufflet
+Normal / Flying
+Keen Eye, Sheer Force, Hustle
+ 70
+ 83
+ 50
+ 37
+ 50
+ 60
+ 10.5 kg

@@ -1,0 +1,9 @@
+Kecleon
+NormalColor Change, Protean
+ 60
+ 90
+ 70
+ 60
+120
+ 40
+ 22.0 kg

@@ -1,0 +1,9 @@
+Audino
+NormalHealer, Regenerator, Klutz
+103
+ 60
+ 86
+ 60
+ 86
+ 50
+ 31.0 kg

@@ -1,0 +1,9 @@
+Drilbur
+GroundSand Rush, Sand Force, Mold Breaker
+ 60
+ 85
+ 40
+ 30
+ 45
+ 68
+  8.5 kg

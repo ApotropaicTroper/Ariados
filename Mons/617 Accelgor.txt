@@ -1,0 +1,9 @@
+Accelgor
+BugHydration, Sticky Hold, Unburden
+ 80
+ 70
+ 40
+100
+ 60
+145
+ 25.3 kg

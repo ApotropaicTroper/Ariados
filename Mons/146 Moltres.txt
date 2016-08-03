@@ -1,0 +1,10 @@
+Moltres
+Fire / Flying
+Pressure, Flame Body
+ 90
+100
+ 90
+125
+ 85
+ 90
+ 60.0 kg

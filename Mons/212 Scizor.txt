@@ -1,0 +1,10 @@
+Scizor
+Bug / Steel
+Swarm, Technician, Light Metal
+ 70
+130
+100
+ 55
+ 80
+ 65
+118.0 kg

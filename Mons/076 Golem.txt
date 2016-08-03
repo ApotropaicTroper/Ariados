@@ -1,0 +1,10 @@
+Golem
+Rock / Ground
+Rock Head, Sturdy, Sand Veil
+ 80
+120
+130
+ 55
+ 65
+ 45
+300.0 kg

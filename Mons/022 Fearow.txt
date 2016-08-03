@@ -1,0 +1,10 @@
+Fearow
+Normal / Flying
+Keen Eye, Sniper
+ 65
+ 90
+ 65
+ 61
+ 61
+100
+ 38.0 kg

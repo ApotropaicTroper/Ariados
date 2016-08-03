@@ -1,0 +1,9 @@
+Regirock
+RockClear Body, Sturdy
+ 80
+100
+200
+ 50
+100
+ 50
+230.0 kg

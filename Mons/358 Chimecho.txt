@@ -1,0 +1,9 @@
+Chimecho
+PsychicLevitate
+ 65
+ 50
+ 70
+ 95
+ 80
+ 65
+  1.0 kg

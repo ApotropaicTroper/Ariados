@@ -1,0 +1,9 @@
+Furret
+NormalRun Away, Keen Eye, Frisk
+ 85
+ 76
+ 64
+ 45
+ 55
+ 90
+ 32.5 kg

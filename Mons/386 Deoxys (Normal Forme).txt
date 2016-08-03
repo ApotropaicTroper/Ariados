@@ -1,0 +1,10 @@
+Deoxys
+Normal Forme
+PsychicPressure
+ 50
+150
+ 50
+150
+ 50
+150
+ 60.8 kg

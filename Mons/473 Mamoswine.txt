@@ -1,0 +1,10 @@
+Mamoswine
+Ice / Ground
+Oblivious, Snow Cloak, Thick Fat
+110
+130
+ 80
+ 70
+ 60
+ 80
+291.0 kg

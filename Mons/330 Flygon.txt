@@ -1,0 +1,10 @@
+Flygon
+Ground / Dragon
+Levitate
+ 80
+100
+ 80
+ 80
+ 80
+100
+ 82.0 kg

@@ -1,0 +1,10 @@
+Articuno
+Ice / Flying
+Pressure, Snow Cloak
+ 90
+ 85
+100
+ 95
+125
+ 85
+ 55.4 kg

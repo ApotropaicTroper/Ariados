@@ -1,0 +1,9 @@
+Plusle
+ElectricPlus, Lightning Rod
+ 60
+ 50
+ 40
+ 85
+ 75
+ 95
+  4.2 kg

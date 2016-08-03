@@ -1,0 +1,9 @@
+Pineco
+BugSturdy, Overcoat
+ 50
+ 65
+ 90
+ 35
+ 35
+ 15
+  7.2 kg

@@ -1,0 +1,9 @@
+Flareon
+FireFlash Fire, Guts
+ 65
+130
+ 60
+ 95
+110
+ 65
+ 25.0 kg

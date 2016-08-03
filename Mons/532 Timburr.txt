@@ -1,0 +1,9 @@
+Timburr
+FightingGuts, Sheer Force, Iron Fist
+ 75
+ 80
+ 55
+ 25
+ 35
+ 35
+ 12.5 kg

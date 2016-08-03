@@ -1,0 +1,9 @@
+Muk
+PoisonStench, Sticky Hold, Poison Touch
+105
+105
+ 75
+ 65
+100
+ 50
+ 30.0 kg

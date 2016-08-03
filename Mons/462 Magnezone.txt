@@ -1,0 +1,10 @@
+Magnezone
+Electric / Steel
+Magnet Pull, Sturdy, Analytic
+ 70
+ 70
+115
+130
+ 90
+ 60
+180.0 kg

@@ -1,0 +1,10 @@
+Mega Audino
+Normal / Fairy
+Healer
+103
+ 60
+126
+ 80
+126
+ 50
+ 31.0 kg

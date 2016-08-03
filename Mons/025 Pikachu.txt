@@ -1,0 +1,9 @@
+Pikachu
+ElectricStatic, Lightning Rod
+ 35
+ 55
+ 40
+ 50
+ 50
+ 90
+  6.0 kg

@@ -1,0 +1,10 @@
+Omanyte
+Rock / Water
+Swift Swim, Shell Armor, Weak Armor
+ 35
+ 40
+100
+ 90
+ 55
+ 35
+  7.5 kg

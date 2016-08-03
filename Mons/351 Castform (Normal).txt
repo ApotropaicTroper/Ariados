@@ -1,0 +1,10 @@
+Castform
+Normal
+NormalForecast
+ 70
+ 70
+ 70
+ 70
+ 70
+ 70
+  0.8 kg

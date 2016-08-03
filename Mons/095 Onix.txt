@@ -1,0 +1,10 @@
+Onix
+Rock / Ground
+Rock Head, Sturdy, Weak Armor
+ 35
+ 45
+160
+ 30
+ 45
+ 70
+210.0 kg

@@ -1,0 +1,9 @@
+Meganium
+GrassOvergrow
+ 80
+ 82
+100
+ 83
+100
+ 80
+100.5 kg

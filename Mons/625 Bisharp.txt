@@ -1,0 +1,10 @@
+Bisharp
+Dark / Steel
+Defiant, Inner Focus, Pressure
+ 65
+125
+100
+ 60
+ 70
+ 70
+ 70.0 kg

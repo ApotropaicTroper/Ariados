@@ -1,0 +1,9 @@
+Bergmite
+IceOwn Tempo, Ice Body, Sturdy
+ 55
+ 69
+ 85
+ 32
+ 35
+ 28
+ 99.5 kg

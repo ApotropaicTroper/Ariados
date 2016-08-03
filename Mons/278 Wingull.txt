@@ -1,0 +1,10 @@
+Wingull
+Water / Flying
+Keen Eye, Rain Dish
+ 40
+ 30
+ 30
+ 55
+ 30
+ 85
+  9.5 kg

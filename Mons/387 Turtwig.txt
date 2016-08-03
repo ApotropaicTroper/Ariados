@@ -1,0 +1,9 @@
+Turtwig
+GrassOvergrow, Shell Armor
+ 55
+ 68
+ 64
+ 45
+ 55
+ 31
+ 10.2 kg

@@ -1,0 +1,10 @@
+Mega Steelix
+Steel / Ground
+Sand Force
+ 75
+125
+230
+ 55
+ 95
+ 30
+400.0 kg

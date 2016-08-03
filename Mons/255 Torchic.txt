@@ -1,0 +1,9 @@
+Torchic
+FireBlaze, Speed Boost
+ 45
+ 60
+ 40
+ 70
+ 50
+ 45
+  2.5 kg

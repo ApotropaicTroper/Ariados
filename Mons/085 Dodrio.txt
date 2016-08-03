@@ -1,0 +1,10 @@
+Dodrio
+Normal / Flying
+Run Away, Early Bird, Tangled Feet
+ 60
+110
+ 70
+ 60
+ 60
+100
+ 85.2 kg

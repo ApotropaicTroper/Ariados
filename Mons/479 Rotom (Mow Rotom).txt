@@ -1,0 +1,10 @@
+Mow Rotom
+Electric / Grass
+Levitate
+ 50
+ 65
+107
+105
+107
+ 86
+  0.3 kg

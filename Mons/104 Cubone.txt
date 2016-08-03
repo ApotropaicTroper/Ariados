@@ -1,0 +1,9 @@
+Cubone
+GroundRock Head, Lightning Rod, Battle Armor
+ 50
+ 50
+ 95
+ 40
+ 50
+ 35
+  6.5 kg

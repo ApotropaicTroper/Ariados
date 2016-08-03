@@ -1,0 +1,10 @@
+Magneton
+Electric / Steel
+Magnet Pull, Sturdy, Analytic
+ 50
+ 60
+ 95
+120
+ 70
+ 70
+ 60.0 kg

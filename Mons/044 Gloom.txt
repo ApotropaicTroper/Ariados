@@ -1,0 +1,10 @@
+Gloom
+Grass / Poison
+Chlorophyll, Stench
+ 60
+ 65
+ 70
+ 85
+ 75
+ 40
+  8.6 kg

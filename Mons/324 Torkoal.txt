@@ -1,0 +1,9 @@
+Torkoal
+FireWhite Smoke, Shell Armor
+ 70
+ 85
+140
+ 85
+ 70
+ 20
+ 80.4 kg

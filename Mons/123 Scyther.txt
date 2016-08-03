@@ -1,0 +1,10 @@
+Scyther
+Bug / Flying
+Swarm, Technician, Steadfast
+ 70
+110
+ 80
+ 55
+ 80
+105
+ 56.0 kg

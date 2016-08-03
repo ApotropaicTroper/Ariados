@@ -1,0 +1,10 @@
+Lampent
+Ghost / Fire
+Flash Fire, Flame Body, Infiltrator
+ 60
+ 40
+ 60
+ 95
+ 60
+ 55
+ 13.0 kg

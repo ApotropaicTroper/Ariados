@@ -1,0 +1,10 @@
+Solrock
+Rock / Psychic
+Levitate
+ 70
+ 95
+ 85
+ 55
+ 65
+ 70
+154.0 kg

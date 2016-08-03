@@ -1,0 +1,10 @@
+Dewgong
+Water / Ice
+Thick Fat, Hydration, Ice Body
+ 90
+ 70
+ 80
+ 70
+ 95
+ 70
+120.0 kg

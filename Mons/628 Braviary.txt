@@ -1,0 +1,10 @@
+Braviary
+Normal / Flying
+Keen Eye, Sheer Force, Defiant
+100
+123
+ 75
+ 57
+ 75
+ 80
+ 41.0 kg

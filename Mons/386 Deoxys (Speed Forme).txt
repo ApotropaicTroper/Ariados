@@ -1,0 +1,10 @@
+Deoxys
+Speed Forme
+PsychicPressure
+ 50
+ 95
+ 90
+ 95
+ 90
+180
+ 60.8 kg

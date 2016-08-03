@@ -1,0 +1,10 @@
+Gengar
+Ghost / Poison
+Levitate
+ 60
+ 65
+ 60
+130
+ 75
+110
+ 40.5 kg

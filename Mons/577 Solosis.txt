@@ -1,0 +1,9 @@
+Solosis
+PsychicOvercoat, Magic Guard, Regenerator
+ 45
+ 30
+ 40
+105
+ 50
+ 20
+  1.0 kg

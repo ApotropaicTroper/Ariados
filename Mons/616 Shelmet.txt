@@ -1,0 +1,9 @@
+Shelmet
+BugHydration, Shell Armor, Overcoat
+ 50
+ 40
+ 85
+ 40
+ 65
+ 25
+  7.7 kg

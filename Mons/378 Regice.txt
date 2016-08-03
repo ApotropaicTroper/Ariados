@@ -1,0 +1,9 @@
+Regice
+IceClear Body, Ice Body
+ 80
+ 50
+100
+100
+200
+ 50
+175.0 kg

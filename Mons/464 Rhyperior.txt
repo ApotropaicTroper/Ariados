@@ -1,0 +1,10 @@
+Rhyperior
+Ground / Rock
+Lightning Rod, Solid Rock, Reckless
+115
+140
+130
+ 55
+ 55
+ 40
+282.8 kg

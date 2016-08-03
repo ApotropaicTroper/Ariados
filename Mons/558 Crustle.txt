@@ -1,0 +1,10 @@
+Crustle
+Bug / Rock
+Sturdy, Shell Armor, Weak Armor
+ 70
+ 95
+125
+ 65
+ 75
+ 45
+200.0 kg

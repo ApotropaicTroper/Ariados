@@ -1,0 +1,9 @@
+Voltorb
+ElectricSoundproof, Static, Aftermath
+ 40
+ 30
+ 50
+ 55
+ 55
+100
+ 10.4 kg

@@ -1,0 +1,9 @@
+Eelektross
+ElectricLevitate
+ 85
+115
+ 80
+105
+ 80
+ 50
+ 80.5 kg

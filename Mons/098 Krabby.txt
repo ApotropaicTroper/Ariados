@@ -1,0 +1,9 @@
+Krabby
+WaterHyper Cutter, Shell Armor, Sheer Force
+ 30
+105
+ 90
+ 25
+ 25
+ 50
+  6.5 kg

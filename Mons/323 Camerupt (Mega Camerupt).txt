@@ -1,0 +1,10 @@
+Mega Camerupt
+Fire / Ground
+Sheer Force
+ 70
+120
+100
+145
+105
+ 20
+220.0 kg

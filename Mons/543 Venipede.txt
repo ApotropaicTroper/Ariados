@@ -1,0 +1,10 @@
+Venipede
+Bug / Poison
+Poison Point, Swarm, Speed Boost
+ 30
+ 45
+ 59
+ 30
+ 39
+ 57
+  5.3 kg

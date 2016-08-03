@@ -1,0 +1,10 @@
+Deoxys
+Defense Forme
+PsychicPressure
+ 50
+ 70
+160
+ 70
+160
+ 90
+ 60.8 kg

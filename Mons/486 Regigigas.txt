@@ -1,0 +1,9 @@
+Regigigas
+NormalSlow Start
+110
+160
+110
+ 80
+110
+100
+420.0 kg

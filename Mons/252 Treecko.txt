@@ -1,0 +1,9 @@
+Treecko
+GrassOvergrow, Unburden
+ 40
+ 45
+ 35
+ 65
+ 55
+ 70
+  5.0 kg

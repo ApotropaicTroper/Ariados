@@ -1,0 +1,10 @@
+Quagsire
+Water / Ground
+Damp, Water Absorb, Unaware
+ 95
+ 85
+ 85
+ 65
+ 65
+ 35
+ 75.0 kg

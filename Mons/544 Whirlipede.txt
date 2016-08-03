@@ -1,0 +1,10 @@
+Whirlipede
+Bug / Poison
+Poison Point, Swarm, Speed Boost
+ 40
+ 55
+ 99
+ 40
+ 79
+ 47
+ 58.5 kg

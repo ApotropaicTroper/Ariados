@@ -1,0 +1,9 @@
+Bonsly
+RockSturdy, Rock Head, Rattled
+ 50
+ 80
+ 95
+ 10
+ 45
+ 10
+ 15.0 kg

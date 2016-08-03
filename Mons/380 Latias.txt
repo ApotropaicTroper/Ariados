@@ -1,0 +1,10 @@
+Latias
+Dragon / Psychic
+Levitate
+ 80
+ 80
+ 90
+110
+130
+110
+ 40.0 kg

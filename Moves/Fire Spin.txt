@@ -1,0 +1,36 @@
+Fire Spin
+Fire / Special
+35
+85%
+15 PP
+Moltres
+Flareon
+Magby
+Solrock
+Growlithe
+Heatran
+Ponyta
+Lampent
+Pansear
+Charizard
+Litleo
+Magmortar
+Volcarona
+Heatmor
+Fennekin
+Infernape
+Torkoal
+Smeargle
+Vulpix
+Entei
+Torchic
+Magmar
+Litwick
+Rapidash
+Braixen
+Delphox
+Charmeleon
+Chimchar
+Houndour
+Monferno
+Charmander

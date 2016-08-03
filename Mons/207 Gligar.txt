@@ -1,0 +1,10 @@
+Gligar
+Ground / Flying
+Hyper Cutter, Sand Veil, Immunity
+ 65
+ 75
+105
+ 35
+ 65
+ 85
+ 64.8 kg

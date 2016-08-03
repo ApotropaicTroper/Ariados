@@ -1,0 +1,10 @@
+Zubat
+Poison / Flying
+Inner Focus, Infiltrator
+ 40
+ 45
+ 35
+ 30
+ 40
+ 55
+  7.5 kg

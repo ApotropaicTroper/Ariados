@@ -1,0 +1,9 @@
+Nosepass
+RockSturdy, Magnet Pull, Sand Force
+ 30
+ 45
+135
+ 45
+ 90
+ 30
+ 97.0 kg

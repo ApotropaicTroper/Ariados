@@ -1,0 +1,10 @@
+Venusaur
+Grass / Poison
+Overgrow, Chlorophyll
+ 80
+ 82
+ 83
+100
+100
+ 80
+100.0 kg

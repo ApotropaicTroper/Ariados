@@ -1,0 +1,9 @@
+Kingler
+WaterHyper Cutter, Shell Armor, Sheer Force
+ 55
+130
+115
+ 50
+ 50
+ 75
+ 60.0 kg

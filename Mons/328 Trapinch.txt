@@ -1,0 +1,9 @@
+Trapinch
+GroundHyper Cutter, Arena Trap, Sheer Force
+ 45
+100
+ 45
+ 45
+ 45
+ 10
+ 15.0 kg

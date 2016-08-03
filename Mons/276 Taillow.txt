@@ -1,0 +1,10 @@
+Taillow
+Normal / Flying
+Guts, Scrappy
+ 40
+ 55
+ 30
+ 30
+ 30
+ 85
+  2.3 kg

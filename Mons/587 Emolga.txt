@@ -1,0 +1,10 @@
+Emolga
+Electric / Flying
+Static, Motor Drive
+ 55
+ 75
+ 60
+ 75
+ 60
+103
+  5.0 kg

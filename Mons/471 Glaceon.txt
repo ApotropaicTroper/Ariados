@@ -1,0 +1,9 @@
+Glaceon
+IceSnow Cloak, Ice Body
+ 65
+ 60
+110
+130
+ 95
+ 65
+ 25.9 kg

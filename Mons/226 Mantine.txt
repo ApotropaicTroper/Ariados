@@ -1,0 +1,10 @@
+Mantine
+Water / Flying
+Swift Swim, Water Absorb, Water Veil
+ 65
+ 40
+ 70
+ 80
+140
+ 70
+220.0 kg

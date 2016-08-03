@@ -1,0 +1,9 @@
+Grotle
+GrassOvergrow, Shell Armor
+ 75
+ 89
+ 85
+ 55
+ 65
+ 36
+ 97.0 kg

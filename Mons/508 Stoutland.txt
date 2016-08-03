@@ -1,0 +1,9 @@
+Stoutland
+NormalIntimidate, Sand Rush, Scrappy
+ 85
+110
+ 90
+ 45
+ 90
+ 80
+ 61.0 kg

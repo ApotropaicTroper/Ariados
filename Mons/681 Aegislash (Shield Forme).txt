@@ -1,0 +1,11 @@
+Aegislash
+Shield Forme
+Steel / Ghost
+Stance Change
+ 60
+ 50
+150
+ 50
+150
+ 60
+ 53.0 kg

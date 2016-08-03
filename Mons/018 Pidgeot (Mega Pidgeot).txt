@@ -1,0 +1,10 @@
+Mega Pidgeot
+Normal / Flying
+No Guard
+ 83
+ 80
+ 80
+135
+ 80
+121
+ 39.5 kg

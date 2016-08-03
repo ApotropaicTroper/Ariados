@@ -1,0 +1,9 @@
+Slugma
+FireMagma Armor, Flame Body, Weak Armor
+ 40
+ 40
+ 40
+ 70
+ 40
+ 20
+ 35.0 kg

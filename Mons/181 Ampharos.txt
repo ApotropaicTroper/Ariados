@@ -1,0 +1,9 @@
+Ampharos
+ElectricStatic, Plus
+ 90
+ 75
+ 85
+115
+ 90
+ 55
+ 61.5 kg

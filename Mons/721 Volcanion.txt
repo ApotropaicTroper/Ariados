@@ -1,0 +1,10 @@
+Volcanion
+Fire / Water
+Water Absorb
+ 80
+110
+120
+130
+ 90
+ 70
+195.0 kg

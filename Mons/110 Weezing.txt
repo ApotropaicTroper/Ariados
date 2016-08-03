@@ -1,0 +1,9 @@
+Weezing
+PoisonLevitate
+ 65
+ 90
+120
+ 85
+ 70
+ 60
+  9.5 kg

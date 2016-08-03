@@ -1,0 +1,9 @@
+Dugtrio
+GroundSand Veil, Arena Trap, Sand Force
+ 35
+ 80
+ 50
+ 50
+ 70
+120
+ 33.3 kg

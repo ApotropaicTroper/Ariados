@@ -1,0 +1,10 @@
+Marshtomp
+Water / Ground
+Torrent, Damp
+ 70
+ 85
+ 70
+ 60
+ 70
+ 50
+ 28.0 kg

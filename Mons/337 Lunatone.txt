@@ -1,0 +1,10 @@
+Lunatone
+Rock / Psychic
+Levitate
+ 70
+ 55
+ 65
+ 95
+ 85
+ 70
+168.0 kg

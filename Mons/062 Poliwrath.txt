@@ -1,0 +1,10 @@
+Poliwrath
+Water / Fighting
+Water Absorb, Damp, Swift Swim
+ 90
+ 95
+ 95
+ 70
+ 90
+ 70
+ 54.0 kg

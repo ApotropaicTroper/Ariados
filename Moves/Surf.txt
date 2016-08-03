@@ -1,0 +1,6 @@
+Surf
+Water / Special
+90
+100%
+15 PP
+Event move

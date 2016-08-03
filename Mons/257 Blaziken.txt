@@ -1,0 +1,10 @@
+Blaziken
+Fire / Fighting
+Blaze, Speed Boost
+ 80
+120
+ 70
+110
+ 70
+ 80
+ 52.0 kg

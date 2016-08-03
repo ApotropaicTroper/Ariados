@@ -1,0 +1,9 @@
+Vigoroth
+NormalVital Spirit
+ 80
+ 80
+ 80
+ 55
+ 55
+ 90
+ 46.5 kg

@@ -1,0 +1,10 @@
+Combusken
+Fire / Fighting
+Blaze, Speed Boost
+ 60
+ 85
+ 60
+ 85
+ 60
+ 55
+ 19.5 kg

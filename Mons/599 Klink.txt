@@ -1,0 +1,9 @@
+Klink
+SteelPlus, Minus, Clear Body
+ 40
+ 55
+ 70
+ 45
+ 60
+ 30
+ 21.0 kg

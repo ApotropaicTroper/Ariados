@@ -1,0 +1,10 @@
+Dustox
+Bug / Poison
+Shield Dust, Compound Eyes
+ 60
+ 50
+ 70
+ 50
+ 90
+ 65
+ 31.6 kg

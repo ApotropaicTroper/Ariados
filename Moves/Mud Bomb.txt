@@ -1,0 +1,35 @@
+Mud Bomb
+Ground / Special
+65
+85%
+10 PP
+Quagsire
+Gastrodon
+Toxicroak
+Smeargle
+Skitty
+Piloswine
+Happiny
+Arbok
+Muk
+Wooper
+Tympole
+Swinub
+Whiscash
+Mamoswine
+Stunfisk
+Diglett
+Chansey
+Poliwhirl
+Poliwag
+Numel
+Barboach
+Croagunk
+Mudkip
+Swampert
+Grimer
+Shellos
+Psyduck
+Dugtrio
+Ekans
+Marshtomp

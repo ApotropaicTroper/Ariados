@@ -1,0 +1,9 @@
+Linoone
+NormalPickup, Gluttony, Quick Feet
+ 78
+ 70
+ 61
+ 50
+ 61
+100
+ 32.5 kg

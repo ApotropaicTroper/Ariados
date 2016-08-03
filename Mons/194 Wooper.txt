@@ -1,0 +1,10 @@
+Wooper
+Water / Ground
+Damp, Water Absorb, Unaware
+ 55
+ 45
+ 45
+ 25
+ 25
+ 15
+  8.5 kg

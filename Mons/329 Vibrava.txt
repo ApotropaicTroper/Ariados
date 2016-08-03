@@ -1,0 +1,10 @@
+Vibrava
+Ground / Dragon
+Levitate
+ 50
+ 70
+ 50
+ 50
+ 50
+ 70
+ 15.3 kg

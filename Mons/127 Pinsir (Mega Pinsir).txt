@@ -1,0 +1,10 @@
+Mega Pinsir
+Bug / Flying
+Aerilate
+ 65
+155
+120
+ 65
+ 90
+105
+ 55.0 kg

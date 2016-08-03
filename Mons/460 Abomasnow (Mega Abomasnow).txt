@@ -1,0 +1,10 @@
+Mega Abomasnow
+Grass / Ice
+Snow Warning
+ 90
+132
+105
+132
+105
+ 30
+135.5 kg

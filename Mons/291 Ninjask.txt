@@ -1,0 +1,10 @@
+Ninjask
+Bug / Flying
+Speed Boost, Infiltrator
+ 61
+ 90
+ 45
+ 50
+ 50
+160
+ 12.0 kg

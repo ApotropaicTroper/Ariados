@@ -1,0 +1,9 @@
+Lillipup
+NormalVital Spirit, Pickup, Run Away
+ 45
+ 60
+ 45
+ 25
+ 45
+ 55
+  4.1 kg

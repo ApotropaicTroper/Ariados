@@ -1,0 +1,10 @@
+Magcargo
+Fire / Rock
+Magma Armor, Flame Body, Weak Armor
+ 50
+ 50
+120
+ 80
+ 80
+ 30
+ 55.0 kg

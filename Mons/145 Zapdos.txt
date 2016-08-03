@@ -1,0 +1,10 @@
+Zapdos
+Electric / Flying
+Pressure, Static
+ 90
+ 90
+ 85
+125
+ 90
+100
+ 52.6 kg

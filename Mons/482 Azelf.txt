@@ -1,0 +1,9 @@
+Azelf
+PsychicLevitate
+ 75
+125
+ 70
+125
+ 70
+115
+  0.3 kg

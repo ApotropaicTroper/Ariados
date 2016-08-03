@@ -1,0 +1,10 @@
+Spearow
+Normal / Flying
+Keen Eye, Sniper
+ 40
+ 60
+ 30
+ 31
+ 31
+ 70
+  2.0 kg

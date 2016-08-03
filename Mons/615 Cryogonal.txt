@@ -1,0 +1,9 @@
+Cryogonal
+IceLevitate
+ 70
+ 50
+ 30
+ 95
+135
+105
+148.0 kg

@@ -1,0 +1,9 @@
+Grovyle
+GrassOvergrow, Unburden
+ 50
+ 65
+ 45
+ 85
+ 65
+ 95
+ 21.6 kg

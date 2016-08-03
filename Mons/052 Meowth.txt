@@ -1,0 +1,9 @@
+Meowth
+NormalPickup, Technician, Unnerve
+ 40
+ 45
+ 35
+ 40
+ 40
+ 90
+  4.2 kg

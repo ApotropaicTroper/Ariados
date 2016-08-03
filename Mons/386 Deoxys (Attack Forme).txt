@@ -1,0 +1,10 @@
+Deoxys
+Attack Forme
+PsychicPressure
+ 50
+180
+ 20
+180
+ 20
+150
+ 60.8 kg

@@ -1,0 +1,9 @@
+Metapod
+BugShed Skin
+ 50
+ 20
+ 55
+ 25
+ 25
+ 30
+  9.9 kg

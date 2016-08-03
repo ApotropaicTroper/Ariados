@@ -1,0 +1,10 @@
+Pelipper
+Water / Flying
+Keen Eye, Rain Dish
+ 60
+ 50
+100
+ 85
+ 70
+ 65
+ 28.0 kg

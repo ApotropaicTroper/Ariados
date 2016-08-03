@@ -1,0 +1,10 @@
+Kabuto
+Rock / Water
+Swift Swim, Battle Armor, Weak Armor
+ 30
+ 80
+ 90
+ 55
+ 45
+ 55
+ 11.5 kg

@@ -1,0 +1,8 @@
+Bonemerang
+Ground / Physical
+50
+90%
+10 PP
+Cubone
+Marowak
+Smeargle

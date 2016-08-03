@@ -1,0 +1,10 @@
+Kakuna
+Bug / Poison
+Shed Skin
+ 45
+ 25
+ 50
+ 25
+ 25
+ 35
+ 10.0 kg

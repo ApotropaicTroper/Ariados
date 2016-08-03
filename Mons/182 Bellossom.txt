@@ -1,0 +1,9 @@
+Bellossom
+GrassChlorophyll, Healer
+ 75
+ 80
+ 95
+ 90
+100
+ 50
+  5.8 kg

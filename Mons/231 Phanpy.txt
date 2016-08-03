@@ -1,0 +1,9 @@
+Phanpy
+GroundPickup, Sand Veil
+ 90
+ 60
+ 60
+ 40
+ 40
+ 40
+ 33.5 kg

@@ -1,0 +1,9 @@
+Servine
+GrassOvergrow, Contrary
+ 60
+ 60
+ 75
+ 60
+ 75
+ 83
+   16 kg

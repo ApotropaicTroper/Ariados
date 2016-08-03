@@ -1,0 +1,6 @@
+Blaze Kick
+Fire / Physical
+85
+90%
+10 PP
+Event move

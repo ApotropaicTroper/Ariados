@@ -1,0 +1,10 @@
+Carracosta
+Water / Rock
+Solid Rock, Sturdy, Swift Swim
+ 74
+108
+133
+ 83
+ 65
+ 32
+ 81.0 kg

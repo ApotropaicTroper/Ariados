@@ -1,0 +1,10 @@
+Relicanth
+Water / Rock
+Swift Swim, Rock Head, Sturdy
+100
+ 90
+130
+ 45
+ 65
+ 55
+ 23.4 kg

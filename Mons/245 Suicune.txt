@@ -1,0 +1,9 @@
+Suicune
+WaterPressure, Water Absorb
+100
+ 75
+115
+ 90
+115
+ 85
+187.0 kg

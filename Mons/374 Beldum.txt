@@ -1,0 +1,10 @@
+Beldum
+Steel / Psychic
+Clear Body, Light Metal
+ 40
+ 55
+ 80
+ 35
+ 60
+ 30
+ 95.2 kg

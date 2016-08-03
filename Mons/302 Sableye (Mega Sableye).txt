@@ -1,0 +1,10 @@
+Mega Sableye
+Dark / Ghost
+Magic Bounce
+ 50
+ 85
+125
+ 85
+115
+ 20
+ 11.0 kg

@@ -1,0 +1,10 @@
+Lapras
+Water / Ice
+Water Absorb, Shell Armor, Hydration
+130
+ 85
+ 80
+ 85
+ 95
+ 60
+220.0 kg

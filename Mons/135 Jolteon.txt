@@ -1,0 +1,9 @@
+Jolteon
+ElectricVolt Absorb, Quick Feet
+ 65
+ 65
+ 60
+110
+ 95
+130
+ 24.5 kg

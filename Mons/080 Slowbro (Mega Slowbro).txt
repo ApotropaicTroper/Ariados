@@ -1,0 +1,10 @@
+Mega Slowbro
+Water / Psychic
+Shell Armor
+ 95
+ 75
+180
+130
+ 80
+ 30
+ 78.5 kg

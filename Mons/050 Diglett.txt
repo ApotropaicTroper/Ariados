@@ -1,0 +1,9 @@
+Diglett
+GroundSand Veil, Arena Trap, Sand Force
+ 10
+ 55
+ 25
+ 35
+ 45
+ 95
+  0.8 kg

@@ -1,0 +1,10 @@
+Numel
+Fire / Ground
+Oblivious, Simple, Own Tempo
+ 60
+ 60
+ 40
+ 65
+ 45
+ 35
+ 24.0 kg

@@ -1,0 +1,10 @@
+Spheal
+Ice / Water
+Thick Fat, Ice Body, Oblivious
+ 70
+ 40
+ 50
+ 55
+ 50
+ 25
+ 39.5 kg

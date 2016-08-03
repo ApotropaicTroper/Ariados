@@ -1,0 +1,10 @@
+Spinarak
+Bug / Poison
+Swarm, Insomnia, Sniper
+ 40
+ 60
+ 40
+ 40
+ 40
+ 30
+  8.5 kg

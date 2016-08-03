@@ -1,0 +1,8623 @@
+Bulbasaur
+Overgrow, Chlorophyll (Hidden Ability)
+6.9
+Grass / Poison
+ 45
+ 49
+ 49
+ 65
+ 65
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ivysaur
+Overgrow, Chlorophyll (Hidden Ability)
+13.0
+Grass / Poison
+ 60
+ 62
+ 63
+ 80
+ 80
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Venusaur
+Overgrow, Chlorophyll (Hidden Ability), Thick Fat (Mega Venusaur)
+ Forms:
+Venusaur
+100.0
+Grass / Poison
+ 80
+ 82
+ 83
+ 100
+ 100
+ 80
+Mega Venusaur
+155.5
+Grass / Poison
+ 80
+ 100
+ 123
+ 122
+ 120
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Charmander
+Blaze, Solar Power (Hidden Ability)
+8.5
+Fire
+ 39
+ 52
+ 43
+ 60
+ 50
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Charmeleon
+Blaze, Solar Power (Hidden Ability)
+19.0
+Fire
+ 58
+ 64
+ 58
+ 80
+ 65
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Charizard
+Blaze, Solar Power (Hidden Ability), Tough Claws (Mega Charizard X), Drought (Mega Charizard Y)
+ Forms:
+Charizard
+90.5
+Fire / Flying
+ 78
+ 84
+ 78
+ 109
+ 85
+ 100
+Mega Charizard X
+110.5
+Fire / Dragon
+ 78
+ 130
+ 111
+ 130
+ 85
+ 100
+Mega Charizard Y
+100.5
+Fire / Flying
+ 78
+ 104
+ 78
+ 159
+ 115
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Squirtle
+Torrent, Rain Dish (Hidden Ability)
+9.0
+Water
+ 44
+ 48
+ 65
+ 50
+ 64
+ 43
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Wartortle
+Torrent, Rain Dish (Hidden Ability)
+22.5
+Water
+ 59
+ 63
+ 80
+ 65
+ 80
+ 58
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Blastoise
+Torrent, Rain Dish (Hidden Ability), Mega Launcher (Mega Blastoise)
+ Forms:
+Blastoise
+85.5
+Water
+ 79
+ 83
+ 100
+ 85
+ 105
+ 78
+Mega Blastoise
+101.1
+Water
+ 79
+ 103
+ 120
+ 135
+ 115
+ 78
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Caterpie
+Shield Dust, Run Away (Hidden Ability)
+2.9
+Bug
+ 45
+ 30
+ 35
+ 20
+ 20
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Metapod
+Shed Skin
+9.9
+Bug
+ 50
+ 20
+ 55
+ 25
+ 25
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Butterfree
+Compound Eyes, Tinted Lens (Hidden Ability)
+ Forms:
+Generation I-V
+32.0
+Bug / Flying
+ 60
+ 45
+ 50
+ 80
+ 80
+ 70
+Generation VI
+32.0
+Bug / Flying
+ 60
+ 45
+ 50
+ 90
+ 80
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Weedle
+Shield Dust, Run Away (Hidden Ability)
+3.2
+Bug / Poison
+ 40
+ 35
+ 30
+ 20
+ 20
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kakuna
+Shed Skin
+10.0
+Bug / Poison
+ 45
+ 25
+ 50
+ 25
+ 25
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Beedrill
+Swarm, Sniper (Hidden Ability), Adaptability (Mega Beedrill)
+ Forms:
+Generation I-V
+29.5
+Bug / Poison
+ 65
+ 80
+ 40
+ 45
+ 80
+ 75
+Generation VI
+40.5
+Bug / Poison
+ 65
+ 90
+ 40
+ 45
+ 80
+ 75
+Mega Beedrill
+29.5
+Bug / Poison
+ 65
+ 150
+ 40
+ 15
+ 80
+ 145
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pidgey
+Keen Eye, Tangled Feet, Big Pecks (Hidden Ability)
+1.8
+Normal / Flying
+ 40
+ 45
+ 40
+ 35
+ 35
+ 56
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pidgeotto
+Keen Eye, Tangled Feet, Big Pecks (Hidden Ability)
+30.0
+Normal / Flying
+ 63
+ 60
+ 55
+ 50
+ 50
+ 71
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pidgeot
+Keen Eye, Tangled Feet, Big Pecks (Hidden Ability), No Guard (Mega Pidgeot)
+ Forms:
+Generation I-V
+39.5
+Normal / Flying
+ 83
+ 80
+ 75
+ 70
+ 70
+ 91
+Generation VI
+50.5
+Normal / Flying
+ 83
+ 80
+ 75
+ 70
+ 70
+ 101
+Mega Pidgeot
+39.5
+Normal / Flying
+ 83
+ 80
+ 80
+ 135
+ 80
+ 121
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rattata
+Run Away, Guts, Hustle (Hidden Ability)
+3.5
+Normal
+ 30
+ 56
+ 35
+ 25
+ 35
+ 72
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Raticate
+Run Away, Guts, Hustle (Hidden Ability)
+18.5
+Normal
+ 55
+ 81
+ 60
+ 50
+ 70
+ 97
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Spearow
+Keen Eye, Sniper (Hidden Ability)
+2.0
+Normal / Flying
+ 40
+ 60
+ 30
+ 31
+ 31
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Fearow
+Keen Eye, Sniper (Hidden Ability)
+38.0
+Normal / Flying
+ 65
+ 90
+ 65
+ 61
+ 61
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ekans
+Intimidate, Shed Skin, Unnerve (Hidden Ability)
+6.9
+Poison
+ 35
+ 60
+ 44
+ 40
+ 54
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Arbok
+Intimidate, Shed Skin, Unnerve (Hidden Ability)
+65.0
+Poison
+ 60
+ 85
+ 69
+ 65
+ 79
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pikachu
+Static, Lightning Rod (Cosplay), Lightning Rod (Hidden Ability)
+ Forms:
+Generation I-V
+6.0
+Electric
+ 35
+ 55
+ 30
+ 50
+ 40
+ 90
+Generation VI
+6.0
+Electric
+ 35
+ 55
+ 40
+ 50
+ 50
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Raichu
+Static, Lightning Rod (Hidden Ability)
+ Forms:
+Generation I-V
+30.0
+Electric
+ 60
+ 90
+ 55
+ 90
+ 80
+ 100
+Generation VI
+30.0
+Electric
+ 60
+ 90
+ 55
+ 90
+ 80
+ 110
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sandshrew
+Sand Veil, Sand Rush (Hidden Ability)
+12.0
+Ground
+ 50
+ 75
+ 85
+ 20
+ 30
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sandslash
+Sand Veil, Sand Rush (Hidden Ability)
+29.5
+Ground
+ 75
+ 100
+ 110
+ 45
+ 55
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Nidoran (F)
+Poison Point, Rivalry, Hustle (Hidden Ability)
+7.0
+Poison
+ 55
+ 47
+ 52
+ 40
+ 40
+ 41
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Nidorina
+Poison Point, Rivalry, Hustle (Hidden Ability)
+20.0
+Poison
+ 70
+ 62
+ 67
+ 55
+ 55
+ 56
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Nidoqueen
+Poison Point, Rivalry, Sheer Force (Hidden Ability)
+ Forms:
+Generation I-V
+60.0
+Poison / Ground
+ 90
+ 82
+ 87
+ 75
+ 85
+ 76
+Generation VI
+60.0
+Poison / Ground
+ 90
+ 92
+ 87
+ 75
+ 85
+ 76
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Nidoran (M)
+Poison Point, Rivalry, Hustle (Hidden Ability)
+9.0
+Poison
+ 46
+ 57
+ 40
+ 40
+ 40
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Nidorino
+Poison Point, Rivalry, Hustle (Hidden Ability)
+19.5
+Poison
+ 61
+ 72
+ 57
+ 55
+ 55
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Nidoking
+Poison Point, Rivalry, Sheer Force (Hidden Ability)
+ Forms:
+Generation I-V
+62.0
+Poison / Ground
+ 81
+ 92
+ 77
+ 85
+ 75
+ 85
+Generation VI
+62.0
+Poison / Ground
+ 81
+ 102
+ 77
+ 85
+ 75
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Clefairy
+Cute Charm, Magic Guard, Friend Guard (Hidden Ability)
+7.5
+Fairy
+ 70
+ 45
+ 48
+ 60
+ 65
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Clefable
+Cute Charm, Magic Guard, Unaware (Hidden Ability)
+ Forms:
+Generation I-V
+40.0
+Fairy
+ 95
+ 70
+ 73
+ 85
+ 90
+ 60
+Generation VI
+40.0
+Fairy
+ 95
+ 70
+ 73
+ 95
+ 90
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Vulpix
+Flash Fire, Drought (Hidden Ability)
+9.9
+Fire
+ 38
+ 41
+ 40
+ 50
+ 65
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ninetales
+Flash Fire, Drought (Hidden Ability)
+19.9
+Fire
+ 73
+ 76
+ 75
+ 81
+ 100
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Jigglypuff
+Cute Charm, Competitive, Friend Guard (Hidden Ability)
+5.5
+Normal / Fairy
+ 115
+ 45
+ 20
+ 45
+ 25
+ 20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Wigglytuff
+Cute Charm, Competitive, Frisk (Hidden Ability)
+ Forms:
+Generation I-V
+12.0
+Normal / Fairy
+ 140
+ 70
+ 45
+ 75
+ 50
+ 45
+Generation VI
+12.0
+Normal / Fairy
+ 140
+ 70
+ 45
+ 85
+ 50
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Zubat
+Inner Focus, Infiltrator (Hidden Ability)
+7.5
+Poison / Flying
+ 40
+ 45
+ 35
+ 30
+ 40
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Golbat
+Inner Focus, Infiltrator (Hidden Ability)
+55.0
+Poison / Flying
+ 75
+ 80
+ 70
+ 65
+ 75
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Oddish
+Chlorophyll, Run Away (Hidden Ability)
+5.4
+Grass / Poison
+ 45
+ 50
+ 55
+ 75
+ 65
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gloom
+Chlorophyll, Stench (Hidden Ability)
+8.6
+Grass / Poison
+ 60
+ 65
+ 70
+ 85
+ 75
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Vileplume
+Chlorophyll, Effect Spore (Hidden Ability)
+ Forms:
+Generation I-V
+18.6
+Grass / Poison
+ 75
+ 80
+ 85
+ 100
+ 90
+ 50
+Generation VI
+18.6
+Grass / Poison
+ 75
+ 80
+ 85
+ 110
+ 90
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Paras
+Effect Spore, Dry Skin, Damp (Hidden Ability)
+5.4
+Bug / Grass
+ 35
+ 70
+ 55
+ 45
+ 55
+ 25
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Parasect
+Effect Spore, Dry Skin, Damp (Hidden Ability)
+29.5
+Bug / Grass
+ 60
+ 95
+ 80
+ 60
+ 80
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Venonat
+Compound Eyes, Tinted Lens, Run Away (Hidden Ability)
+30.0
+Bug / Poison
+ 60
+ 55
+ 50
+ 40
+ 55
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Venomoth
+Shield Dust, Tinted Lens, Wonder Skin (Hidden Ability)
+12.5
+Bug / Poison
+ 70
+ 65
+ 60
+ 90
+ 75
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Diglett
+Sand Veil, Arena Trap, Sand Force (Hidden Ability)
+0.8
+Ground
+ 10
+ 55
+ 25
+ 35
+ 45
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dugtrio
+Sand Veil, Arena Trap, Sand Force (Hidden Ability)
+33.3
+Ground
+ 35
+ 80
+ 50
+ 50
+ 70
+ 120
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meowth
+Pickup, Technician, Unnerve (Hidden Ability)
+4.2
+Normal
+ 40
+ 45
+ 35
+ 40
+ 40
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Persian
+Limber, Technician, Unnerve (Hidden Ability)
+32.0
+Normal
+ 65
+ 70
+ 60
+ 65
+ 65
+ 115
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Psyduck
+Damp, Cloud Nine, Swift Swim (Hidden Ability)
+19.6
+Water
+ 50
+ 52
+ 48
+ 65
+ 50
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Golduck
+Damp, Cloud Nine, Swift Swim (Hidden Ability)
+76.6
+Water
+ 80
+ 82
+ 78
+ 95
+ 80
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mankey
+Vital Spirit, Anger Point, Defiant (Hidden Ability)
+28.0
+Fighting
+ 40
+ 80
+ 35
+ 35
+ 45
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Primeape
+Vital Spirit, Anger Point, Defiant (Hidden Ability)
+32.0
+Fighting
+ 65
+ 105
+ 60
+ 60
+ 70
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Growlithe
+Intimidate, Flash Fire, Justified (Hidden Ability)
+19.0
+Fire
+ 55
+ 70
+ 45
+ 70
+ 50
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Arcanine
+Intimidate, Flash Fire, Justified (Hidden Ability)
+155.0
+Fire
+ 90
+ 110
+ 80
+ 100
+ 80
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poliwag
+Water Absorb, Damp, Swift Swim (Hidden Ability)
+12.4
+Water
+ 40
+ 50
+ 40
+ 40
+ 40
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poliwhirl
+Water Absorb, Damp, Swift Swim (Hidden Ability)
+20.0
+Water
+ 65
+ 65
+ 65
+ 50
+ 50
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poliwrath
+Water Absorb, Damp, Swift Swim (Hidden Ability)
+ Forms:
+Generation I-V
+54.0
+Water / Fighting
+ 90
+ 85
+ 95
+ 70
+ 90
+ 70
+Generation VI
+54.0
+Water / Fighting
+ 90
+ 95
+ 95
+ 70
+ 90
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Abra
+Synchronize, Inner Focus, Magic Guard (Hidden Ability)
+19.5
+Psychic
+ 25
+ 20
+ 15
+ 105
+ 55
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kadabra
+Synchronize, Inner Focus, Magic Guard (Hidden Ability)
+56.5
+Psychic
+ 40
+ 35
+ 30
+ 120
+ 70
+ 105
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Alakazam
+Synchronize, Inner Focus, Magic Guard (Hidden Ability), Trace (Mega Alakazam)
+ Forms:
+Generation I-V
+48.0
+Psychic
+ 55
+ 50
+ 45
+ 135
+ 85
+ 120
+Generation VI
+48.0
+Psychic
+ 55
+ 50
+ 45
+ 135
+ 95
+ 120
+Mega Alakazam
+48.0
+Psychic
+ 55
+ 50
+ 65
+ 175
+ 95
+ 150
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Machop
+Guts, No Guard, Steadfast (Hidden Ability)
+19.5
+Fighting
+ 70
+ 80
+ 50
+ 35
+ 35
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Machoke
+Guts, No Guard, Steadfast (Hidden Ability)
+70.5
+Fighting
+ 80
+ 100
+ 70
+ 50
+ 60
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Machamp
+Guts, No Guard, Steadfast (Hidden Ability)
+130.0
+Fighting
+ 90
+ 130
+ 80
+ 65
+ 85
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bellsprout
+Chlorophyll, Gluttony (Hidden Ability)
+4.0
+Grass / Poison
+ 50
+ 75
+ 35
+ 70
+ 30
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Weepinbell
+Chlorophyll, Gluttony (Hidden Ability)
+6.4
+Grass / Poison
+ 65
+ 90
+ 50
+ 85
+ 45
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Victreebel
+Chlorophyll, Gluttony (Hidden Ability)
+ Forms:
+Generation I-V
+15.5
+Grass / Poison
+ 80
+ 105
+ 65
+ 100
+ 60
+ 70
+Generation VI
+15.5
+Grass / Poison
+ 80
+ 105
+ 65
+ 100
+ 70
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tentacool
+Clear Body, Liquid Ooze, Rain Dish (Hidden Ability)
+45.5
+Water / Poison
+ 40
+ 40
+ 35
+ 50
+ 100
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tentacruel
+Clear Body, Liquid Ooze, Rain Dish (Hidden Ability)
+55.0
+Water / Poison
+ 80
+ 70
+ 65
+ 80
+ 120
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Geodude
+Rock Head, Sturdy, Sand Veil (Hidden Ability)
+20.0
+Rock / Ground
+ 40
+ 80
+ 100
+ 30
+ 30
+ 20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Graveler
+Rock Head, Sturdy, Sand Veil (Hidden Ability)
+105.0
+Rock / Ground
+ 55
+ 95
+ 115
+ 45
+ 45
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Golem
+Rock Head, Sturdy, Sand Veil (Hidden Ability)
+ Forms:
+Generation I-V
+300.0
+Rock / Ground
+ 80
+ 110
+ 130
+ 55
+ 65
+ 45
+Generation VI
+300.0
+Rock / Ground
+ 80
+ 120
+ 130
+ 55
+ 65
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ponyta
+Run Away, Flash Fire, Flame Body (Hidden Ability)
+30.0
+Fire
+ 50
+ 85
+ 55
+ 65
+ 65
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rapidash
+Run Away, Flash Fire, Flame Body (Hidden Ability)
+95.0
+Fire
+ 65
+ 100
+ 70
+ 80
+ 80
+ 105
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Slowpoke
+Oblivious, Own Tempo, Regenerator (Hidden Ability)
+36.0
+Water / Psychic
+ 90
+ 65
+ 65
+ 40
+ 40
+ 15
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Slowbro
+Oblivious, Own Tempo, Regenerator (Hidden Ability), Shell Armor (Mega Slowbro)
+ Forms:
+Slowbro
+78.5
+Water / Psychic
+ 95
+ 75
+ 110
+ 100
+ 80
+ 30
+Mega Slowbro
+120.0
+Water / Psychic
+ 95
+ 75
+ 180
+ 130
+ 80
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Magnemite
+Magnet Pull, Sturdy, Analytic (Hidden Ability)
+0.3
+Electric / Steel
+ 25
+ 35
+ 70
+ 95
+ 55
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Magneton
+Magnet Pull, Sturdy, Analytic (Hidden Ability)
+1.0
+Electric / Steel
+ 50
+ 60
+ 95
+ 120
+ 70
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Farfetch'd
+Keen Eye, Inner Focus, Defiant (Hidden Ability)
+15.0
+Normal / Flying
+ 52
+ 65
+ 55
+ 58
+ 62
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Doduo
+Run Away, Early Bird, Tangled Feet (Hidden Ability)
+39.2
+Normal / Flying
+ 35
+ 85
+ 45
+ 35
+ 35
+ 75
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dodrio
+Run Away, Early Bird, Tangled Feet (Hidden Ability)
+85.2
+Normal / Flying
+ 60
+ 110
+ 70
+ 60
+ 60
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Seel
+Thick Fat, Hydration, Ice Body (Hidden Ability)
+90.0
+Water
+ 65
+ 45
+ 55
+ 45
+ 70
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dewgong
+Thick Fat, Hydration, Ice Body (Hidden Ability)
+120.0
+Water / Ice
+ 90
+ 70
+ 80
+ 70
+ 95
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Grimer
+Stench, Sticky Hold, Poison Touch (Hidden Ability)
+30.0
+Poison
+ 80
+ 80
+ 50
+ 40
+ 50
+ 25
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Muk
+Stench, Sticky Hold, Poison Touch (Hidden Ability)
+30.0
+Poison
+ 105
+ 105
+ 75
+ 65
+ 100
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Shellder
+Shell Armor, Skill Link, Overcoat (Hidden Ability)
+4.0
+Water
+ 30
+ 65
+ 100
+ 45
+ 25
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cloyster
+Shell Armor, Skill Link, Overcoat (Hidden Ability)
+132.5
+Water / Ice
+ 50
+ 95
+ 180
+ 85
+ 45
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gastly
+Levitate
+0.1
+Ghost / Poison
+ 30
+ 35
+ 30
+ 100
+ 35
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Haunter
+Levitate
+0.1
+Ghost / Poison
+ 45
+ 50
+ 45
+ 115
+ 55
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gengar
+Levitate, Shadow Tag (Mega Gengar)
+ Forms:
+Gengar
+40.5
+Ghost / Poison
+ 60
+ 65
+ 60
+ 130
+ 75
+ 110
+Mega Gengar
+40.5
+Ghost / Poison
+ 60
+ 65
+ 80
+ 170
+ 95
+ 130
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Onix
+Rock Head, Sturdy, Weak Armor (Hidden Ability)
+210.0
+Rock / Ground
+ 35
+ 45
+ 160
+ 30
+ 45
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Drowzee
+Insomnia, Forewarn, Inner Focus (Hidden Ability)
+32.4
+Psychic
+ 60
+ 48
+ 45
+ 43
+ 90
+ 42
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hypno
+Insomnia, Forewarn, Inner Focus (Hidden Ability)
+75.6
+Psychic
+ 85
+ 73
+ 70
+ 73
+ 115
+ 67
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Krabby
+Hyper Cutter, Shell Armor, Sheer Force (Hidden Ability)
+6.5
+Water
+ 30
+ 105
+ 90
+ 25
+ 25
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kingler
+Hyper Cutter, Shell Armor, Sheer Force (Hidden Ability)
+60.0
+Water
+ 55
+ 130
+ 115
+ 50
+ 50
+ 75
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Voltorb
+Soundproof, Static, Aftermath (Hidden Ability)
+0.5
+Electric
+ 40
+ 30
+ 50
+ 55
+ 55
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Electrode
+Soundproof, Static, Aftermath (Hidden Ability)
+1.2
+Electric
+ 60
+ 50
+ 70
+ 80
+ 80
+ 140
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Exeggcute
+Chlorophyll, Harvest (Hidden Ability)
+2.5
+Grass / Psychic
+ 60
+ 40
+ 80
+ 60
+ 45
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Exeggutor
+Chlorophyll, Harvest (Hidden Ability)
+120.0
+Grass / Psychic
+ 95
+ 95
+ 85
+ 125
+ 65
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cubone
+Rock Head, Lightning Rod, Battle Armor (Hidden Ability)
+6.5
+Ground
+ 50
+ 50
+ 95
+ 40
+ 50
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Marowak
+Rock Head, Lightning Rod, Battle Armor (Hidden Ability)
+45.0
+Ground
+ 60
+ 80
+ 110
+ 50
+ 80
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hitmonlee
+Limber, Reckless, Unburden (Hidden Ability)
+49.8
+Fighting
+ 50
+ 120
+ 53
+ 35
+ 110
+ 87
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hitmonchan
+Keen Eye, Iron Fist, Inner Focus (Hidden Ability)
+50.2
+Fighting
+ 50
+ 105
+ 79
+ 35
+ 110
+ 76
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lickitung
+Own Tempo, Oblivious, Cloud Nine (Hidden Ability)
+65.5
+Normal
+ 90
+ 55
+ 75
+ 60
+ 75
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Koffing
+Levitate
+1.0
+Poison
+ 40
+ 65
+ 95
+ 60
+ 45
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Weezing
+Levitate
+9.5
+Poison
+ 65
+ 90
+ 120
+ 85
+ 70
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rhyhorn
+Lightning Rod, Rock Head, Reckless (Hidden Ability)
+115.0
+Ground / Rock
+ 80
+ 85
+ 95
+ 30
+ 30
+ 25
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rhydon
+Lightning Rod, Rock Head, Reckless (Hidden Ability)
+120.0
+Ground / Rock
+ 105
+ 130
+ 120
+ 45
+ 45
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chansey
+Natural Cure, Serene Grace, Healer (Hidden Ability)
+34.6
+Normal
+ 250
+ 5
+ 5
+ 35
+ 105
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tangela
+Chlorophyll, Leaf Guard, Regenerator (Hidden Ability)
+35.0
+Grass
+ 65
+ 55
+ 115
+ 100
+ 40
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kangaskhan
+Early Bird, Scrappy, Inner Focus (Hidden Ability), Parental Bond (Mega Kangaskhan)
+ Forms:
+Kangaskhan
+80.0
+Normal
+ 105
+ 95
+ 80
+ 40
+ 80
+ 90
+Mega Kangaskhan
+100.0
+Normal
+ 105
+ 125
+ 100
+ 60
+ 100
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Horsea
+Swift Swim, Sniper, Damp (Hidden Ability)
+8.0
+Water
+ 30
+ 40
+ 70
+ 70
+ 25
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Seadra
+Poison Point, Sniper, Damp (Hidden Ability)
+25.0
+Water
+ 55
+ 65
+ 95
+ 95
+ 45
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Goldeen
+Swift Swim, Water Veil, Lightning Rod (Hidden Ability)
+15.0
+Water
+ 45
+ 67
+ 60
+ 35
+ 50
+ 63
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Seaking
+Swift Swim, Water Veil, Lightning Rod (Hidden Ability)
+39.0
+Water
+ 80
+ 92
+ 65
+ 65
+ 80
+ 68
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Staryu
+Illuminate, Natural Cure, Analytic (Hidden Ability)
+0.8
+Water
+ 30
+ 45
+ 55
+ 70
+ 55
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Starmie
+Illuminate, Natural Cure, Analytic (Hidden Ability)
+1.1
+Water / Psychic
+ 60
+ 75
+ 85
+ 100
+ 85
+ 115
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mr. Mime
+Soundproof, Filter, Technician (Hidden Ability)
+54.5
+Psychic / Fairy
+ 40
+ 45
+ 65
+ 100
+ 120
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Scyther
+Swarm, Technician, Steadfast (Hidden Ability)
+56.0
+Bug / Flying
+ 70
+ 110
+ 80
+ 55
+ 80
+ 105
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Jynx
+Oblivious, Forewarn, Dry Skin (Hidden Ability)
+40.6
+Ice / Psychic
+ 65
+ 50
+ 35
+ 115
+ 95
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Electabuzz
+Static, Vital Spirit (Hidden Ability)
+30.0
+Electric
+ 65
+ 83
+ 57
+ 95
+ 85
+ 105
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Magmar
+Flame Body, Vital Spirit (Hidden Ability)
+44.5
+Fire
+ 65
+ 95
+ 57
+ 100
+ 85
+ 93
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pinsir
+Hyper Cutter, Mold Breaker, Moxie (Hidden Ability), Aerilate (Mega Pinsir)
+ Forms:
+Pinsir
+55.0
+Bug
+ 65
+ 125
+ 100
+ 55
+ 70
+ 85
+Mega Pinsir
+59.0
+Bug / Flying
+ 65
+ 155
+ 120
+ 65
+ 90
+ 105
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tauros
+Intimidate, Anger Point, Sheer Force (Hidden Ability)
+88.4
+Normal
+ 75
+ 100
+ 95
+ 40
+ 70
+ 110
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Magikarp
+Swift Swim, Rattled (Hidden Ability)
+10.0
+Water
+ 20
+ 10
+ 55
+ 15
+ 20
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gyarados
+Intimidate, Moxie (Hidden Ability), Mold Breaker (Mega Gyarados)
+ Forms:
+Gyarados
+235.0
+Water / Flying
+ 95
+ 125
+ 79
+ 60
+ 100
+ 81
+Mega Gyarados
+305.0
+Water / Dark
+ 95
+ 155
+ 109
+ 70
+ 130
+ 81
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lapras
+Water Absorb, Shell Armor, Hydration (Hidden Ability)
+220.0
+Water / Ice
+ 130
+ 85
+ 80
+ 85
+ 95
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ditto
+Limber, Imposter (Hidden Ability)
+0.3
+Normal
+ 48
+ 48
+ 48
+ 48
+ 48
+ 48
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Eevee
+Run Away, Adaptability, Anticipation (Hidden Ability)
+6.5
+Normal
+ 55
+ 55
+ 50
+ 45
+ 65
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Vaporeon
+Water Absorb, Hydration (Hidden Ability)
+29.0
+Water
+ 130
+ 65
+ 60
+ 110
+ 95
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Jolteon
+Volt Absorb, Quick Feet (Hidden Ability)
+24.5
+Electric
+ 65
+ 65
+ 60
+ 110
+ 95
+ 130
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Flareon
+Flash Fire, Guts (Hidden Ability)
+25.0
+Fire
+ 65
+ 130
+ 60
+ 95
+ 110
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Porygon
+Trace, Download, Analytic (Hidden Ability)
+0.8
+Normal
+ 65
+ 60
+ 70
+ 85
+ 75
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Omanyte
+Swift Swim, Shell Armor, Weak Armor (Hidden Ability)
+7.5
+Rock / Water
+ 35
+ 40
+ 100
+ 90
+ 55
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Omastar
+Swift Swim, Shell Armor, Weak Armor (Hidden Ability)
+35.0
+Rock / Water
+ 70
+ 60
+ 125
+ 115
+ 70
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kabuto
+Swift Swim, Battle Armor, Weak Armor (Hidden Ability)
+11.5
+Rock / Water
+ 30
+ 80
+ 90
+ 55
+ 45
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kabutops
+Swift Swim, Battle Armor, Weak Armor (Hidden Ability)
+40.5
+Rock / Water
+ 60
+ 115
+ 105
+ 65
+ 70
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aerodactyl
+Rock Head, Pressure, Unnerve (Hidden Ability), Tough Claws (Mega Aerodactyl)
+ Forms:
+Aerodactyl
+59.0
+Rock / Flying
+ 80
+ 105
+ 65
+ 60
+ 75
+ 130
+Mega Aerodactyl
+79.0
+Rock / Flying
+ 80
+ 135
+ 85
+ 70
+ 95
+ 150
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Snorlax
+Immunity, Thick Fat, Gluttony (Hidden Ability)
+460.0
+Normal
+ 160
+ 110
+ 65
+ 65
+ 110
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Articuno
+Pressure, Snow Cloak (Hidden Ability)
+1.7
+Ice / Flying
+ 90
+ 85
+ 100
+ 95
+ 125
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Zapdos
+Pressure, Static (Hidden Ability)
+1.6
+Electric / Flying
+ 90
+ 90
+ 85
+ 125
+ 90
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Moltres
+Pressure, Flame Body (Hidden Ability)
+2.0
+Fire / Flying
+ 90
+ 100
+ 90
+ 125
+ 85
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dratini
+Shed Skin, Marvel Scale (Hidden Ability)
+3.3
+Dragon
+ 41
+ 64
+ 45
+ 50
+ 50
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dragonair
+Shed Skin, Marvel Scale (Hidden Ability)
+16.5
+Dragon
+ 61
+ 84
+ 65
+ 70
+ 70
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dragonite
+Inner Focus, Multiscale (Hidden Ability)
+210.0
+Dragon / Flying
+ 91
+ 134
+ 95
+ 100
+ 100
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mewtwo
+Pressure, Unnerve (Hidden Ability), Steadfast (Mega Mewtwo X), Insomnia (Mega Mewtwo Y)
+ Forms:
+Mewtwo
+2.0
+Psychic
+ 106
+ 110
+ 90
+ 154
+ 90
+ 130
+Mega Mewtwo X
+2.3
+Psychic / Fighting
+ 106
+ 190
+ 100
+ 154
+ 100
+ 130
+Mega Mewtwo Y
+1.5
+Psychic
+ 106
+ 150
+ 70
+ 194
+ 120
+ 140
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mew
+Synchronize
+0.4
+Psychic
+ 100
+ 100
+ 100
+ 100
+ 100
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chikorita
+Overgrow, Leaf Guard (Hidden Ability)
+6.4
+Grass
+ 45
+ 49
+ 65
+ 49
+ 65
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bayleef
+Overgrow, Leaf Guard (Hidden Ability)
+15.8
+Grass
+ 60
+ 62
+ 80
+ 63
+ 80
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meganium
+Overgrow, Leaf Guard (Hidden Ability)
+100.5
+Grass
+ 80
+ 82
+ 100
+ 83
+ 100
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cyndaquil
+Blaze, Flash Fire (Hidden Ability)
+7.9
+Fire
+ 39
+ 52
+ 43
+ 60
+ 50
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Quilava
+Blaze, Flash Fire (Hidden Ability)
+19.0
+Fire
+ 58
+ 64
+ 58
+ 80
+ 65
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Typhlosion
+Blaze, Flash Fire (Hidden Ability)
+79.5
+Fire
+ 78
+ 84
+ 78
+ 109
+ 85
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Totodile
+Torrent, Sheer Force (Hidden Ability)
+9.5
+Water
+ 50
+ 65
+ 64
+ 44
+ 48
+ 43
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Croconaw
+Torrent, Sheer Force (Hidden Ability)
+25.0
+Water
+ 65
+ 80
+ 80
+ 59
+ 63
+ 58
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Feraligatr
+Torrent, Sheer Force (Hidden Ability)
+88.8
+Water
+ 85
+ 105
+ 100
+ 79
+ 83
+ 78
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sentret
+Run Away, Keen Eye, Frisk (Hidden Ability)
+6.0
+Normal
+ 35
+ 46
+ 34
+ 35
+ 45
+ 20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Furret
+Run Away, Keen Eye, Frisk (Hidden Ability)
+32.5
+Normal
+ 85
+ 76
+ 64
+ 45
+ 55
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hoothoot
+Insomnia, Keen Eye, Tinted Lens (Hidden Ability)
+21.2
+Normal / Flying
+ 60
+ 30
+ 30
+ 36
+ 56
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Noctowl
+Insomnia, Keen Eye, Tinted Lens (Hidden Ability)
+40.8
+Normal / Flying
+ 100
+ 50
+ 50
+ 76
+ 96
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ledyba
+Swarm, Early Bird, Rattled (Hidden Ability)
+10.8
+Bug / Flying
+ 40
+ 20
+ 30
+ 40
+ 80
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ledian
+Swarm, Early Bird, Iron Fist (Hidden Ability)
+35.6
+Bug / Flying
+ 55
+ 35
+ 50
+ 55
+ 110
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Spinarak
+Swarm, Insomnia, Sniper (Hidden Ability)
+8.5
+Bug / Poison
+ 40
+ 60
+ 40
+ 40
+ 40
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ariados
+Swarm, Insomnia, Sniper (Hidden Ability)
+33.5
+Bug / Poison
+ 70
+ 90
+ 70
+ 60
+ 60
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Crobat
+Inner Focus, Infiltrator (Hidden Ability)
+75.0
+Poison / Flying
+ 85
+ 90
+ 80
+ 70
+ 80
+ 130
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chinchou
+Volt Absorb, Illuminate, Water Absorb (Hidden Ability)
+12.0
+Water / Electric
+ 75
+ 38
+ 38
+ 56
+ 56
+ 67
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lanturn
+Volt Absorb, Illuminate, Water Absorb (Hidden Ability)
+22.5
+Water / Electric
+ 125
+ 58
+ 58
+ 76
+ 76
+ 67
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pichu
+Static, Lightning Rod (Hidden Ability)
+2.0
+Electric
+ 20
+ 40
+ 15
+ 35
+ 35
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cleffa
+Cute Charm, Magic Guard, Friend Guard (Hidden Ability)
+3.0
+Fairy
+ 50
+ 25
+ 28
+ 45
+ 55
+ 15
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Igglybuff
+Cute Charm, Competitive, Friend Guard (Hidden Ability)
+1.0
+Normal / Fairy
+ 90
+ 30
+ 15
+ 40
+ 20
+ 15
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Togepi
+Hustle, Serene Grace, Super Luck (Hidden Ability)
+1.5
+Fairy
+ 35
+ 20
+ 65
+ 40
+ 65
+ 20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Togetic
+Hustle, Serene Grace, Super Luck (Hidden Ability)
+3.2
+Fairy / Flying
+ 55
+ 40
+ 85
+ 80
+ 105
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Natu
+Synchronize, Early Bird, Magic Bounce (Hidden Ability)
+2.0
+Psychic / Flying
+ 40
+ 50
+ 45
+ 70
+ 45
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Xatu
+Synchronize, Early Bird, Magic Bounce (Hidden Ability)
+15.0
+Psychic / Flying
+ 65
+ 75
+ 70
+ 95
+ 70
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mareep
+Static, Plus (Hidden Ability)
+7.8
+Electric
+ 55
+ 40
+ 40
+ 65
+ 45
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Flaaffy
+Static, Plus (Hidden Ability)
+13.3
+Electric
+ 70
+ 55
+ 55
+ 80
+ 60
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ampharos
+Static, Plus (Hidden Ability), Mold Breaker (Mega Ampharos)
+ Forms:
+Generation II-V
+61.5
+Electric / Dragon
+ 90
+ 75
+ 75
+ 115
+ 90
+ 55
+Generation VI
+61.5
+Electric
+ 90
+ 75
+ 85
+ 115
+ 90
+ 55
+Mega Ampharos
+61.5
+Electric / Dragon
+ 90
+ 95
+ 105
+ 165
+ 110
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bellossom
+Chlorophyll, Healer (Hidden Ability)
+ Forms:
+Generation II-V
+5.8
+Grass
+ 75
+ 80
+ 85
+ 90
+ 100
+ 50
+Generation VI
+5.8
+Grass
+ 75
+ 80
+ 95
+ 90
+ 100
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Marill
+Thick Fat, Huge Power, Sap Sipper (Hidden Ability)
+8.5
+Water / Fairy
+ 70
+ 20
+ 50
+ 20
+ 50
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Azumarill
+Thick Fat, Huge Power, Sap Sipper (Hidden Ability)
+ Forms:
+Generation II-V
+28.5
+Water / Fairy
+ 100
+ 50
+ 80
+ 50
+ 80
+ 50
+Generation VI
+28.5
+Water / Fairy
+ 100
+ 50
+ 80
+ 60
+ 80
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sudowoodo
+Sturdy, Rock Head, Rattled (Hidden Ability)
+38.0
+Rock
+ 70
+ 100
+ 115
+ 30
+ 65
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Politoed
+Water Absorb, Damp, Drizzle (Hidden Ability)
+33.9
+Water
+ 90
+ 75
+ 75
+ 90
+ 100
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hoppip
+Chlorophyll, Leaf Guard, Infiltrator (Hidden Ability)
+0.5
+Grass / Flying
+ 35
+ 35
+ 40
+ 35
+ 55
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Skiploom
+Chlorophyll, Leaf Guard, Infiltrator (Hidden Ability)
+1.0
+Grass / Flying
+ 55
+ 45
+ 50
+ 45
+ 65
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Jumpluff
+Chlorophyll, Leaf Guard, Infiltrator (Hidden Ability)
+ Forms:
+Generation II-V
+3.0
+Grass / Flying
+ 75
+ 55
+ 70
+ 55
+ 85
+ 110
+Generation VI
+3.0
+Grass / Flying
+ 75
+ 55
+ 70
+ 55
+ 95
+ 110
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aipom
+Run Away, Pickup, Skill Link (Hidden Ability)
+11.5
+Normal
+ 55
+ 70
+ 55
+ 40
+ 55
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sunkern
+Chlorophyll, Solar Power, Early Bird (Hidden Ability)
+1.8
+Grass
+ 30
+ 30
+ 30
+ 30
+ 30
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sunflora
+Chlorophyll, Solar Power, Early Bird (Hidden Ability)
+8.5
+Grass
+ 75
+ 75
+ 55
+ 105
+ 85
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Yanma
+Speed Boost, Compound Eyes, Frisk (Hidden Ability)
+38.0
+Bug / Flying
+ 65
+ 65
+ 45
+ 75
+ 45
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Wooper
+Damp, Water Absorb, Unaware (Hidden Ability)
+8.5
+Water / Ground
+ 55
+ 45
+ 45
+ 25
+ 25
+ 15
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Quagsire
+Damp, Water Absorb, Unaware (Hidden Ability)
+75.0
+Water / Ground
+ 95
+ 85
+ 85
+ 65
+ 65
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Espeon
+Synchronize, Magic Bounce (Hidden Ability)
+26.5
+Psychic
+ 65
+ 65
+ 60
+ 130
+ 95
+ 110
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Umbreon
+Synchronize, Inner Focus (Hidden Ability)
+27.0
+Dark
+ 95
+ 65
+ 110
+ 60
+ 130
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Murkrow
+Insomnia, Super Luck, Prankster (Hidden Ability)
+2.1
+Dark / Flying
+ 60
+ 85
+ 42
+ 85
+ 42
+ 91
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Slowking
+Oblivious, Own Tempo, Regenerator (Hidden Ability)
+79.5
+Water / Psychic
+ 95
+ 75
+ 80
+ 100
+ 110
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Misdreavus
+Levitate
+1.0
+Ghost
+ 60
+ 60
+ 60
+ 85
+ 85
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Unown
+Levitate
+0.5
+Psychic
+ 48
+ 72
+ 48
+ 72
+ 48
+ 48
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Wobbuffet
+Shadow Tag, Telepathy (Hidden Ability)
+28.5
+Psychic
+ 190
+ 33
+ 58
+ 33
+ 58
+ 33
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Girafarig
+Inner Focus, Early Bird, Sap Sipper (Hidden Ability)
+41.5
+Normal / Psychic
+ 70
+ 80
+ 65
+ 90
+ 65
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pineco
+Sturdy, Overcoat (Hidden Ability)
+7.2
+Bug
+ 50
+ 65
+ 90
+ 35
+ 35
+ 15
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Forretress
+Sturdy, Overcoat (Hidden Ability)
+125.8
+Bug / Steel
+ 75
+ 90
+ 140
+ 60
+ 60
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dunsparce
+Serene Grace, Run Away, Rattled (Hidden Ability)
+14.0
+Normal
+ 100
+ 70
+ 70
+ 65
+ 65
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gligar
+Hyper Cutter, Sand Veil, Immunity (Hidden Ability)
+64.8
+Ground / Flying
+ 65
+ 75
+ 105
+ 35
+ 65
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Steelix
+Rock Head, Sturdy, Sheer Force (Hidden Ability), Sand Force (Mega Steelix)
+ Forms:
+Steelix
+400.0
+Steel / Ground
+ 75
+ 85
+ 200
+ 55
+ 65
+ 30
+Mega Steelix
+740.0
+Steel / Ground
+ 75
+ 125
+ 230
+ 55
+ 95
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Snubbull
+Intimidate, Run Away, Rattled (Hidden Ability)
+7.8
+Fairy
+ 60
+ 80
+ 50
+ 40
+ 40
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Granbull
+Intimidate, Quick Feet, Rattled (Hidden Ability)
+48.7
+Fairy
+ 90
+ 120
+ 75
+ 60
+ 60
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Qwilfish
+Poison Point, Swift Swim, Intimidate (Hidden Ability)
+3.9
+Water / Poison
+ 65
+ 95
+ 75
+ 55
+ 55
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Scizor
+Swarm, Technician, Light Metal (Hidden Ability), Technician (Mega Scizor)
+ Forms:
+Scizor
+118.0
+Bug / Steel
+ 70
+ 130
+ 100
+ 55
+ 80
+ 65
+Mega Scizor
+125.0
+Bug / Steel
+ 70
+ 150
+ 140
+ 65
+ 100
+ 75
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Shuckle
+Sturdy, Gluttony, Contrary (Hidden Ability)
+20.5
+Bug / Rock
+ 20
+ 10
+ 230
+ 10
+ 230
+ 5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Heracross
+Swarm, Guts, Moxie (Hidden Ability), Skill Link (Mega Heracross)
+ Forms:
+Heracross
+54.0
+Bug / Fighting
+ 80
+ 125
+ 75
+ 40
+ 95
+ 85
+Mega Heracross
+62.5
+Bug / Fighting
+ 80
+ 185
+ 115
+ 40
+ 105
+ 75
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sneasel
+Inner Focus, Keen Eye, Pickpocket (Hidden Ability)
+28.0
+Dark / Ice
+ 55
+ 95
+ 55
+ 35
+ 75
+ 115
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Teddiursa
+Pickup, Quick Feet, Honey Gather (Hidden Ability)
+8.8
+Normal
+ 60
+ 80
+ 50
+ 50
+ 50
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ursaring
+Guts, Quick Feet, Unnerve (Hidden Ability)
+125.8
+Normal
+ 90
+ 130
+ 75
+ 75
+ 75
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Slugma
+Magma Armor, Flame Body, Weak Armor (Hidden Ability)
+35.0
+Fire
+ 40
+ 40
+ 40
+ 70
+ 40
+ 20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Magcargo
+Magma Armor, Flame Body, Weak Armor (Hidden Ability)
+55.0
+Fire / Rock
+ 50
+ 50
+ 120
+ 80
+ 80
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Swinub
+Oblivious, Snow Cloak, Thick Fat (Hidden Ability)
+6.5
+Ice / Ground
+ 50
+ 50
+ 40
+ 30
+ 30
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Piloswine
+Oblivious, Snow Cloak, Thick Fat (Hidden Ability)
+55.8
+Ice / Ground
+ 100
+ 100
+ 80
+ 60
+ 60
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Corsola
+Hustle, Natural Cure, Regenerator (Hidden Ability)
+5.0
+Water / Rock
+ 55
+ 55
+ 85
+ 65
+ 85
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Remoraid
+Hustle, Sniper, Moody (Hidden Ability)
+12.0
+Water
+ 35
+ 65
+ 35
+ 65
+ 35
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Octillery
+Suction Cups, Sniper, Moody (Hidden Ability)
+28.5
+Water
+ 75
+ 105
+ 75
+ 105
+ 75
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Delibird
+Vital Spirit, Hustle, Insomnia (Hidden Ability)
+16.0
+Ice / Flying
+ 45
+ 55
+ 45
+ 65
+ 45
+ 75
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mantine
+Swift Swim, Water Absorb, Water Veil (Hidden Ability)
+220.0
+Water / Flying
+ 65
+ 40
+ 70
+ 80
+ 140
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Skarmory
+Keen Eye, Sturdy, Weak Armor (Hidden Ability)
+50.5
+Steel / Flying
+ 65
+ 80
+ 140
+ 40
+ 70
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Houndour
+Early Bird, Flash Fire, Unnerve (Hidden Ability)
+10.8
+Dark / Fire
+ 45
+ 60
+ 30
+ 80
+ 50
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Houndoom
+Early Bird, Flash Fire, Unnerve (Hidden Ability), Solar Power (Mega Houndoom)
+ Forms:
+Houndoom
+35.0
+Dark / Fire
+ 75
+ 90
+ 50
+ 110
+ 80
+ 95
+Mega Houndoom
+49.5
+Dark / Fire
+ 75
+ 90
+ 90
+ 140
+ 90
+ 115
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kingdra
+Swift Swim, Sniper, Damp (Hidden Ability)
+152.0
+Water / Dragon
+ 75
+ 95
+ 95
+ 95
+ 95
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Phanpy
+Pickup, Sand Veil (Hidden Ability)
+33.5
+Ground
+ 90
+ 60
+ 60
+ 40
+ 40
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Donphan
+Sturdy, Sand Veil (Hidden Ability)
+120.0
+Ground
+ 90
+ 120
+ 120
+ 60
+ 60
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Porygon2
+Trace, Download, Analytic (Hidden Ability)
+0.6
+Normal
+ 85
+ 80
+ 90
+ 105
+ 95
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stantler
+Intimidate, Frisk, Sap Sipper (Hidden Ability)
+71.2
+Normal
+ 73
+ 95
+ 62
+ 85
+ 65
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Smeargle
+Own Tempo, Technician, Moody (Hidden Ability)
+58.0
+Normal
+ 55
+ 20
+ 35
+ 20
+ 45
+ 75
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tyrogue
+Guts, Steadfast, Vital Spirit (Hidden Ability)
+21.0
+Fighting
+ 35
+ 35
+ 35
+ 35
+ 35
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hitmontop
+Intimidate, Technician, Steadfast (Hidden Ability)
+48.0
+Fighting
+ 50
+ 95
+ 95
+ 35
+ 110
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Smoochum
+Oblivious, Forewarn, Hydration (Hidden Ability)
+6.0
+Ice / Psychic
+ 45
+ 30
+ 15
+ 85
+ 65
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Elekid
+Static, Vital Spirit (Hidden Ability)
+23.5
+Electric
+ 45
+ 63
+ 37
+ 65
+ 55
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Magby
+Flame Body, Vital Spirit (Hidden Ability)
+21.4
+Fire
+ 45
+ 75
+ 37
+ 70
+ 55
+ 83
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Miltank
+Thick Fat, Scrappy, Sap Sipper (Hidden Ability)
+75.5
+Normal
+ 95
+ 80
+ 105
+ 40
+ 70
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Blissey
+Natural Cure, Serene Grace, Healer (Hidden Ability)
+46.8
+Normal
+ 255
+ 10
+ 10
+ 75
+ 135
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Raikou
+Pressure, Volt Absorb (Hidden Ability)
+1.9
+Electric
+ 90
+ 85
+ 75
+ 115
+ 100
+ 115
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Entei
+Pressure, Flash Fire (Hidden Ability)
+2.1
+Fire
+ 115
+ 115
+ 85
+ 90
+ 75
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Suicune
+Pressure, Water Absorb (Hidden Ability)
+2.0
+Water
+ 100
+ 75
+ 115
+ 90
+ 115
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Larvitar
+Guts, Sand Veil (Hidden Ability)
+72.0
+Rock / Ground
+ 50
+ 64
+ 50
+ 45
+ 50
+ 41
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pupitar
+Shed Skin
+152.0
+Rock / Ground
+ 70
+ 84
+ 70
+ 65
+ 70
+ 51
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tyranitar
+Sand Stream, Unnerve (Hidden Ability), Sand Stream (Mega Tyranitar)
+ Forms:
+Tyranitar
+202.0
+Rock / Dark
+ 100
+ 134
+ 110
+ 95
+ 100
+ 61
+Mega Tyranitar
+255.0
+Rock / Dark
+ 100
+ 164
+ 150
+ 95
+ 120
+ 71
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lugia
+Pressure, Multiscale (Hidden Ability)
+5.2
+Psychic / Flying
+ 106
+ 90
+ 130
+ 90
+ 154
+ 110
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ho-Oh
+Pressure, Regenerator (Hidden Ability)
+3.8
+Fire / Flying
+ 106
+ 130
+ 90
+ 110
+ 154
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Celebi
+Natural Cure
+0.6
+Psychic / Grass
+ 100
+ 100
+ 100
+ 100
+ 100
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Treecko
+Overgrow, Unburden (Hidden Ability)
+5.0
+Grass
+ 40
+ 45
+ 35
+ 65
+ 55
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Grovyle
+Overgrow, Unburden (Hidden Ability)
+21.6
+Grass
+ 50
+ 65
+ 45
+ 85
+ 65
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sceptile
+Overgrow, Unburden (Hidden Ability), Lightning Rod (Mega Sceptile)
+ Forms:
+Sceptile
+52.2
+Grass
+ 70
+ 85
+ 65
+ 105
+ 85
+ 120
+Mega Sceptile
+55.2
+Grass / Dragon
+ 70
+ 110
+ 75
+ 145
+ 85
+ 145
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Torchic
+Blaze, Speed Boost (Hidden Ability)
+2.5
+Fire
+ 45
+ 60
+ 40
+ 70
+ 50
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Combusken
+Blaze, Speed Boost (Hidden Ability)
+19.5
+Fire / Fighting
+ 60
+ 85
+ 60
+ 85
+ 60
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Blaziken
+Blaze, Speed Boost (Hidden Ability), Speed Boost (Mega Blaziken)
+ Forms:
+Blaziken
+52.0
+Fire / Fighting
+ 80
+ 120
+ 70
+ 110
+ 70
+ 80
+Mega Blaziken
+52.0
+Fire / Fighting
+ 80
+ 160
+ 80
+ 130
+ 80
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mudkip
+Torrent, Damp (Hidden Ability)
+7.6
+Water
+ 50
+ 70
+ 50
+ 50
+ 50
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Marshtomp
+Torrent, Damp (Hidden Ability)
+28.0
+Water / Ground
+ 70
+ 85
+ 70
+ 60
+ 70
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Swampert
+Torrent, Damp (Hidden Ability), Swift Swim (Mega Swampert)
+ Forms:
+Swampert
+81.9
+Water / Ground
+ 100
+ 110
+ 90
+ 85
+ 90
+ 60
+Mega Swampert
+102.0
+Water / Ground
+ 100
+ 150
+ 110
+ 95
+ 110
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poochyena
+Run Away, Quick Feet, Rattled (Hidden Ability)
+13.6
+Dark
+ 35
+ 55
+ 35
+ 30
+ 30
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mightyena
+Intimidate, Quick Feet, Moxie (Hidden Ability)
+37.0
+Dark
+ 70
+ 90
+ 70
+ 60
+ 60
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Zigzagoon
+Pickup, Gluttony, Quick Feet (Hidden Ability)
+17.5
+Normal
+ 38
+ 30
+ 41
+ 30
+ 41
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Linoone
+Pickup, Gluttony, Quick Feet (Hidden Ability)
+32.5
+Normal
+ 78
+ 70
+ 61
+ 50
+ 61
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Wurmple
+Shield Dust, Run Away (Hidden Ability)
+3.6
+Bug
+ 45
+ 45
+ 35
+ 20
+ 30
+ 20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Silcoon
+Shed Skin
+10.0
+Bug
+ 50
+ 35
+ 55
+ 25
+ 25
+ 15
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Beautifly
+Swarm, Rivalry (Hidden Ability)
+ Forms:
+Generation III-V
+28.4
+Bug / Flying
+ 60
+ 70
+ 50
+ 90
+ 50
+ 65
+Generation VI
+28.4
+Bug / Flying
+ 60
+ 70
+ 50
+ 100
+ 50
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cascoon
+Shed Skin
+11.5
+Bug
+ 50
+ 35
+ 55
+ 25
+ 25
+ 15
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dustox
+Shield Dust, Compound Eyes (Hidden Ability)
+31.6
+Bug / Poison
+ 60
+ 50
+ 70
+ 50
+ 90
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lotad
+Swift Swim, Rain Dish, Own Tempo (Hidden Ability)
+2.6
+Water / Grass
+ 40
+ 30
+ 30
+ 40
+ 50
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lombre
+Swift Swim, Rain Dish, Own Tempo (Hidden Ability)
+32.5
+Water / Grass
+ 60
+ 50
+ 50
+ 60
+ 70
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ludicolo
+Swift Swim, Rain Dish, Own Tempo (Hidden Ability)
+55.0
+Water / Grass
+ 80
+ 70
+ 70
+ 90
+ 100
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Seedot
+Chlorophyll, Early Bird, Pickpocket (Hidden Ability)
+4.0
+Grass
+ 40
+ 40
+ 50
+ 30
+ 30
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Nuzleaf
+Chlorophyll, Early Bird, Pickpocket (Hidden Ability)
+28.0
+Grass / Dark
+ 70
+ 70
+ 40
+ 60
+ 40
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Shiftry
+Chlorophyll, Early Bird, Pickpocket (Hidden Ability)
+59.6
+Grass / Dark
+ 90
+ 100
+ 60
+ 90
+ 60
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Taillow
+Guts, Scrappy (Hidden Ability)
+2.3
+Normal / Flying
+ 40
+ 55
+ 30
+ 30
+ 30
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Swellow
+Guts, Scrappy (Hidden Ability)
+19.8
+Normal / Flying
+ 60
+ 85
+ 60
+ 50
+ 50
+ 125
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Wingull
+Keen Eye, Rain Dish (Hidden Ability)
+9.5
+Water / Flying
+ 40
+ 30
+ 30
+ 55
+ 30
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pelipper
+Keen Eye, Rain Dish (Hidden Ability)
+28.0
+Water / Flying
+ 60
+ 50
+ 100
+ 85
+ 70
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ralts
+Synchronize, Trace, Telepathy (Hidden Ability)
+6.6
+Psychic / Fairy
+ 28
+ 25
+ 25
+ 45
+ 35
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kirlia
+Synchronize, Trace, Telepathy (Hidden Ability)
+20.2
+Psychic / Fairy
+ 38
+ 35
+ 35
+ 65
+ 55
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gardevoir
+Synchronize, Trace, Telepathy (Hidden Ability), Pixilate (Mega Gardevoir)
+ Forms:
+Gardevoir
+48.4
+Psychic / Fairy
+ 68
+ 65
+ 65
+ 125
+ 115
+ 80
+Mega Gardevoir
+48.4
+Psychic / Fairy
+ 68
+ 85
+ 65
+ 165
+ 135
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Surskit
+Swift Swim, Rain Dish (Hidden Ability)
+1.7
+Bug / Water
+ 40
+ 30
+ 32
+ 50
+ 52
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Masquerain
+Intimidate, Unnerve (Hidden Ability)
+3.6
+Bug / Flying
+ 70
+ 60
+ 62
+ 80
+ 82
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Shroomish
+Effect Spore, Poison Heal, Quick Feet (Hidden Ability)
+4.5
+Grass
+ 60
+ 40
+ 60
+ 40
+ 60
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Breloom
+Effect Spore, Poison Heal, Technician (Hidden Ability)
+39.2
+Grass / Fighting
+ 60
+ 130
+ 80
+ 60
+ 60
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Slakoth
+Truant
+24.0
+Normal
+ 60
+ 60
+ 60
+ 35
+ 35
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Vigoroth
+Vital Spirit
+46.5
+Normal
+ 80
+ 80
+ 80
+ 55
+ 55
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Slaking
+Truant
+130.5
+Normal
+ 150
+ 160
+ 100
+ 95
+ 65
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Nincada
+Compound Eyes, Run Away (Hidden Ability)
+5.5
+Bug / Ground
+ 31
+ 45
+ 90
+ 30
+ 30
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ninjask
+Speed Boost, Infiltrator (Hidden Ability)
+12.0
+Bug / Flying
+ 61
+ 90
+ 45
+ 50
+ 50
+ 160
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Shedinja
+Wonder Guard
+0.8
+Bug / Ghost
+ 1
+ 90
+ 45
+ 30
+ 30
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Whismur
+Soundproof, Rattled (Hidden Ability)
+16.3
+Normal
+ 64
+ 51
+ 23
+ 51
+ 23
+ 28
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Loudred
+Soundproof, Scrappy (Hidden Ability)
+40.5
+Normal
+ 84
+ 71
+ 43
+ 71
+ 43
+ 48
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Exploud
+Soundproof, Scrappy (Hidden Ability)
+ Forms:
+Generation III-V
+84.0
+Normal
+ 104
+ 91
+ 63
+ 91
+ 63
+ 68
+Generation VI
+84.0
+Normal
+ 104
+ 91
+ 63
+ 91
+ 73
+ 68
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Makuhita
+Thick Fat, Guts, Sheer Force (Hidden Ability)
+86.4
+Fighting
+ 72
+ 60
+ 30
+ 20
+ 30
+ 25
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hariyama
+Thick Fat, Guts, Sheer Force (Hidden Ability)
+253.8
+Fighting
+ 144
+ 120
+ 60
+ 40
+ 60
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Azurill
+Thick Fat, Huge Power, Sap Sipper (Hidden Ability)
+2.0
+Normal / Fairy
+ 50
+ 20
+ 40
+ 20
+ 40
+ 20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Nosepass
+Sturdy, Magnet Pull, Sand Force (Hidden Ability)
+97.0
+Rock
+ 30
+ 45
+ 135
+ 45
+ 90
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Skitty
+Cute Charm, Normalize, Wonder Skin (Hidden Ability)
+11.0
+Normal
+ 50
+ 45
+ 45
+ 35
+ 35
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Delcatty
+Cute Charm, Normalize, Wonder Skin (Hidden Ability)
+32.6
+Normal
+ 70
+ 65
+ 65
+ 55
+ 55
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sableye
+Keen Eye, Stall, Prankster (Hidden Ability), Magic Bounce (Mega Sableye)
+ Forms:
+Sableye
+11.0
+Dark / Ghost
+ 50
+ 75
+ 75
+ 65
+ 65
+ 50
+Mega Sableye
+161.0
+Dark / Ghost
+ 50
+ 85
+ 125
+ 85
+ 115
+ 20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mawile
+Hyper Cutter, Intimidate, Sheer Force (Hidden Ability), Huge Power (Mega Mawile)
+ Forms:
+Mawile
+11.5
+Steel / Fairy
+ 50
+ 85
+ 85
+ 55
+ 55
+ 50
+Mega Mawile
+23.5
+Steel / Fairy
+ 50
+ 105
+ 125
+ 55
+ 95
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aron
+Sturdy, Rock Head, Heavy Metal (Hidden Ability)
+60.0
+Steel / Rock
+ 50
+ 70
+ 100
+ 40
+ 40
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lairon
+Sturdy, Rock Head, Heavy Metal (Hidden Ability)
+120.0
+Steel / Rock
+ 60
+ 90
+ 140
+ 50
+ 50
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aggron
+Sturdy, Rock Head, Heavy Metal (Hidden Ability), Filter (Mega Aggron)
+ Forms:
+Aggron
+360.0
+Steel / Rock
+ 70
+ 110
+ 180
+ 60
+ 60
+ 50
+Mega Aggron
+395.0
+Steel
+ 70
+ 140
+ 230
+ 60
+ 80
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meditite
+Pure Power, Telepathy (Hidden Ability)
+11.2
+Fighting / Psychic
+ 30
+ 40
+ 55
+ 40
+ 55
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Medicham
+Pure Power, Telepathy (Hidden Ability), Pure Power (Mega Medicham)
+ Forms:
+Medicham
+31.5
+Fighting / Psychic
+ 60
+ 60
+ 75
+ 60
+ 75
+ 80
+Mega Medicham
+31.5
+Fighting / Psychic
+ 60
+ 100
+ 85
+ 80
+ 85
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Electrike
+Static, Lightning Rod, Minus (Hidden Ability)
+15.2
+Electric
+ 40
+ 45
+ 40
+ 65
+ 40
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Manectric
+Static, Lightning Rod, Minus (Hidden Ability), Intimidate (Mega Manectric)
+ Forms:
+Manectric
+40.2
+Electric
+ 70
+ 75
+ 60
+ 105
+ 60
+ 105
+Mega Manectric
+44.0
+Electric
+ 70
+ 75
+ 80
+ 135
+ 80
+ 135
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Plusle
+Plus, Lightning Rod (Hidden Ability)
+4.2
+Electric
+ 60
+ 50
+ 40
+ 85
+ 75
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Minun
+Minus, Volt Absorb (Hidden Ability)
+4.2
+Electric
+ 60
+ 40
+ 50
+ 75
+ 85
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Volbeat
+Illuminate, Swarm, Prankster (Hidden Ability)
+17.7
+Bug
+ 65
+ 73
+ 55
+ 47
+ 75
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Illumise
+Oblivious, Tinted Lens, Prankster (Hidden Ability)
+17.7
+Bug
+ 65
+ 47
+ 55
+ 73
+ 75
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Roselia
+Natural Cure, Poison Point, Leaf Guard (Hidden Ability)
+2.0
+Grass / Poison
+ 50
+ 60
+ 45
+ 100
+ 80
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gulpin
+Liquid Ooze, Sticky Hold, Gluttony (Hidden Ability)
+10.3
+Poison
+ 70
+ 43
+ 53
+ 43
+ 53
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Swalot
+Liquid Ooze, Sticky Hold, Gluttony (Hidden Ability)
+80.0
+Poison
+ 100
+ 73
+ 83
+ 73
+ 83
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Carvanha
+Rough Skin, Speed Boost (Hidden Ability)
+20.8
+Water / Dark
+ 45
+ 90
+ 20
+ 65
+ 20
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sharpedo
+Rough Skin, Speed Boost (Hidden Ability), Strong Jaw (Mega Sharpedo)
+ Forms:
+Sharpedo
+88.8
+Water / Dark
+ 70
+ 120
+ 40
+ 95
+ 40
+ 95
+Mega Sharpedo
+130.3
+Water / Dark
+ 70
+ 140
+ 70
+ 110
+ 65
+ 105
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Wailmer
+Water Veil, Oblivious, Pressure (Hidden Ability)
+130.0
+Water
+ 130
+ 70
+ 35
+ 70
+ 35
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Wailord
+Water Veil, Oblivious, Pressure (Hidden Ability)
+398.0
+Water
+ 170
+ 90
+ 45
+ 90
+ 45
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Numel
+Oblivious, Simple, Own Tempo (Hidden Ability)
+24.0
+Fire / Ground
+ 60
+ 60
+ 40
+ 65
+ 45
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Camerupt
+Magma Armor, Solid Rock, Anger Point (Hidden Ability), Sheer Force (Mega Camerupt)
+ Forms:
+Camerupt
+220.0
+Fire / Ground
+ 70
+ 100
+ 70
+ 105
+ 75
+ 40
+Mega Camerupt
+320.5
+Fire / Ground
+ 70
+ 120
+ 100
+ 145
+ 105
+ 20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Torkoal
+White Smoke, Shell Armor (Hidden Ability)
+80.4
+Fire
+ 70
+ 85
+ 140
+ 85
+ 70
+ 20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Spoink
+Thick Fat, Own Tempo, Gluttony (Hidden Ability)
+30.6
+Psychic
+ 60
+ 25
+ 35
+ 70
+ 80
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Grumpig
+Thick Fat, Own Tempo, Gluttony (Hidden Ability)
+71.5
+Psychic
+ 80
+ 45
+ 65
+ 90
+ 110
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Spinda
+Own Tempo, Tangled Feet, Contrary (Hidden Ability)
+5.0
+Normal
+ 60
+ 60
+ 60
+ 60
+ 60
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Trapinch
+Hyper Cutter, Arena Trap, Sheer Force (Hidden Ability)
+15.0
+Ground
+ 45
+ 100
+ 45
+ 45
+ 45
+ 10
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Vibrava
+Levitate
+15.3
+Ground / Dragon
+ 50
+ 70
+ 50
+ 50
+ 50
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Flygon
+Levitate
+82.0
+Ground / Dragon
+ 80
+ 100
+ 80
+ 80
+ 80
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cacnea
+Sand Veil, Water Absorb (Hidden Ability)
+51.3
+Grass
+ 50
+ 85
+ 40
+ 85
+ 40
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cacturne
+Sand Veil, Water Absorb (Hidden Ability)
+77.4
+Grass / Dark
+ 70
+ 115
+ 60
+ 115
+ 60
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Swablu
+Natural Cure, Cloud Nine (Hidden Ability)
+1.2
+Normal / Flying
+ 45
+ 40
+ 60
+ 40
+ 75
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Altaria
+Natural Cure, Cloud Nine (Hidden Ability), Pixilate (Mega Altaria)
+ Forms:
+Altaria
+20.6
+Dragon / Flying
+ 75
+ 70
+ 90
+ 70
+ 105
+ 80
+Mega Altaria
+20.6
+Dragon / Fairy
+ 75
+ 110
+ 110
+ 110
+ 105
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Zangoose
+Immunity, Toxic Boost (Hidden Ability)
+40.3
+Normal
+ 73
+ 115
+ 60
+ 60
+ 60
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Seviper
+Shed Skin, Infiltrator (Hidden Ability)
+52.5
+Poison
+ 73
+ 100
+ 60
+ 100
+ 60
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lunatone
+Levitate
+1.0
+Rock / Psychic
+ 70
+ 55
+ 65
+ 95
+ 85
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Solrock
+Levitate
+1.2
+Rock / Psychic
+ 70
+ 95
+ 85
+ 55
+ 65
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Barboach
+Oblivious, Anticipation, Hydration (Hidden Ability)
+1.9
+Water / Ground
+ 50
+ 48
+ 43
+ 46
+ 41
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Whiscash
+Oblivious, Anticipation, Hydration (Hidden Ability)
+23.6
+Water / Ground
+ 110
+ 78
+ 73
+ 76
+ 71
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Corphish
+Hyper Cutter, Shell Armor, Adaptability (Hidden Ability)
+11.5
+Water
+ 43
+ 80
+ 65
+ 50
+ 35
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Crawdaunt
+Hyper Cutter, Shell Armor, Adaptability (Hidden Ability)
+32.8
+Water / Dark
+ 63
+ 120
+ 85
+ 90
+ 55
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Baltoy
+Levitate
+0.5
+Ground / Psychic
+ 40
+ 40
+ 55
+ 40
+ 70
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Claydol
+Levitate
+1.5
+Ground / Psychic
+ 60
+ 70
+ 105
+ 70
+ 120
+ 75
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lileep
+Suction Cups, Storm Drain (Hidden Ability)
+23.8
+Rock / Grass
+ 66
+ 41
+ 77
+ 61
+ 87
+ 23
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cradily
+Suction Cups, Storm Drain (Hidden Ability)
+60.4
+Rock / Grass
+ 86
+ 81
+ 97
+ 81
+ 107
+ 43
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Anorith
+Battle Armor, Swift Swim (Hidden Ability)
+12.5
+Rock / Bug
+ 45
+ 95
+ 50
+ 40
+ 50
+ 75
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Armaldo
+Battle Armor, Swift Swim (Hidden Ability)
+68.2
+Rock / Bug
+ 75
+ 125
+ 100
+ 70
+ 80
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Feebas
+Swift Swim, Oblivious, Adaptability (Hidden Ability)
+7.4
+Water
+ 20
+ 15
+ 20
+ 10
+ 55
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Milotic
+Marvel Scale, Competitive, Cute Charm (Hidden Ability)
+162.0
+Water
+ 95
+ 60
+ 79
+ 100
+ 125
+ 81
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Castform
+Forecast
+0.8
+Normal
+ 70
+ 70
+ 70
+ 70
+ 70
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kecleon
+Color Change, Protean (Hidden Ability)
+22.0
+Normal
+ 60
+ 90
+ 70
+ 60
+ 120
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Shuppet
+Insomnia, Frisk, Cursed Body (Hidden Ability)
+2.3
+Ghost
+ 44
+ 75
+ 35
+ 63
+ 33
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Banette
+Insomnia, Frisk, Cursed Body (Hidden Ability), Prankster (Mega Banette)
+ Forms:
+Banette
+12.5
+Ghost
+ 64
+ 115
+ 65
+ 83
+ 63
+ 65
+Mega Banette
+13.0
+Ghost
+ 64
+ 165
+ 75
+ 93
+ 83
+ 75
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Duskull
+Levitate, Frisk (Hidden Ability)
+15.0
+Ghost
+ 20
+ 40
+ 90
+ 30
+ 90
+ 25
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dusclops
+Pressure, Frisk (Hidden Ability)
+30.6
+Ghost
+ 40
+ 70
+ 130
+ 60
+ 130
+ 25
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tropius
+Chlorophyll, Solar Power, Harvest (Hidden Ability)
+100.0
+Grass / Flying
+ 99
+ 68
+ 83
+ 72
+ 87
+ 51
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chimecho
+Levitate
+1.0
+Psychic
+ 65
+ 50
+ 70
+ 95
+ 80
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Absol
+Pressure, Super Luck, Justified (Hidden Ability), Magic Bounce (Mega Absol)
+ Forms:
+Absol
+47.0
+Dark
+ 65
+ 130
+ 60
+ 75
+ 60
+ 75
+Mega Absol
+49.0
+Dark
+ 65
+ 150
+ 60
+ 115
+ 60
+ 115
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Wynaut
+Shadow Tag, Telepathy (Hidden Ability)
+14.0
+Psychic
+ 95
+ 23
+ 48
+ 23
+ 48
+ 23
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Snorunt
+Inner Focus, Ice Body, Moody (Hidden Ability)
+16.8
+Ice
+ 50
+ 50
+ 50
+ 50
+ 50
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Glalie
+Inner Focus, Ice Body, Moody (Hidden Ability), Refrigerate (Mega Glalie)
+ Forms:
+Glalie
+256.5
+Ice
+ 80
+ 80
+ 80
+ 80
+ 80
+ 80
+Mega Glalie
+350.2
+Ice
+ 80
+ 120
+ 80
+ 120
+ 80
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Spheal
+Thick Fat, Ice Body, Oblivious (Hidden Ability)
+39.5
+Ice / Water
+ 70
+ 40
+ 50
+ 55
+ 50
+ 25
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sealeo
+Thick Fat, Ice Body, Oblivious (Hidden Ability)
+87.6
+Ice / Water
+ 90
+ 60
+ 70
+ 75
+ 70
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Walrein
+Thick Fat, Ice Body, Oblivious (Hidden Ability)
+150.6
+Ice / Water
+ 110
+ 80
+ 90
+ 95
+ 90
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Clamperl
+Shell Armor, Rattled (Hidden Ability)
+52.5
+Water
+ 35
+ 64
+ 85
+ 74
+ 55
+ 32
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Huntail
+Swift Swim, Water Veil (Hidden Ability)
+27.0
+Water
+ 55
+ 104
+ 105
+ 94
+ 75
+ 52
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gorebyss
+Swift Swim, Hydration (Hidden Ability)
+22.6
+Water
+ 55
+ 84
+ 105
+ 114
+ 75
+ 52
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Relicanth
+Swift Swim, Rock Head, Sturdy (Hidden Ability)
+23.4
+Water / Rock
+ 100
+ 90
+ 130
+ 45
+ 65
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Luvdisc
+Swift Swim, Hydration (Hidden Ability)
+8.7
+Water
+ 43
+ 30
+ 55
+ 40
+ 65
+ 97
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bagon
+Rock Head, Sheer Force (Hidden Ability)
+42.1
+Dragon
+ 45
+ 75
+ 60
+ 40
+ 30
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Shelgon
+Rock Head, Overcoat (Hidden Ability)
+110.5
+Dragon
+ 65
+ 95
+ 100
+ 60
+ 50
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Salamence
+Intimidate, Moxie (Hidden Ability), Aerilate (Mega Salamence)
+ Forms:
+Salamence
+102.6
+Dragon / Flying
+ 95
+ 135
+ 80
+ 110
+ 80
+ 100
+Mega Salamence
+112.6
+Dragon / Flying
+ 95
+ 145
+ 130
+ 120
+ 90
+ 120
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Beldum
+Clear Body, Light Metal (Hidden Ability)
+0.6
+Steel / Psychic
+ 40
+ 55
+ 80
+ 35
+ 60
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Metang
+Clear Body, Light Metal (Hidden Ability)
+1.2
+Steel / Psychic
+ 60
+ 75
+ 100
+ 55
+ 80
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Metagross
+Clear Body, Light Metal (Hidden Ability), Tough Claws (Mega Metagross)
+ Forms:
+Metagross
+1.6
+Steel / Psychic
+ 80
+ 135
+ 130
+ 95
+ 90
+ 70
+Mega Metagross
+2.5
+Steel / Psychic
+ 80
+ 145
+ 150
+ 105
+ 110
+ 110
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Regirock
+Clear Body, Sturdy (Hidden Ability)
+1.7
+Rock
+ 80
+ 100
+ 200
+ 50
+ 100
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Regice
+Clear Body, Ice Body (Hidden Ability)
+1.8
+Ice
+ 80
+ 50
+ 100
+ 100
+ 200
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Registeel
+Clear Body, Light Metal (Hidden Ability)
+1.9
+Steel
+ 80
+ 75
+ 150
+ 75
+ 150
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Latias
+Levitate
+ Forms:
+Latias
+40.0
+Dragon / Psychic
+ 80
+ 80
+ 90
+ 110
+ 130
+ 110
+Mega Latias
+52.0
+Dragon / Psychic
+ 80
+ 100
+ 120
+ 140
+ 150
+ 110
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Latios
+Levitate
+ Forms:
+Latios
+60.0
+Dragon / Psychic
+ 80
+ 90
+ 80
+ 130
+ 110
+ 110
+Mega Latios
+70.0
+Dragon / Psychic
+ 80
+ 130
+ 100
+ 160
+ 120
+ 110
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kyogre
+Drizzle, Primordial Sea (Primal)
+ Forms:
+Kyogre
+4.5
+Water
+ 100
+ 100
+ 90
+ 150
+ 140
+ 90
+Primal Kyogre
+9.8
+Water
+ 100
+ 150
+ 90
+ 180
+ 160
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Groudon
+Drought, Desolate Land (Primal)
+ Forms:
+Groudon
+3.5
+Ground
+ 100
+ 150
+ 140
+ 100
+ 90
+ 90
+Primal Groudon
+5.0
+Ground / Fire
+ 100
+ 180
+ 160
+ 150
+ 90
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rayquaza
+Air Lock, Delta Stream (Mega Rayquaza)
+ Forms:
+Rayquaza
+7.0
+Dragon / Flying
+ 105
+ 150
+ 90
+ 150
+ 90
+ 95
+Mega Rayquaza
+10.8
+Dragon / Flying
+ 105
+ 180
+ 100
+ 180
+ 100
+ 115
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Jirachi
+Serene Grace
+0.3
+Steel / Psychic
+ 100
+ 100
+ 100
+ 100
+ 100
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Turtwig
+Overgrow, Shell Armor (Hidden Ability)
+10.2
+Grass
+ 55
+ 68
+ 64
+ 45
+ 55
+ 31
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Grotle
+Overgrow, Shell Armor (Hidden Ability)
+97.0
+Grass
+ 75
+ 89
+ 85
+ 55
+ 65
+ 36
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Torterra
+Overgrow, Shell Armor (Hidden Ability)
+310.0
+Grass / Ground
+ 95
+ 109
+ 105
+ 75
+ 85
+ 56
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chimchar
+Blaze, Iron Fist (Hidden Ability)
+6.2
+Fire
+ 44
+ 58
+ 44
+ 58
+ 44
+ 61
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Monferno
+Blaze, Iron Fist (Hidden Ability)
+22.0
+Fire / Fighting
+ 64
+ 78
+ 52
+ 78
+ 52
+ 81
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Infernape
+Blaze, Iron Fist (Hidden Ability)
+55.0
+Fire / Fighting
+ 76
+ 104
+ 71
+ 104
+ 71
+ 108
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Piplup
+Torrent, Defiant (Hidden Ability)
+5.2
+Water
+ 53
+ 51
+ 53
+ 61
+ 56
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Prinplup
+Torrent, Defiant (Hidden Ability)
+23.0
+Water
+ 64
+ 66
+ 68
+ 81
+ 76
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Empoleon
+Torrent, Defiant (Hidden Ability)
+84.5
+Water / Steel
+ 84
+ 86
+ 88
+ 111
+ 101
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Starly
+Keen Eye, Reckless (Hidden Ability)
+2.0
+Normal / Flying
+ 40
+ 55
+ 30
+ 30
+ 30
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Staravia
+Intimidate, Reckless (Hidden Ability)
+15.5
+Normal / Flying
+ 55
+ 75
+ 50
+ 40
+ 40
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Staraptor
+Intimidate, Reckless (Hidden Ability)
+ Forms:
+Generation IV-V
+24.9
+Normal / Flying
+ 85
+ 120
+ 70
+ 50
+ 50
+ 100
+Generation VI
+24.9
+Normal / Flying
+ 85
+ 120
+ 70
+ 50
+ 60
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bidoof
+Simple, Unaware, Moody (Hidden Ability)
+20.0
+Normal
+ 59
+ 45
+ 40
+ 35
+ 40
+ 31
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bibarel
+Simple, Unaware, Moody (Hidden Ability)
+31.5
+Normal / Water
+ 79
+ 85
+ 60
+ 55
+ 60
+ 71
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kricketot
+Shed Skin, Run Away (Hidden Ability)
+2.2
+Bug
+ 37
+ 25
+ 41
+ 25
+ 41
+ 25
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kricketune
+Swarm, Technician (Hidden Ability)
+25.5
+Bug
+ 77
+ 85
+ 51
+ 55
+ 51
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Shinx
+Rivalry, Intimidate, Guts (Hidden Ability)
+9.5
+Electric
+ 45
+ 65
+ 34
+ 40
+ 34
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Luxio
+Rivalry, Intimidate, Guts (Hidden Ability)
+30.5
+Electric
+ 60
+ 85
+ 49
+ 60
+ 49
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Luxray
+Rivalry, Intimidate, Guts (Hidden Ability)
+42.0
+Electric
+ 80
+ 120
+ 79
+ 95
+ 79
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Budew
+Natural Cure, Poison Point, Leaf Guard (Hidden Ability)
+1.2
+Grass / Poison
+ 40
+ 30
+ 35
+ 50
+ 70
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Roserade
+Natural Cure, Poison Point, Technician (Hidden Ability)
+ Forms:
+Generation IV-V
+14.5
+Grass / Poison
+ 60
+ 70
+ 55
+ 125
+ 105
+ 90
+Generation VI
+14.5
+Grass / Poison
+ 60
+ 70
+ 65
+ 125
+ 105
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cranidos
+Mold Breaker, Sheer Force (Hidden Ability)
+31.5
+Rock
+ 67
+ 125
+ 40
+ 30
+ 30
+ 58
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rampardos
+Mold Breaker, Sheer Force (Hidden Ability)
+102.5
+Rock
+ 97
+ 165
+ 60
+ 65
+ 50
+ 58
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Shieldon
+Sturdy, Soundproof (Hidden Ability)
+57.0
+Rock / Steel
+ 30
+ 42
+ 118
+ 42
+ 88
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bastiodon
+Sturdy, Soundproof (Hidden Ability)
+149.5
+Rock / Steel
+ 60
+ 52
+ 168
+ 47
+ 138
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Burmy
+Shed Skin, Overcoat (Hidden Ability)
+3.4
+Bug
+ 40
+ 29
+ 45
+ 29
+ 45
+ 36
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mothim
+Swarm, Tinted Lens (Hidden Ability)
+23.3
+Bug / Flying
+ 70
+ 94
+ 50
+ 94
+ 50
+ 66
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Combee
+Honey Gather, Hustle (Hidden Ability)
+5.5
+Bug / Flying
+ 30
+ 30
+ 42
+ 30
+ 42
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Vespiquen
+Pressure, Unnerve (Hidden Ability)
+38.5
+Bug / Flying
+ 70
+ 80
+ 102
+ 80
+ 102
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pachirisu
+Run Away, Pickup, Volt Absorb (Hidden Ability)
+3.9
+Electric
+ 60
+ 45
+ 70
+ 45
+ 90
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Buizel
+Swift Swim, Water Veil (Hidden Ability)
+29.5
+Water
+ 55
+ 65
+ 35
+ 60
+ 30
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Floatzel
+Swift Swim, Water Veil (Hidden Ability)
+33.5
+Water
+ 85
+ 105
+ 55
+ 85
+ 50
+ 115
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cherubi
+Chlorophyll
+3.3
+Grass
+ 45
+ 35
+ 45
+ 62
+ 53
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cherrim
+Flower Gift
+9.3
+Grass
+ 70
+ 60
+ 70
+ 87
+ 78
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Shellos
+Sticky Hold, Storm Drain, Sand Force (Hidden Ability)
+6.3
+Water
+ 76
+ 48
+ 48
+ 57
+ 62
+ 34
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gastrodon
+Sticky Hold, Storm Drain, Sand Force (Hidden Ability)
+29.9
+Water / Ground
+ 111
+ 83
+ 68
+ 92
+ 82
+ 39
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ambipom
+Technician, Pickup, Skill Link (Hidden Ability)
+20.3
+Normal
+ 75
+ 100
+ 66
+ 60
+ 66
+ 115
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Drifloon
+Aftermath, Unburden, Flare Boost (Hidden Ability)
+1.2
+Ghost / Flying
+ 90
+ 50
+ 34
+ 60
+ 44
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Drifblim
+Aftermath, Unburden, Flare Boost (Hidden Ability)
+15.0
+Ghost / Flying
+ 150
+ 80
+ 44
+ 90
+ 54
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Buneary
+Run Away, Klutz, Limber (Hidden Ability)
+5.5
+Normal
+ 55
+ 66
+ 44
+ 44
+ 56
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lopunny
+Cute Charm, Klutz, Limber (Hidden Ability), Scrappy (Mega Lopunny)
+ Forms:
+Lopunny
+33.3
+Normal
+ 65
+ 76
+ 84
+ 54
+ 96
+ 105
+Mega Lopunny
+28.3
+Normal / Fighting
+ 65
+ 136
+ 94
+ 54
+ 96
+ 135
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mismagius
+Levitate
+4.4
+Ghost
+ 60
+ 60
+ 60
+ 105
+ 105
+ 105
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Honchkrow
+Insomnia, Super Luck, Moxie (Hidden Ability)
+27.3
+Dark / Flying
+ 100
+ 125
+ 52
+ 105
+ 52
+ 71
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Glameow
+Limber, Own Tempo, Keen Eye (Hidden Ability)
+3.9
+Normal
+ 49
+ 55
+ 42
+ 42
+ 37
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Purugly
+Thick Fat, Own Tempo, Defiant (Hidden Ability)
+43.8
+Normal
+ 71
+ 82
+ 64
+ 64
+ 59
+ 112
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chingling
+Levitate
+0.6
+Psychic
+ 45
+ 30
+ 50
+ 65
+ 50
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stunky
+Stench, Aftermath, Keen Eye (Hidden Ability)
+19.2
+Poison / Dark
+ 63
+ 63
+ 47
+ 41
+ 41
+ 74
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Skuntank
+Stench, Aftermath, Keen Eye (Hidden Ability)
+38.0
+Poison / Dark
+ 103
+ 93
+ 67
+ 71
+ 61
+ 84
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bronzor
+Levitate, Heatproof, Heavy Metal (Hidden Ability)
+0.5
+Steel / Psychic
+ 57
+ 24
+ 86
+ 24
+ 86
+ 23
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bronzong
+Levitate, Heatproof, Heavy Metal (Hidden Ability)
+1.3
+Steel / Psychic
+ 67
+ 89
+ 116
+ 79
+ 116
+ 33
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bonsly
+Sturdy, Rock Head, Rattled (Hidden Ability)
+15.0
+Rock
+ 50
+ 80
+ 95
+ 10
+ 45
+ 10
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mime Jr.
+Soundproof, Filter, Technician (Hidden Ability)
+13.0
+Psychic / Fairy
+ 20
+ 25
+ 45
+ 70
+ 90
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Happiny
+Natural Cure, Serene Grace, Friend Guard (Hidden Ability)
+24.4
+Normal
+ 100
+ 5
+ 5
+ 15
+ 65
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chatot
+Keen Eye, Tangled Feet, Big Pecks (Hidden Ability)
+1.9
+Normal / Flying
+ 76
+ 65
+ 45
+ 92
+ 42
+ 91
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Spiritomb
+Pressure, Infiltrator (Hidden Ability)
+108.0
+Ghost / Dark
+ 50
+ 92
+ 108
+ 92
+ 108
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gible
+Sand Veil, Rough Skin (Hidden Ability)
+20.5
+Dragon / Ground
+ 58
+ 70
+ 45
+ 40
+ 45
+ 42
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gabite
+Sand Veil, Rough Skin (Hidden Ability)
+56.0
+Dragon / Ground
+ 68
+ 90
+ 65
+ 50
+ 55
+ 82
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Garchomp
+Sand Veil, Rough Skin (Hidden Ability), Sand Force (Mega Garchomp)
+ Forms:
+Garchomp
+95.0
+Dragon / Ground
+ 108
+ 130
+ 95
+ 80
+ 85
+ 102
+Mega Garchomp
+95.0
+Dragon / Ground
+ 108
+ 170
+ 115
+ 120
+ 95
+ 92
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Munchlax
+Pickup, Thick Fat, Gluttony (Hidden Ability)
+105.0
+Normal
+ 135
+ 85
+ 40
+ 40
+ 85
+ 5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Riolu
+Steadfast, Inner Focus, Prankster (Hidden Ability)
+20.2
+Fighting
+ 40
+ 70
+ 40
+ 35
+ 40
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lucario
+Steadfast, Inner Focus, Justified (Hidden Ability), Adaptability (Mega Lucario)
+ Forms:
+Lucario
+54.0
+Fighting / Steel
+ 70
+ 110
+ 70
+ 115
+ 70
+ 90
+Mega Lucario
+57.5
+Fighting / Steel
+ 70
+ 145
+ 88
+ 140
+ 70
+ 112
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hippopotas
+Sand Stream, Sand Force (Hidden Ability)
+49.5
+Ground
+ 68
+ 72
+ 78
+ 38
+ 42
+ 32
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hippowdon
+Sand Stream, Sand Force (Hidden Ability)
+300.0
+Ground
+ 108
+ 112
+ 118
+ 68
+ 72
+ 47
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Skorupi
+Battle Armor, Sniper, Keen Eye (Hidden Ability)
+12.0
+Poison / Bug
+ 40
+ 50
+ 90
+ 30
+ 55
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Drapion
+Battle Armor, Sniper, Keen Eye (Hidden Ability)
+61.5
+Poison / Dark
+ 70
+ 90
+ 110
+ 60
+ 75
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Croagunk
+Anticipation, Dry Skin, Poison Touch (Hidden Ability)
+23.0
+Poison / Fighting
+ 48
+ 61
+ 40
+ 61
+ 40
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Toxicroak
+Anticipation, Dry Skin, Poison Touch (Hidden Ability)
+44.4
+Poison / Fighting
+ 83
+ 106
+ 65
+ 86
+ 65
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Carnivine
+Levitate
+27.0
+Grass
+ 74
+ 100
+ 72
+ 90
+ 72
+ 46
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Finneon
+Swift Swim, Storm Drain, Water Veil (Hidden Ability)
+7.0
+Water
+ 49
+ 49
+ 56
+ 49
+ 61
+ 66
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lumineon
+Swift Swim, Storm Drain, Water Veil (Hidden Ability)
+24.0
+Water
+ 69
+ 69
+ 76
+ 69
+ 86
+ 91
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mantyke
+Swift Swim, Water Absorb, Water Veil (Hidden Ability)
+65.0
+Water / Flying
+ 45
+ 20
+ 50
+ 60
+ 120
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Snover
+Snow Warning, Soundproof (Hidden Ability)
+50.5
+Grass / Ice
+ 60
+ 62
+ 50
+ 62
+ 60
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Abomasnow
+Snow Warning, Soundproof (Hidden Ability), Snow Warning (Mega Abomasnow)
+ Forms:
+Abomasnow
+135.5
+Grass / Ice
+ 90
+ 92
+ 75
+ 92
+ 85
+ 60
+Mega Abomasnow
+185.0
+Grass / Ice
+ 90
+ 132
+ 105
+ 132
+ 105
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Weavile
+Pressure, Pickpocket (Hidden Ability)
+34.0
+Dark / Ice
+ 70
+ 120
+ 65
+ 45
+ 85
+ 125
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Magnezone
+Magnet Pull, Sturdy, Analytic (Hidden Ability)
+1.2
+Electric / Steel
+ 70
+ 70
+ 115
+ 130
+ 90
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lickilicky
+Own Tempo, Oblivious, Cloud Nine (Hidden Ability)
+140.0
+Normal
+ 110
+ 85
+ 95
+ 80
+ 95
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rhyperior
+Lightning Rod, Solid Rock, Reckless (Hidden Ability)
+282.8
+Ground / Rock
+ 115
+ 140
+ 130
+ 55
+ 55
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tangrowth
+Chlorophyll, Leaf Guard, Regenerator (Hidden Ability)
+128.6
+Grass
+ 100
+ 100
+ 125
+ 110
+ 50
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Electivire
+Motor Drive, Vital Spirit (Hidden Ability)
+138.6
+Electric
+ 75
+ 123
+ 67
+ 95
+ 85
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Magmortar
+Flame Body, Vital Spirit (Hidden Ability)
+68.0
+Fire
+ 75
+ 95
+ 67
+ 125
+ 95
+ 83
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Togekiss
+Hustle, Serene Grace, Super Luck (Hidden Ability)
+38.0
+Fairy / Flying
+ 85
+ 50
+ 95
+ 120
+ 115
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Yanmega
+Speed Boost, Tinted Lens, Frisk (Hidden Ability)
+51.5
+Bug / Flying
+ 86
+ 76
+ 86
+ 116
+ 56
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Leafeon
+Leaf Guard, Chlorophyll (Hidden Ability)
+25.5
+Grass
+ 65
+ 110
+ 130
+ 60
+ 65
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Glaceon
+Snow Cloak, Ice Body (Hidden Ability)
+25.9
+Ice
+ 65
+ 60
+ 110
+ 130
+ 95
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gliscor
+Hyper Cutter, Sand Veil, Poison Heal (Hidden Ability)
+42.5
+Ground / Flying
+ 75
+ 95
+ 125
+ 45
+ 75
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mamoswine
+Oblivious, Snow Cloak, Thick Fat (Hidden Ability)
+291.0
+Ice / Ground
+ 110
+ 130
+ 80
+ 70
+ 60
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Porygon-Z
+Adaptability, Download, Analytic (Hidden Ability)
+0.9
+Normal
+ 85
+ 80
+ 70
+ 135
+ 75
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gallade
+Steadfast, Justified (Hidden Ability), Inner Focus (Mega Gallade)
+ Forms:
+Gallade
+52.0
+Psychic / Fighting
+ 68
+ 125
+ 65
+ 65
+ 115
+ 80
+Mega Gallade
+56.4
+Psychic / Fighting
+ 68
+ 165
+ 95
+ 65
+ 115
+ 110
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Probopass
+Sturdy, Magnet Pull, Sand Force (Hidden Ability)
+340.0
+Rock / Steel
+ 60
+ 55
+ 145
+ 75
+ 150
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dusknoir
+Pressure, Frisk (Hidden Ability)
+106.6
+Ghost
+ 45
+ 100
+ 135
+ 65
+ 135
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Froslass
+Snow Cloak, Cursed Body (Hidden Ability)
+26.6
+Ice / Ghost
+ 70
+ 80
+ 70
+ 80
+ 70
+ 110
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Uxie
+Levitate
+0.3
+Psychic
+ 75
+ 75
+ 130
+ 75
+ 130
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mesprit
+Levitate
+0.3
+Psychic
+ 80
+ 105
+ 105
+ 105
+ 105
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Azelf
+Levitate
+0.3
+Psychic
+ 75
+ 125
+ 70
+ 125
+ 70
+ 115
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dialga
+Pressure, Telepathy (Hidden Ability)
+5.4
+Steel / Dragon
+ 100
+ 120
+ 120
+ 150
+ 100
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Palkia
+Pressure, Telepathy (Hidden Ability)
+4.2
+Water / Dragon
+ 90
+ 120
+ 100
+ 150
+ 120
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Heatran
+Flash Fire, Flame Body (Hidden Ability)
+430.0
+Fire / Steel
+ 91
+ 90
+ 106
+ 130
+ 106
+ 77
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Regigigas
+Slow Start
+3.7
+Normal
+ 110
+ 160
+ 110
+ 80
+ 110
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cresselia
+Levitate
+85.6
+Psychic
+ 120
+ 70
+ 120
+ 75
+ 130
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Phione
+Hydration
+0.4
+Water
+ 80
+ 80
+ 80
+ 80
+ 80
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Manaphy
+Hydration
+0.3
+Water
+ 100
+ 100
+ 100
+ 100
+ 100
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Darkrai
+Bad Dreams
+1.5
+Dark
+ 70
+ 90
+ 90
+ 135
+ 90
+ 125
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Arceus
+Multitype
+3.2
+Normal
+ 120
+ 120
+ 120
+ 120
+ 120
+ 120
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Victini
+Victory Star
+0.4
+Psychic / Fire
+ 100
+ 100
+ 100
+ 100
+ 100
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Snivy
+Overgrow, Contrary (Hidden Ability)
+8.1
+Grass
+ 45
+ 45
+ 55
+ 45
+ 55
+ 63
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Servine
+Overgrow, Contrary (Hidden Ability)
+16
+Grass
+ 60
+ 60
+ 75
+ 60
+ 75
+ 83
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Serperior
+Overgrow, Contrary (Hidden Ability)
+63.0
+Grass
+ 75
+ 75
+ 95
+ 75
+ 95
+ 113
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tepig
+Blaze, Thick Fat (Hidden Ability)
+9.9
+Fire
+ 65
+ 63
+ 45
+ 45
+ 45
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pignite
+Blaze, Thick Fat (Hidden Ability)
+55.5
+Fire / Fighting
+ 90
+ 93
+ 55
+ 70
+ 55
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Emboar
+Blaze, Reckless (Hidden Ability)
+150.0
+Fire / Fighting
+ 110
+ 123
+ 65
+ 100
+ 65
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Oshawott
+Torrent, Shell Armor (Hidden Ability)
+5.9
+Water
+ 55
+ 55
+ 45
+ 63
+ 45
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dewott
+Torrent, Shell Armor (Hidden Ability)
+24.5
+Water
+ 75
+ 75
+ 60
+ 83
+ 60
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Samurott
+Torrent, Shell Armor (Hidden Ability)
+94.6
+Water
+ 95
+ 100
+ 85
+ 108
+ 70
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Patrat
+Run Away, Keen Eye, Analytic (Hidden Ability)
+11.6
+Normal
+ 45
+ 55
+ 39
+ 35
+ 39
+ 42
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Watchog
+Illuminate, Keen Eye, Analytic (Hidden Ability)
+27.0
+Normal
+ 60
+ 85
+ 69
+ 60
+ 69
+ 77
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lillipup
+Vital Spirit, Pickup, Run Away (Hidden Ability)
+4.1
+Normal
+ 45
+ 60
+ 45
+ 25
+ 45
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Herdier
+Intimidate, Sand Rush, Scrappy (Hidden Ability)
+14.7
+Normal
+ 65
+ 80
+ 65
+ 35
+ 65
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stoutland
+Intimidate, Sand Rush, Scrappy (Hidden Ability)
+ Forms:
+Generation V
+61.0
+Normal
+ 85
+ 100
+ 90
+ 45
+ 90
+ 80
+Generation VI
+61.0
+Normal
+ 85
+ 110
+ 90
+ 45
+ 90
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Purrloin
+Limber, Unburden, Prankster (Hidden Ability)
+10.1
+Dark
+ 41
+ 50
+ 37
+ 50
+ 37
+ 66
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Liepard
+Limber, Unburden, Prankster (Hidden Ability)
+37.5
+Dark
+ 64
+ 88
+ 50
+ 88
+ 50
+ 106
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pansage
+Gluttony, Overgrow (Hidden Ability)
+10.5
+Grass
+ 50
+ 53
+ 48
+ 53
+ 48
+ 64
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Simisage
+Gluttony, Overgrow (Hidden Ability)
+30.5
+Grass
+ 75
+ 98
+ 63
+ 98
+ 63
+ 101
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pansear
+Gluttony, Blaze (Hidden Ability)
+11.0
+Fire
+ 50
+ 53
+ 48
+ 53
+ 48
+ 64
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Simisear
+Gluttony, Blaze (Hidden Ability)
+28.0
+Fire
+ 75
+ 98
+ 63
+ 98
+ 63
+ 101
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Panpour
+Gluttony, Torrent (Hidden Ability)
+13.5
+Water
+ 50
+ 53
+ 48
+ 53
+ 48
+ 64
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Simipour
+Gluttony, Torrent (Hidden Ability)
+29.0
+Water
+ 75
+ 98
+ 63
+ 98
+ 63
+ 101
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Munna
+Forewarn, Synchronize, Telepathy (Hidden Ability)
+23.3
+Psychic
+ 76
+ 25
+ 45
+ 67
+ 55
+ 24
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Musharna
+Forewarn, Synchronize, Telepathy (Hidden Ability)
+60.5
+Psychic
+ 116
+ 55
+ 85
+ 107
+ 95
+ 29
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pidove
+Big Pecks, Super Luck, Rivalry (Hidden Ability)
+2.1
+Normal / Flying
+ 50
+ 55
+ 50
+ 36
+ 30
+ 43
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tranquill
+Big Pecks, Super Luck, Rivalry (Hidden Ability)
+15.0
+Normal / Flying
+ 62
+ 77
+ 62
+ 50
+ 42
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Unfezant
+Big Pecks, Super Luck, Rivalry (Hidden Ability)
+ Forms:
+Generation V
+29.0
+Normal / Flying
+ 80
+ 105
+ 80
+ 65
+ 55
+ 93
+Generation VI
+29.0
+Normal / Flying
+ 80
+ 115
+ 80
+ 65
+ 55
+ 93
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Blitzle
+Lightning Rod, Motor Drive, Sap Sipper (Hidden Ability)
+29.8
+Electric
+ 45
+ 60
+ 32
+ 50
+ 32
+ 76
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Zebstrika
+Lightning Rod, Motor Drive, Sap Sipper (Hidden Ability)
+79.5
+Electric
+ 75
+ 100
+ 63
+ 80
+ 63
+ 116
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Roggenrola
+Sturdy, Sand Force (Hidden Ability)
+18.0
+Rock
+ 55
+ 75
+ 85
+ 25
+ 25
+ 15
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Boldore
+Sturdy, Sand Force (Hidden Ability)
+102.0
+Rock
+ 70
+ 105
+ 105
+ 50
+ 40
+ 20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gigalith
+Sturdy, Sand Force (Hidden Ability)
+ Forms:
+Generation V
+260.0
+Rock
+ 85
+ 135
+ 130
+ 60
+ 70
+ 25
+Generation VI
+260.0
+Rock
+ 85
+ 135
+ 130
+ 60
+ 80
+ 25
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Woobat
+Unaware, Klutz, Simple (Hidden Ability)
+2.1
+Psychic / Flying
+ 55
+ 45
+ 43
+ 55
+ 43
+ 72
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Swoobat
+Unaware, Klutz, Simple (Hidden Ability)
+10.5
+Psychic / Flying
+ 67
+ 57
+ 55
+ 77
+ 55
+ 114
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Drilbur
+Sand Rush, Sand Force, Mold Breaker (Hidden Ability)
+8.5
+Ground
+ 60
+ 85
+ 40
+ 30
+ 45
+ 68
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Excadrill
+Sand Rush, Sand Force, Mold Breaker (Hidden Ability)
+40.4
+Ground / Steel
+ 110
+ 135
+ 60
+ 50
+ 65
+ 88
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Audino
+Healer, Regenerator, Klutz (Hidden Ability), Healer (Mega Audino)
+ Forms:
+Audino
+31.0
+Normal
+ 103
+ 60
+ 86
+ 60
+ 86
+ 50
+Mega Audino
+32.0
+Normal / Fairy
+ 103
+ 60
+ 126
+ 80
+ 126
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Timburr
+Guts, Sheer Force, Iron Fist (Hidden Ability)
+12.5
+Fighting
+ 75
+ 80
+ 55
+ 25
+ 35
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gurdurr
+Guts, Sheer Force, Iron Fist (Hidden Ability)
+40.0
+Fighting
+ 85
+ 105
+ 85
+ 40
+ 50
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Conkeldurr
+Guts, Sheer Force, Iron Fist (Hidden Ability)
+87.0
+Fighting
+ 105
+ 140
+ 95
+ 55
+ 65
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tympole
+Swift Swim, Hydration, Water Absorb (Hidden Ability)
+4.5
+Water
+ 50
+ 50
+ 40
+ 50
+ 40
+ 64
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Palpitoad
+Swift Swim, Hydration, Water Absorb (Hidden Ability)
+17.0
+Water / Ground
+ 75
+ 65
+ 55
+ 65
+ 55
+ 69
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Seismitoad
+Swift Swim, Poison Touch, Water Absorb (Hidden Ability)
+ Forms:
+Generation V
+62.0
+Water / Ground
+ 105
+ 85
+ 75
+ 85
+ 75
+ 74
+Generation VI
+62.0
+Water / Ground
+ 105
+ 95
+ 75
+ 85
+ 75
+ 74
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Throh
+Guts, Inner Focus, Mold Breaker (Hidden Ability)
+55.5
+Fighting
+ 120
+ 100
+ 85
+ 30
+ 85
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sawk
+Sturdy, Inner Focus, Mold Breaker (Hidden Ability)
+51.0
+Fighting
+ 75
+ 125
+ 75
+ 30
+ 75
+ 85
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sewaddle
+Swarm, Chlorophyll, Overcoat (Hidden Ability)
+2.5
+Bug / Grass
+ 45
+ 53
+ 70
+ 40
+ 60
+ 42
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Swadloon
+Leaf Guard, Chlorophyll, Overcoat (Hidden Ability)
+7.3
+Bug / Grass
+ 55
+ 63
+ 90
+ 50
+ 80
+ 42
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Leavanny
+Swarm, Chlorophyll, Overcoat (Hidden Ability)
+ Forms:
+Generation V
+20.5
+Bug / Grass
+ 75
+ 103
+ 80
+ 70
+ 70
+ 92
+Generation VI
+20.5
+Bug / Grass
+ 75
+ 103
+ 80
+ 70
+ 80
+ 92
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Venipede
+Poison Point, Swarm, Speed Boost (Hidden Ability)
+5.3
+Bug / Poison
+ 30
+ 45
+ 59
+ 30
+ 39
+ 57
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Whirlipede
+Poison Point, Swarm, Speed Boost (Hidden Ability)
+58.5
+Bug / Poison
+ 40
+ 55
+ 99
+ 40
+ 79
+ 47
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Scolipede
+Poison Point, Swarm, Speed Boost (Hidden Ability)
+ Forms:
+Generation V
+200.5
+Bug / Poison
+ 60
+ 90
+ 89
+ 55
+ 69
+ 112
+Generation VI
+200.5
+Bug / Poison
+ 60
+ 100
+ 89
+ 55
+ 69
+ 112
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cottonee
+Prankster, Infiltrator, Chlorophyll (Hidden Ability)
+0.6
+Grass / Fairy
+ 40
+ 27
+ 60
+ 37
+ 50
+ 66
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Whimsicott
+Prankster, Infiltrator, Chlorophyll (Hidden Ability)
+6.6
+Grass / Fairy
+ 60
+ 67
+ 85
+ 77
+ 75
+ 116
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Petilil
+Chlorophyll, Own Tempo, Leaf Guard (Hidden Ability)
+6.6
+Grass
+ 45
+ 35
+ 50
+ 70
+ 50
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lilligant
+Chlorophyll, Own Tempo, Leaf Guard (Hidden Ability)
+16.3
+Grass
+ 70
+ 60
+ 75
+ 110
+ 75
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Basculin
+Reckless (Red-Striped Form), Adaptability (Red-Striped Form), Rock Head (Blue-Striped Form), Adaptability (Blue-Striped Form), Mold Breaker (Hidden Ability)
+18.0
+Water
+ 70
+ 92
+ 65
+ 80
+ 55
+ 98
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sandile
+Intimidate, Moxie, Anger Point (Hidden Ability)
+15.2
+Ground / Dark
+ 50
+ 72
+ 35
+ 35
+ 35
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Krokorok
+Intimidate, Moxie, Anger Point (Hidden Ability)
+33.4
+Ground / Dark
+ 60
+ 82
+ 45
+ 45
+ 45
+ 74
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Krookodile
+Intimidate, Moxie, Anger Point (Hidden Ability)
+ Forms:
+Generation V
+96.3
+Ground / Dark
+ 95
+ 117
+ 70
+ 65
+ 70
+ 92
+Generation VI
+96.3
+Ground / Dark
+ 95
+ 117
+ 80
+ 65
+ 70
+ 92
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Darumaka
+Hustle, Inner Focus (Hidden Ability)
+37.5
+Fire
+ 70
+ 90
+ 45
+ 15
+ 45
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Maractus
+Water Absorb, Chlorophyll, Storm Drain (Hidden Ability)
+28.0
+Grass
+ 75
+ 86
+ 67
+ 106
+ 67
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dwebble
+Sturdy, Shell Armor, Weak Armor (Hidden Ability)
+14.5
+Bug / Rock
+ 50
+ 65
+ 85
+ 35
+ 35
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Crustle
+Sturdy, Shell Armor, Weak Armor (Hidden Ability)
+200.0
+Bug / Rock
+ 70
+ 95
+ 125
+ 65
+ 75
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Scraggy
+Shed Skin, Moxie, Intimidate (Hidden Ability)
+11.8
+Dark / Fighting
+ 50
+ 75
+ 70
+ 35
+ 70
+ 48
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Scrafty
+Shed Skin, Moxie, Intimidate (Hidden Ability)
+30.0
+Dark / Fighting
+ 65
+ 90
+ 115
+ 45
+ 115
+ 58
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sigilyph
+Wonder Skin, Magic Guard, Tinted Lens (Hidden Ability)
+14.0
+Psychic / Flying
+ 72
+ 58
+ 80
+ 103
+ 80
+ 97
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Yamask
+Mummy
+1.5
+Ghost
+ 38
+ 30
+ 85
+ 55
+ 65
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cofagrigus
+Mummy
+76.5
+Ghost
+ 58
+ 50
+ 145
+ 95
+ 105
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tirtouga
+Solid Rock, Sturdy, Swift Swim (Hidden Ability)
+16.5
+Water / Rock
+ 54
+ 78
+ 103
+ 53
+ 45
+ 22
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Carracosta
+Solid Rock, Sturdy, Swift Swim (Hidden Ability)
+81.0
+Water / Rock
+ 74
+ 108
+ 133
+ 83
+ 65
+ 32
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Archen
+Defeatist
+9.5
+Rock / Flying
+ 55
+ 112
+ 45
+ 74
+ 45
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Archeops
+Defeatist
+32.0
+Rock / Flying
+ 75
+ 140
+ 65
+ 112
+ 65
+ 110
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Trubbish
+Stench, Sticky Hold, Aftermath (Hidden Ability)
+31.0
+Poison
+ 50
+ 50
+ 62
+ 40
+ 62
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Garbodor
+Stench, Weak Armor, Aftermath (Hidden Ability)
+107.3
+Poison
+ 80
+ 95
+ 82
+ 60
+ 82
+ 75
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Zorua
+Illusion
+12.5
+Dark
+ 40
+ 65
+ 40
+ 80
+ 40
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Zoroark
+Illusion
+81.1
+Dark
+ 60
+ 105
+ 60
+ 120
+ 60
+ 105
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Minccino
+Cute Charm, Technician, Skill Link (Hidden Ability)
+5.8
+Normal
+ 55
+ 50
+ 40
+ 40
+ 40
+ 75
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cinccino
+Cute Charm, Technician, Skill Link (Hidden Ability)
+7.5
+Normal
+ 75
+ 95
+ 60
+ 65
+ 60
+ 115
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gothita
+Frisk, Competitive, Shadow Tag (Hidden Ability)
+5.8
+Psychic
+ 45
+ 30
+ 50
+ 55
+ 65
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gothorita
+Frisk, Competitive, Shadow Tag (Hidden Ability)
+18.0
+Psychic
+ 60
+ 45
+ 70
+ 75
+ 85
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gothitelle
+Frisk, Competitive, Shadow Tag (Hidden Ability)
+44.0
+Psychic
+ 70
+ 55
+ 95
+ 95
+ 110
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Solosis
+Overcoat, Magic Guard, Regenerator (Hidden Ability)
+1.0
+Psychic
+ 45
+ 30
+ 40
+ 105
+ 50
+ 20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Duosion
+Overcoat, Magic Guard, Regenerator (Hidden Ability)
+8.0
+Psychic
+ 65
+ 40
+ 50
+ 125
+ 60
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Reuniclus
+Overcoat, Magic Guard, Regenerator (Hidden Ability)
+20.1
+Psychic
+ 110
+ 65
+ 75
+ 125
+ 85
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ducklett
+Keen Eye, Big Pecks, Hydration (Hidden Ability)
+5.5
+Water / Flying
+ 62
+ 44
+ 50
+ 44
+ 50
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Swanna
+Keen Eye, Big Pecks, Hydration (Hidden Ability)
+24.2
+Water / Flying
+ 75
+ 87
+ 63
+ 87
+ 63
+ 98
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Vanillite
+Ice Body, Weak Armor (Hidden Ability)
+5.7
+Ice
+ 36
+ 50
+ 50
+ 65
+ 60
+ 44
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Vanillish
+Ice Body, Weak Armor (Hidden Ability)
+41.0
+Ice
+ 51
+ 65
+ 65
+ 80
+ 75
+ 59
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Vanilluxe
+Ice Body, Weak Armor (Hidden Ability)
+57.5
+Ice
+ 71
+ 95
+ 85
+ 110
+ 95
+ 79
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Deerling
+Chlorophyll, Sap Sipper, Serene Grace (Hidden Ability)
+19.5
+Normal / Grass
+ 60
+ 60
+ 50
+ 40
+ 50
+ 75
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sawsbuck
+Chlorophyll, Sap Sipper, Serene Grace (Hidden Ability)
+92.5
+Normal / Grass
+ 80
+ 100
+ 70
+ 60
+ 70
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Emolga
+Static, Motor Drive (Hidden Ability)
+5.0
+Electric / Flying
+ 55
+ 75
+ 60
+ 75
+ 60
+ 103
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Karrablast
+Swarm, Shed Skin, No Guard (Hidden Ability)
+5.9
+Bug
+ 50
+ 75
+ 45
+ 40
+ 45
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Escavalier
+Swarm, Shell Armor, Overcoat (Hidden Ability)
+33.0
+Bug / Steel
+ 70
+ 135
+ 105
+ 60
+ 105
+ 20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Foongus
+Effect Spore, Regenerator (Hidden Ability)
+1.0
+Grass / Poison
+ 69
+ 55
+ 45
+ 55
+ 55
+ 15
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Amoonguss
+Effect Spore, Regenerator (Hidden Ability)
+10.5
+Grass / Poison
+ 114
+ 85
+ 70
+ 85
+ 80
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Frillish
+Water Absorb, Cursed Body, Damp (Hidden Ability)
+33.0
+Water / Ghost
+ 55
+ 40
+ 50
+ 65
+ 85
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Jellicent
+Water Absorb, Cursed Body, Damp (Hidden Ability)
+135.0
+Water / Ghost
+ 100
+ 60
+ 70
+ 85
+ 105
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Alomomola
+Healer, Hydration, Regenerator (Hidden Ability)
+31.6
+Water
+ 165
+ 75
+ 80
+ 40
+ 45
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Joltik
+Compound Eyes, Unnerve, Swarm (Hidden Ability)
+0.6
+Bug / Electric
+ 50
+ 47
+ 50
+ 57
+ 50
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Galvantula
+Compound Eyes, Unnerve, Swarm (Hidden Ability)
+14.3
+Bug / Electric
+ 70
+ 77
+ 60
+ 97
+ 60
+ 108
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ferroseed
+Iron Barbs
+18.8
+Grass / Steel
+ 44
+ 50
+ 91
+ 24
+ 86
+ 10
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ferrothorn
+Iron Barbs, Anticipation (Hidden Ability)
+110.0
+Grass / Steel
+ 74
+ 94
+ 131
+ 54
+ 116
+ 20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Klink
+Plus, Minus, Clear Body (Hidden Ability)
+0.3
+Steel
+ 40
+ 55
+ 70
+ 45
+ 60
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Klang
+Plus, Minus, Clear Body (Hidden Ability)
+0.6
+Steel
+ 60
+ 80
+ 95
+ 70
+ 85
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Klinklang
+Plus, Minus, Clear Body (Hidden Ability)
+0.6
+Steel
+ 60
+ 100
+ 115
+ 70
+ 85
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tynamo
+Levitate
+0.3
+Electric
+ 35
+ 55
+ 40
+ 45
+ 40
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Eelektrik
+Levitate
+22.0
+Electric
+ 65
+ 85
+ 70
+ 75
+ 70
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Eelektross
+Levitate
+80.5
+Electric
+ 85
+ 115
+ 80
+ 105
+ 80
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Elgyem
+Telepathy, Synchronize, Analytic (Hidden Ability)
+9.0
+Psychic
+ 55
+ 55
+ 55
+ 85
+ 55
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Beheeyem
+Telepathy, Synchronize, Analytic (Hidden Ability)
+34.5
+Psychic
+ 75
+ 75
+ 75
+ 125
+ 95
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Litwick
+Flash Fire, Flame Body, Infiltrator (Hidden Ability)
+3.1
+Ghost / Fire
+ 50
+ 30
+ 55
+ 65
+ 55
+ 20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lampent
+Flash Fire, Flame Body, Infiltrator (Hidden Ability)
+13.0
+Ghost / Fire
+ 60
+ 40
+ 60
+ 95
+ 60
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chandelure
+Flash Fire, Flame Body, Infiltrator (Hidden Ability)
+34.3
+Ghost / Fire
+ 60
+ 55
+ 90
+ 145
+ 90
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Axew
+Rivalry, Mold Breaker, Unnerve (Hidden Ability)
+18.0
+Dragon
+ 46
+ 87
+ 60
+ 30
+ 40
+ 57
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Fraxure
+Rivalry, Mold Breaker, Unnerve (Hidden Ability)
+36.0
+Dragon
+ 66
+ 117
+ 70
+ 40
+ 50
+ 67
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Haxorus
+Rivalry, Mold Breaker, Unnerve (Hidden Ability)
+105.5
+Dragon
+ 76
+ 147
+ 90
+ 60
+ 70
+ 97
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cubchoo
+Snow Cloak, Rattled (Hidden Ability)
+8.5
+Ice
+ 55
+ 70
+ 40
+ 60
+ 40
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Beartic
+Snow Cloak, Swift Swim (Hidden Ability)
+260.0
+Ice
+ 95
+ 110
+ 80
+ 70
+ 80
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cryogonal
+Levitate
+1.1
+Ice
+ 70
+ 50
+ 30
+ 95
+ 135
+ 105
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Shelmet
+Hydration, Shell Armor, Overcoat (Hidden Ability)
+7.7
+Bug
+ 50
+ 40
+ 85
+ 40
+ 65
+ 25
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Accelgor
+Hydration, Sticky Hold, Unburden (Hidden Ability)
+25.3
+Bug
+ 80
+ 70
+ 40
+ 100
+ 60
+ 145
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stunfisk
+Static, Limber, Sand Veil (Hidden Ability)
+11.0
+Ground / Electric
+ 109
+ 66
+ 84
+ 81
+ 99
+ 32
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mienfoo
+Inner Focus, Regenerator, Reckless (Hidden Ability)
+20.0
+Fighting
+ 45
+ 85
+ 50
+ 55
+ 50
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mienshao
+Inner Focus, Regenerator, Reckless (Hidden Ability)
+35.5
+Fighting
+ 65
+ 125
+ 60
+ 95
+ 60
+ 105
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Druddigon
+Rough Skin, Sheer Force, Mold Breaker (Hidden Ability)
+139.0
+Dragon
+ 77
+ 120
+ 90
+ 60
+ 90
+ 48
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Golett
+Iron Fist, Klutz, No Guard (Hidden Ability)
+1.0
+Ground / Ghost
+ 59
+ 74
+ 50
+ 35
+ 50
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Golurk
+Iron Fist, Klutz, No Guard (Hidden Ability)
+2.8
+Ground / Ghost
+ 89
+ 124
+ 80
+ 55
+ 80
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pawniard
+Defiant, Inner Focus, Pressure (Hidden Ability)
+10.2
+Dark / Steel
+ 45
+ 85
+ 70
+ 40
+ 40
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bisharp
+Defiant, Inner Focus, Pressure (Hidden Ability)
+70.0
+Dark / Steel
+ 65
+ 125
+ 100
+ 60
+ 70
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bouffalant
+Reckless, Sap Sipper, Soundproof (Hidden Ability)
+94.5
+Normal
+ 95
+ 110
+ 95
+ 40
+ 95
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rufflet
+Keen Eye, Sheer Force, Hustle (Hidden Ability)
+10.5
+Normal / Flying
+ 70
+ 83
+ 50
+ 37
+ 50
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Braviary
+Keen Eye, Sheer Force, Defiant (Hidden Ability)
+41.0
+Normal / Flying
+ 100
+ 123
+ 75
+ 57
+ 75
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Vullaby
+Big Pecks, Overcoat, Weak Armor (Hidden Ability)
+9.0
+Dark / Flying
+ 70
+ 55
+ 75
+ 45
+ 65
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mandibuzz
+Big Pecks, Overcoat, Weak Armor (Hidden Ability)
+39.5
+Dark / Flying
+ 110
+ 65
+ 105
+ 55
+ 95
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Heatmor
+Gluttony, Flash Fire, White Smoke (Hidden Ability)
+58.0
+Fire
+ 85
+ 97
+ 66
+ 105
+ 66
+ 65
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Durant
+Swarm, Hustle, Truant (Hidden Ability)
+33.0
+Bug / Steel
+ 58
+ 109
+ 112
+ 48
+ 48
+ 109
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Deino
+Hustle
+17.3
+Dark / Dragon
+ 52
+ 65
+ 50
+ 45
+ 50
+ 38
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Zweilous
+Hustle
+50.0
+Dark / Dragon
+ 72
+ 85
+ 70
+ 65
+ 70
+ 58
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hydreigon
+Levitate
+160.0
+Dark / Dragon
+ 92
+ 105
+ 90
+ 125
+ 90
+ 98
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Larvesta
+Flame Body, Swarm (Hidden Ability)
+28.8
+Bug / Fire
+ 55
+ 85
+ 55
+ 50
+ 55
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Volcarona
+Flame Body, Swarm (Hidden Ability)
+46.0
+Bug / Fire
+ 85
+ 60
+ 65
+ 135
+ 105
+ 100
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cobalion
+Justified
+2.1
+Steel / Fighting
+ 91
+ 90
+ 129
+ 90
+ 72
+ 108
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Terrakion
+Justified
+1.9
+Rock / Fighting
+ 91
+ 129
+ 90
+ 72
+ 90
+ 108
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Virizion
+Justified
+2.0
+Grass / Fighting
+ 91
+ 90
+ 72
+ 90
+ 129
+ 108
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Reshiram
+Turboblaze
+3.2
+Dragon / Fire
+ 100
+ 120
+ 100
+ 150
+ 120
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Zekrom
+Teravolt
+2.9
+Dragon / Electric
+ 100
+ 150
+ 120
+ 120
+ 100
+ 90
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Keldeo
+Justified
+1.4
+Water / Fighting
+ 91
+ 72
+ 90
+ 129
+ 90
+ 108
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Genesect
+Download
+1.5
+Bug / Steel
+ 71
+ 120
+ 95
+ 120
+ 95
+ 99
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chespin
+Overgrow, Bulletproof (Hidden Ability)
+9.0
+Grass
+ 56
+ 61
+ 65
+ 48
+ 45
+ 38
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Quilladin
+Overgrow, Bulletproof (Hidden Ability)
+29.0
+Grass
+ 61
+ 78
+ 95
+ 56
+ 58
+ 57
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chesnaught
+Overgrow, Bulletproof (Hidden Ability)
+90.0
+Grass / Fighting
+ 88
+ 107
+ 122
+ 74
+ 75
+ 64
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Fennekin
+Blaze, Magician (Hidden Ability)
+9.4
+Fire
+ 40
+ 45
+ 40
+ 62
+ 60
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Braixen
+Blaze, Magician (Hidden Ability)
+14.5
+Fire
+ 59
+ 59
+ 58
+ 90
+ 70
+ 73
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Delphox
+Blaze, Magician (Hidden Ability)
+39.0
+Fire / Psychic
+ 75
+ 69
+ 72
+ 114
+ 100
+ 104
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Froakie
+Torrent, Protean (Hidden Ability)
+7.0
+Water
+ 41
+ 56
+ 40
+ 62
+ 44
+ 71
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Frogadier
+Torrent, Protean (Hidden Ability)
+10.9
+Water
+ 54
+ 63
+ 52
+ 83
+ 56
+ 97
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Greninja
+Torrent, Protean (Hidden Ability)
+40.0
+Water / Dark
+ 72
+ 95
+ 67
+ 103
+ 71
+ 122
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bunnelby
+Pickup, Cheek Pouch, Huge Power (Hidden Ability)
+5.0
+Normal
+ 38
+ 36
+ 38
+ 32
+ 36
+ 57
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Diggersby
+Pickup, Cheek Pouch, Huge Power (Hidden Ability)
+42.4
+Normal / Ground
+ 85
+ 56
+ 77
+ 50
+ 77
+ 78
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Fletchling
+Big Pecks, Gale Wings (Hidden Ability)
+1.7
+Normal / Flying
+ 45
+ 50
+ 43
+ 40
+ 38
+ 62
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Fletchinder
+Flame Body, Gale Wings (Hidden Ability)
+16.0
+Fire / Flying
+ 62
+ 73
+ 55
+ 56
+ 52
+ 84
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Talonflame
+Flame Body, Gale Wings (Hidden Ability)
+24.5
+Fire / Flying
+ 78
+ 81
+ 71
+ 74
+ 69
+ 126
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Scatterbug
+Shield Dust, Compound Eyes, Friend Guard (Hidden Ability)
+2.5
+Bug
+ 38
+ 35
+ 40
+ 27
+ 25
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Spewpa
+Shed Skin, Friend Guard (Hidden Ability)
+8.4
+Bug
+ 45
+ 22
+ 60
+ 27
+ 30
+ 29
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Vivillon
+Shield Dust, Compound Eyes, Friend Guard (Hidden Ability)
+17.0
+Bug / Flying
+ 80
+ 52
+ 50
+ 90
+ 50
+ 89
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Litleo
+Rivalry, Unnerve, Moxie (Hidden Ability)
+13.5
+Fire / Normal
+ 62
+ 50
+ 58
+ 73
+ 54
+ 72
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pyroar
+Rivalry, Unnerve, Moxie (Hidden Ability)
+81.5
+Fire / Normal
+ 86
+ 68
+ 72
+ 109
+ 66
+ 106
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Flabebe
+Flower Veil, Symbiosis (Hidden Ability)
+0.1
+Fairy
+ 44
+ 38
+ 39
+ 61
+ 79
+ 42
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Floette
+Flower Veil, Symbiosis (Hidden Ability)
+0.9
+Fairy
+ 54
+ 45
+ 47
+ 75
+ 98
+ 52
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Florges
+Flower Veil, Symbiosis (Hidden Ability)
+10.0
+Fairy
+ 78
+ 65
+ 68
+ 112
+ 154
+ 75
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Skiddo
+Sap Sipper, Grass Pelt (Hidden Ability)
+31.0
+Grass
+ 66
+ 65
+ 48
+ 62
+ 57
+ 52
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gogoat
+Sap Sipper, Grass Pelt (Hidden Ability)
+91.0
+Grass
+ 123
+ 100
+ 62
+ 97
+ 81
+ 68
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pancham
+Iron Fist, Mold Breaker, Scrappy (Hidden Ability)
+8.0
+Fighting
+ 67
+ 82
+ 62
+ 46
+ 48
+ 43
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pangoro
+Iron Fist, Mold Breaker, Scrappy (Hidden Ability)
+136.0
+Fighting / Dark
+ 95
+ 124
+ 78
+ 69
+ 71
+ 58
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Furfrou
+Fur Coat
+28.0
+Normal
+ 75
+ 80
+ 60
+ 65
+ 90
+ 102
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Espurr
+Keen Eye, Infiltrator, Own Tempo (Hidden Ability)
+3.5
+Psychic
+ 62
+ 48
+ 54
+ 63
+ 60
+ 68
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meowstic
+Keen Eye, Infiltrator, Prankster (Male Hidden Ability), Competitive (Female Hidden Ability)
+8.5
+Psychic
+ 74
+ 48
+ 76
+ 83
+ 81
+ 104
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Honedge
+No Guard
+2.0
+Steel / Ghost
+ 45
+ 80
+ 100
+ 35
+ 37
+ 28
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Doublade
+No Guard
+4.5
+Steel / Ghost
+ 59
+ 110
+ 150
+ 45
+ 49
+ 35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Spritzee
+Healer, Aroma Veil (Hidden Ability)
+0.5
+Fairy
+ 78
+ 52
+ 60
+ 63
+ 65
+ 23
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aromatisse
+Healer, Aroma Veil (Hidden Ability)
+15.5
+Fairy
+ 101
+ 72
+ 72
+ 99
+ 89
+ 29
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Swirlix
+Sweet Veil, Unburden (Hidden Ability)
+3.5
+Fairy
+ 62
+ 48
+ 66
+ 59
+ 57
+ 49
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Slurpuff
+Sweet Veil, Unburden (Hidden Ability)
+5.0
+Fairy
+ 82
+ 80
+ 86
+ 85
+ 75
+ 72
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Inkay
+Suction Cups, Contrary, Infiltrator (Hidden Ability)
+3.5
+Dark / Psychic
+ 53
+ 54
+ 53
+ 37
+ 46
+ 45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Malamar
+Suction Cups, Contrary, Infiltrator (Hidden Ability)
+47.0
+Dark / Psychic
+ 86
+ 92
+ 88
+ 68
+ 75
+ 73
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Binacle
+Sniper, Tough Claws, Pickpocket (Hidden Ability)
+31.0
+Rock / Water
+ 42
+ 52
+ 67
+ 39
+ 56
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Barbaracle
+Sniper, Tough Claws, Pickpocket (Hidden Ability)
+96.0
+Rock / Water
+ 72
+ 105
+ 115
+ 54
+ 86
+ 68
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Skrelp
+Poison Point, Poison Touch, Adaptability (Hidden Ability)
+7.3
+Poison / Water
+ 50
+ 60
+ 60
+ 60
+ 60
+ 30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dragalge
+Poison Point, Poison Touch, Adaptability (Hidden Ability)
+81.5
+Poison / Dragon
+ 65
+ 75
+ 90
+ 97
+ 123
+ 44
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Clauncher
+Mega Launcher
+8.3
+Water
+ 50
+ 53
+ 62
+ 58
+ 63
+ 44
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Clawitzer
+Mega Launcher
+35.3
+Water
+ 71
+ 73
+ 88
+ 120
+ 89
+ 59
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Helioptile
+Dry Skin, Sand Veil, Solar Power (Hidden Ability)
+6.0
+Electric / Normal
+ 44
+ 38
+ 33
+ 61
+ 43
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Heliolisk
+Dry Skin, Sand Veil, Solar Power (Hidden Ability)
+21.0
+Electric / Normal
+ 62
+ 55
+ 52
+ 109
+ 94
+ 109
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tyrunt
+Strong Jaw, Sturdy (Hidden Ability)
+26.0
+Rock / Dragon
+ 58
+ 89
+ 77
+ 45
+ 45
+ 48
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tyrantrum
+Strong Jaw, Rock Head (Hidden Ability)
+270.0
+Rock / Dragon
+ 82
+ 121
+ 119
+ 69
+ 59
+ 71
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Amaura
+Refrigerate, Snow Warning (Hidden Ability)
+25.2
+Rock / Ice
+ 77
+ 59
+ 50
+ 67
+ 63
+ 46
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aurorus
+Refrigerate, Snow Warning (Hidden Ability)
+225.0
+Rock / Ice
+ 123
+ 77
+ 72
+ 99
+ 92
+ 58
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sylveon
+Cute Charm, Pixilate (Hidden Ability)
+23.5
+Fairy
+ 95
+ 65
+ 65
+ 110
+ 130
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hawlucha
+Limber, Unburden, Mold Breaker (Hidden Ability)
+21.5
+Fighting / Flying
+ 78
+ 92
+ 75
+ 74
+ 63
+ 118
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dedenne
+Cheek Pouch, Pickup, Plus (Hidden Ability)
+2.2
+Electric / Fairy
+ 67
+ 58
+ 57
+ 81
+ 67
+ 101
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Carbink
+Clear Body, Sturdy (Hidden Ability)
+0.3
+Rock / Fairy
+ 50
+ 50
+ 150
+ 50
+ 150
+ 50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Goomy
+Sap Sipper, Hydration, Gooey (Hidden Ability)
+2.8
+Dragon
+ 45
+ 50
+ 35
+ 55
+ 75
+ 40
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sliggoo
+Sap Sipper, Hydration, Gooey (Hidden Ability)
+17.5
+Dragon
+ 68
+ 75
+ 53
+ 83
+ 113
+ 60
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Goodra
+Sap Sipper, Hydration, Gooey (Hidden Ability)
+150.5
+Dragon
+ 90
+ 100
+ 70
+ 110
+ 150
+ 80
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Klefki
+Prankster, Magician (Hidden Ability)
+3.0
+Steel / Fairy
+ 57
+ 80
+ 91
+ 80
+ 87
+ 75
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Phantump
+Natural Cure, Frisk, Harvest (Hidden Ability)
+7.0
+Ghost / Grass
+ 43
+ 70
+ 48
+ 50
+ 60
+ 38
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Trevenant
+Natural Cure, Frisk, Harvest (Hidden Ability)
+71.0
+Ghost / Grass
+ 85
+ 110
+ 76
+ 65
+ 82
+ 56
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bergmite
+Own Tempo, Ice Body, Sturdy (Hidden Ability)
+99.5
+Ice
+ 55
+ 69
+ 85
+ 32
+ 35
+ 28
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Avalugg
+Own Tempo, Ice Body, Sturdy (Hidden Ability)
+505.0
+Ice
+ 95
+ 117
+ 184
+ 44
+ 46
+ 28
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Noibat
+Frisk, Infiltrator, Telepathy (Hidden Ability)
+8.0
+Flying / Dragon
+ 40
+ 30
+ 35
+ 45
+ 40
+ 55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Noivern
+Frisk, Infiltrator, Telepathy (Hidden Ability)
+85.0
+Flying / Dragon
+ 85
+ 70
+ 80
+ 97
+ 80
+ 123
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Xerneas
+Fairy Aura
+3.0
+Fairy
+ 126
+ 131
+ 95
+ 131
+ 98
+ 99
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Yveltal
+Dark Aura
+5.8
+Dark / Flying
+ 126
+ 131
+ 95
+ 131
+ 98
+ 99
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Zygarde
+Aura Break (50% Forme), Power Construct (50% Forme), Aura Break (10% Forme), Power Construct (10% Forme), Power Construct (Complete Forme)
+5.0
+Dragon / Ground
+ 108
+ 100
+ 121
+ 81
+ 95
+ 95
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Diancie
+Clear Body, None (Hidden Ability), Magic Bounce (Mega Diancie)
+ Forms:
+Diancie
+0.7
+Rock / Fairy
+ 50
+ 100
+ 150
+ 100
+ 150
+ 50
+Mega Diancie
+1.1
+Rock / Fairy
+ 50
+ 160
+ 110
+ 160
+ 110
+ 110
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Volcanion
+Water Absorb
+1.7
+Fire / Water
+ 80
+ 110
+ 120
+ 130
+ 90
+ 70
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

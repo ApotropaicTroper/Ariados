@@ -1,0 +1,9 @@
+Floatzel
+WaterSwift Swim, Water Veil
+ 85
+105
+ 55
+ 85
+ 50
+115
+ 33.5 kg

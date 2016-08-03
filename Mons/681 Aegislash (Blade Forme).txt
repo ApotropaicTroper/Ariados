@@ -1,0 +1,11 @@
+Aegislash
+Blade Forme
+Steel / Ghost
+Stance Change
+ 60
+150
+ 50
+150
+ 50
+ 60
+ 53.0 kg

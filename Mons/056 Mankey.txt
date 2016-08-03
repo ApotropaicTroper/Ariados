@@ -1,0 +1,9 @@
+Mankey
+FightingVital Spirit, Anger Point, Defiant
+ 40
+ 80
+ 35
+ 35
+ 45
+ 70
+ 28.0 kg

@@ -1,0 +1,9 @@
+Swalot
+PoisonLiquid Ooze, Sticky Hold, Gluttony
+100
+ 73
+ 83
+ 73
+ 83
+ 55
+ 80.0 kg

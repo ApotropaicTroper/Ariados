@@ -1,0 +1,10 @@
+Swellow
+Normal / Flying
+Guts, Scrappy
+ 60
+ 85
+ 60
+ 50
+ 50
+125
+ 19.8 kg

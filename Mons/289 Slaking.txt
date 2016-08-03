@@ -1,0 +1,9 @@
+Slaking
+NormalTruant
+150
+160
+100
+ 95
+ 65
+100
+130.5 kg

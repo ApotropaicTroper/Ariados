@@ -1,0 +1,9 @@
+Serperior
+GrassOvergrow, Contrary
+ 75
+ 75
+ 95
+ 75
+ 95
+113
+ 63.0 kg

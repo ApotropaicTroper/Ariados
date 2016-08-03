@@ -1,0 +1,10 @@
+Mantyke
+Water / Flying
+Swift Swim, Water Absorb, Water Veil
+ 45
+ 20
+ 50
+ 60
+120
+ 50
+ 65.0 kg

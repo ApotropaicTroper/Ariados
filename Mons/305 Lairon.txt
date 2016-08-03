@@ -1,0 +1,10 @@
+Lairon
+Steel / Rock
+Sturdy, Rock Head, Heavy Metal
+ 60
+ 90
+140
+ 50
+ 50
+ 40
+120.0 kg

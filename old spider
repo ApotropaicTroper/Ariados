@@ -1,0 +1,240 @@
+Old code:
+'''
+#~~~~~~~~~~~~~~~~Returns string containing value of stat~~~~~~~~~~~~~~~~
+def HP(soup):
+    for stat in soup.findAll('th',{'style':'background: #FF5959; width: 30px;'}):
+        return str(stat.string[0:-1])
+def Atk(soup):
+    for stat in soup.findAll('th',{'style':'background: #F5AC78; width: 30px;'}):
+        return str(stat.string[0:-1])
+def Def(soup):
+    for stat in soup.findAll('th',{'style':'background: #FAE078; width: 30px;'}):
+        return str(stat.string[0:-1])
+def SpA(soup):
+    for stat in soup.findAll('th',{'style':'background: #9DB7F5; width: 30px;'}):
+        return str(stat.string[0:-1])
+def SpD(soup):
+    for stat in soup.findAll('th',{'style':'background: #A7DB8D; width: 30px;'}):
+        return str(stat.string[0:-1])
+def Spe(soup):
+    for stat in soup.findAll('th',{'style':'background: #FA92B2; width: 30px;'}):
+        return str(stat.string[0:-1])
+def stat_base(table):
+    out = HP(table) + '\n'
+    out += Atk(table) + '\n'
+    out += Def(table) + '\n'
+    out += SpA(table) + '\n'
+    out += SpD(table) + '\n'
+    out += Spe(table) + '\n'
+    return out
+#~~~~~~~~~~~~~~~~Returns string containing species name~~~~~~~~~~~~~~~~
+def species(soup):
+    for stat in soup.findAll('td',{'width':'50%'}):
+        for label in stat.findAll('big'):
+            try:       #Male/Female symbols and accented characters throw exception
+                return str(label.string)
+            except UnicodeEncodeError:
+                if 'Nidorina' in getURL(soup):
+                    return 'Nidoran (F)'
+                elif 'Nidorino' in getURL(soup):
+                    return 'Nidoran (M)'
+                else:
+                    return 'Flabebe'
+#~~~~~~~~~~~~~~~~Returns string in format 'type' or 'type1 / type2'~~~~~~~~~~~~~~~~
+def types(table):
+    form_types = []
+    for stat in table.findAll('td',{'width':'45px'}):
+        form_types.append(stat.a.span.b.string)
+    if form_types[1] == 'Unknown':
+        return form_types[0]
+    else:
+        return form_types[0] + ' / ' + form_types[1]
+#~~~~~~~~~~~~~~~~Returns string containing all stats of all forms, formatted
+def get_all_stats(soup):
+    out = ''
+    out += species(soup) + '\n'
+    count = 0
+    stat_tables = soup.findAll('table',{'align':'left'})
+    type_tables = soup.findAll('table',{'style':'margin:auto; background:none;'})
+    abilities_table = soup.findAll('table',{'style':'background:#FFF;','class':'roundy'})[1]
+    weights_table = soup.findAll('table',{'style':'background:#FFF;'})[4].findAll('tr')
+
+    count = 0
+    while count < len(weights_table):#cleans list of weights
+        if weights_table[count].get('style') == 'display:none;' or weights_table[count].small != None:
+            weights_table.remove(weights_table[count])
+            count -= 1
+            continue
+        count += 1
+    print(species(soup))
+    while True:#cleans up table of types, removing instances of 'Unknown/Unknown"
+        if 'Unknown' in types(type_tables[-1]):
+            type_tables = type_tables[:-1]
+        else:
+            break
+    if len(type_tables) == 1 and ('Mega' in soup.text or 'Primal' in soup.text):
+        type_tables.append(type_tables[0])
+    while True:#cleans up table of stat tables; removing pokeathlon stats
+        if ';;' not in stat_tables[-1]['style']:
+            stat_tables = stat_tables[0:-1]
+        else:
+            break
+    abilities = []
+    for td in abilities_table.findAll('td'):#builds list of abilities
+        for a in td.findAll('a'):
+            if 'Cacophony' not in str(a) and 'None' not in str(a):
+                abilities.append(str(a.string))
+                if 'small' in str(td) and td.small.string != None and species(soup) != td.small.string.strip():
+                    abilities[-1] += str(' (' + td.small.string.strip() + ')')
+            else:
+                continue
+    for able in abilities:
+        out += able
+        if able != abilities[-1]:
+            out += ', '
+    out += '\n'
+    h5 = soup.findAll('h5')
+    headers = []
+    h_temp = []
+    count = 0
+    for h in h5:#builds list of table headers, beginning with species and including all forms
+        if h5[count].span.string != 'In-game events' and h5[count].span.string != 'Other':
+            try:
+                h_temp.append(str(h.span.string))
+            except UnicodeEncodeError:
+                h_temp.append(species(soup))
+        count += 1
+    if len(h_temp) == 0:
+        h_temp.append(species(soup))
+    if h_temp[0] != str(species(soup)):
+        if 'Mega ' + species(soup) in h_temp or 'Primal ' + species(soup) in h_temp:
+            if 'Generation VI' not in h_temp: #If any string contains 'Generation'
+                headers.append(species(soup))
+    headers.extend(h_temp)
+    if 'Normal Pichu' in headers:
+        headers = ['Pichu']
+    if len(stat_tables)>1:
+        out += ' Forms:' + '\n'
+    count = 0
+    if species(soup) == 'Rotom':
+        stat_tables.extend([stat_tables[1],stat_tables[1],stat_tables[1],stat_tables[1]])
+        headers[1] = 'Heat Rotom'
+        headers[2] = 'Wash Rotom'
+        headers[3] = 'Frost Rotom'
+        headers[4] = 'Fan Rotom'
+        headers[5] = 'Mow Rotom'
+    if len(stat_tables) > 1:
+        while len(weights_table)/2 < len(stat_tables):
+            weights_table.extend(weights_table[0:1])
+    for table in stat_tables:
+        if len(stat_tables) != 1:
+            out += headers[count] + '\n'
+        out += weights_table[count].findAll('td')[1].string[1:-3].strip() + '\n'
+
+        if 'Generation VI' in headers:
+            out += types(type_tables[count-1]) + '\n'
+        else:
+            try:
+                out += types(type_tables[count]) + '\n'
+            except IndexError:
+                out += types(type_tables[0]) + '\n'
+        out += stat_base(table)
+        count += 1
+    return out
+#~~~~~~~~~~~~~~~~Return url of next mon for mon_spider~~~~~~~~~~~~~~~~
+def getURL(soup):
+    for table in soup.findAll('td',{'align':'left'}):
+        for link in table.findAll('a'):
+            href = 'http://bulbapedia.bulbagarden.net' + link.get('href')
+            return href
+#~~~~~~~~~~~~~~~~ Spiders ~~~~~~~~~~~~~~~~
+def mon_spider(first='Bulbasaur',num = 1):
+    page = 1
+    url = 'http://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_stats_(Generation_VI-present)'
+    fw = open('Mons2.txt','w')
+    fw.write('')
+    start = False
+    soup = BeautifulSoup(requests.get(url).text,'lxml')
+    for tr in soup.findAll('tr',{'align':'center'}):
+        if 'small' in str(tr):
+            continue
+        if first in str(tr):
+            start = True
+        if not start:
+            continue
+        nurl = 'http://bulbapedia.bulbagarden.net' + tr.find('td',{'align':'left'}).a.get('href')
+        subsoup = BeautifulSoup(requests.get(nurl).text,'lxml')
+        spec = str(species(subsoup))
+        fw.write(get_all_stats(subsoup) + '~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n')
+        page+= 1
+        if page > num:
+            break
+    fw.close()
+#~~~~~~~~~~~~~~~~ Returns list of mons who can learn move ~~~~~~~~~~~~~~~~
+def learnset(tr):
+    learnlist = []
+    td = tr.findAll('td')
+    if 'FFFFFF' not in td[-1]['style']:
+        try:#Highlighted background if can learn in current generation
+            learnlist.append(str(td[2].a.string))
+        except UnicodeEncodeError:
+            if '80_' in td[2].a.get('href'):
+                learnlist.append('Nidoran(F)')   #female symbol
+            elif '82_' in td[2].a.get('href'):
+                learnlist.append('Nidoran(M)')   #male symbol
+            else:
+                learnlist.append('Flabebe')   #accented e
+    return learnlist
+def move_spider(move = 'Pound',num=1):
+    count = 0
+    url = 'http://bulbapedia.bulbagarden.net/wiki/List_of_moves'
+    soup = BeautifulSoup(requests.get(url).text,'lxml')
+    table = soup.find('table',{'border':'1','width':'100%'})
+    header = True
+    fw = open('Moves.txt','w')
+    out = ''
+    for row in table.findAll('tr'):
+        if header:
+            header = False
+            continue
+        if count >= num:
+            break
+        data = row.findAll('td')
+        if count == 0 and move not in str(data[1]):
+            continue
+        #~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Learnset of move ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        murl = 'http://bulbapedia.bulbagarden.net' + data[1].a.get('href')
+        moup = BeautifulSoup(requests.get(murl).text,'lxml')
+        learnlist = set()
+        if 'All Pok' in moup.getText():#Anything can learn Rest and Hidden Power except:
+            learnlist.update(['All','Wobbuffet','Wynaut','Kricketot','Tynamo','Spewpa'])
+            if data[1].a.get('href') == 'Rest':
+                learnlist.update(['Unown','Burmy','Regigigas'])
+        else:
+            for tr in moup.findAll('tr',{'style':'background:#fff'}):
+                try:
+                    learnlist.update(learnset(tr))
+                except KeyError:
+                    continue
+            for tr in moup.findAll('tr',{'style':'background:#fff; text-align:center'}):
+                learnlist.update(learnset(tr))
+        #~~~~~~~~~~~~~~~~~~~~~~~~~~~~ End move learnset ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        out += data[1.].a.string + '\n '
+        out += data[2].a.string + ' / ' + data[3].a.string + '\n PP: '
+        out += str(int(data[5].contents[0])) + '\n Power: '
+        try:
+            out += str(int(data[6].contents[0])) + '\n Accuracy: '
+        except:
+            out += '-\n Accuracy: '
+        try:
+            out += str(data[7].contents[0])[0:-1].strip() + '\n'
+        except:
+            out += '-\n'
+        out += str(list(learnlist)) + '\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n'
+        count += 1
+    fw.write(str(out))
+    fw.close()
+#############################################################################################
+#move_spider(num = 621)  #621 moves
+##############################################################################################
+'''

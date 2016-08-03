@@ -1,0 +1,9 @@
+Registeel
+SteelClear Body, Light Metal
+ 80
+ 75
+150
+ 75
+150
+ 50
+205.0 kg

@@ -1,0 +1,10 @@
+Geodude
+Rock / Ground
+Rock Head, Sturdy, Sand Veil
+ 40
+ 80
+100
+ 30
+ 30
+ 20
+ 20.0 kg

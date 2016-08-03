@@ -1,0 +1,9 @@
+Hitmonlee
+FightingLimber, Reckless, Unburden
+ 50
+120
+ 53
+ 35
+110
+ 87
+ 49.8 kg

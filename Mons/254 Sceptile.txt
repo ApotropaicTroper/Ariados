@@ -1,0 +1,9 @@
+Sceptile
+GrassOvergrow, Unburden
+ 70
+ 85
+ 65
+105
+ 85
+120
+ 52.2 kg

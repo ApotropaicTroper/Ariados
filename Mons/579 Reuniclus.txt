@@ -1,0 +1,9 @@
+Reuniclus
+PsychicOvercoat, Magic Guard, Regenerator
+110
+ 65
+ 75
+125
+ 85
+ 30
+ 20.1 kg

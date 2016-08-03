@@ -1,0 +1,10 @@
+Swampert
+Water / Ground
+Torrent, Damp
+100
+110
+ 90
+ 85
+ 90
+ 60
+ 81.9 kg

@@ -1,0 +1,10 @@
+Excadrill
+Ground / Steel
+Sand Rush, Sand Force, Mold Breaker
+110
+135
+ 60
+ 50
+ 65
+ 88
+ 40.4 kg

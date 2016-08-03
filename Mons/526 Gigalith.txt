@@ -1,0 +1,9 @@
+Gigalith
+RockSturdy, Sand Force
+ 85
+135
+130
+ 60
+ 80
+ 25
+260.0 kg

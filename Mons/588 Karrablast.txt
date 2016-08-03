@@ -1,0 +1,9 @@
+Karrablast
+BugSwarm, Shed Skin, No Guard
+ 50
+ 75
+ 45
+ 40
+ 45
+ 60
+  5.9 kg

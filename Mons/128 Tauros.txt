@@ -1,0 +1,9 @@
+Tauros
+NormalIntimidate, Anger Point, Sheer Force
+ 75
+100
+ 95
+ 40
+ 70
+110
+ 88.4 kg

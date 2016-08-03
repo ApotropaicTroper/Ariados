@@ -1,0 +1,9 @@
+Poliwhirl
+WaterWater Absorb, Damp, Swift Swim
+ 65
+ 65
+ 65
+ 50
+ 50
+ 90
+ 20.0 kg

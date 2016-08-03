@@ -1,0 +1,9 @@
+Vanillite
+IceIce Body, Weak Armor
+ 36
+ 50
+ 50
+ 65
+ 60
+ 44
+  5.7 kg

@@ -1,0 +1,10 @@
+Pidgey
+Normal / Flying
+Keen Eye, Tangled Feet, Big Pecks
+ 40
+ 45
+ 40
+ 35
+ 35
+ 56
+  1.8 kg

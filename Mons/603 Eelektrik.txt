@@ -1,0 +1,9 @@
+Eelektrik
+ElectricLevitate
+ 65
+ 85
+ 70
+ 75
+ 70
+ 40
+ 22.0 kg

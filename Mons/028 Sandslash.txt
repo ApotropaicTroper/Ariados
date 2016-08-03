@@ -1,0 +1,9 @@
+Sandslash
+GroundSand Veil, Sand Rush
+ 75
+100
+110
+ 45
+ 55
+ 65
+ 29.5 kg

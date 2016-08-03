@@ -1,0 +1,10 @@
+Gliscor
+Ground / Flying
+Hyper Cutter, Sand Veil, Poison Heal
+ 75
+ 95
+125
+ 45
+ 75
+ 95
+ 42.5 kg

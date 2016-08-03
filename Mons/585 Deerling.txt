@@ -1,0 +1,10 @@
+Deerling
+Normal / Grass
+Chlorophyll, Sap Sipper, Serene Grace
+ 60
+ 60
+ 50
+ 40
+ 50
+ 75
+ 19.5 kg

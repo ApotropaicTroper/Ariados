@@ -1,0 +1,9 @@
+Leafeon
+GrassLeaf Guard, Chlorophyll
+ 65
+110
+130
+ 60
+ 65
+ 95
+ 25.5 kg

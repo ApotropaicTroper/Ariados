@@ -1,0 +1,10 @@
+Normal Rotom
+Electric / Ghost
+Levitate
+ 50
+ 50
+ 77
+ 95
+ 77
+ 91
+  0.3 kg

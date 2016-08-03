@@ -1,0 +1,9 @@
+Duosion
+PsychicOvercoat, Magic Guard, Regenerator
+ 65
+ 40
+ 50
+125
+ 60
+ 30
+  8.0 kg

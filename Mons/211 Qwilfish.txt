@@ -1,0 +1,10 @@
+Qwilfish
+Water / Poison
+Poison Point, Swift Swim, Intimidate
+ 65
+ 95
+ 75
+ 55
+ 55
+ 85
+  3.9 kg

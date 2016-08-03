@@ -1,0 +1,9 @@
+Ambipom
+NormalTechnician, Pickup, Skill Link
+ 75
+100
+ 66
+ 60
+ 66
+115
+ 20.3 kg

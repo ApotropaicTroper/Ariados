@@ -1,0 +1,9 @@
+Teddiursa
+NormalPickup, Quick Feet, Honey Gather
+ 60
+ 80
+ 50
+ 50
+ 50
+ 40
+  8.8 kg

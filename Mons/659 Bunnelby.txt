@@ -1,0 +1,9 @@
+Bunnelby
+NormalPickup, Cheek Pouch, Huge Power
+ 38
+ 36
+ 38
+ 32
+ 36
+ 57
+  5.0 kg

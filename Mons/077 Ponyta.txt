@@ -1,0 +1,9 @@
+Ponyta
+FireRun Away, Flash Fire, Flame Body
+ 50
+ 85
+ 55
+ 65
+ 65
+ 90
+ 30.0 kg

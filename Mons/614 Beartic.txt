@@ -1,0 +1,9 @@
+Beartic
+IceSnow Cloak, Swift Swim
+ 95
+110
+ 80
+ 70
+ 80
+ 50
+260.0 kg

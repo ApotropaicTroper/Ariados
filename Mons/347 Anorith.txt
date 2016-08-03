@@ -1,0 +1,10 @@
+Anorith
+Rock / Bug
+Battle Armor, Swift Swim
+ 45
+ 95
+ 50
+ 40
+ 50
+ 75
+ 12.5 kg

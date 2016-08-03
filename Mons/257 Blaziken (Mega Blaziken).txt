@@ -1,0 +1,10 @@
+Mega Blaziken
+Fire / Fighting
+Speed Boost
+ 80
+160
+ 80
+130
+ 80
+100
+ 52.0 kg

@@ -1,0 +1,9 @@
+Snorlax
+NormalImmunity, Thick Fat, Gluttony
+160
+110
+ 65
+ 65
+110
+ 30
+460.0 kg

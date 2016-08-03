@@ -1,0 +1,10 @@
+Skrelp
+Poison / Water
+Poison Point, Poison Touch, Adaptability
+ 50
+ 60
+ 60
+ 60
+ 60
+ 30
+  7.3 kg

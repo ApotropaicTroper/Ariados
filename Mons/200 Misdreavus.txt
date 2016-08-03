@@ -1,0 +1,9 @@
+Misdreavus
+GhostLevitate
+ 60
+ 60
+ 60
+ 85
+ 85
+ 85
+  1.0 kg

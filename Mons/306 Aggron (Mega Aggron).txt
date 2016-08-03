@@ -1,0 +1,9 @@
+Mega Aggron
+SteelFilter
+ 70
+140
+230
+ 60
+ 80
+ 50
+360.0 kg

@@ -1,0 +1,10 @@
+Swablu
+Normal / Flying
+Natural Cure, Cloud Nine
+ 45
+ 40
+ 60
+ 40
+ 75
+ 50
+  1.2 kg

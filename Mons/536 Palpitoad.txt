@@ -1,0 +1,10 @@
+Palpitoad
+Water / Ground
+Swift Swim, Hydration, Water Absorb
+ 75
+ 65
+ 55
+ 65
+ 55
+ 69
+ 17.0 kg

@@ -1,0 +1,9 @@
+Machamp
+FightingGuts, No Guard, Steadfast
+ 90
+130
+ 80
+ 65
+ 85
+ 55
+130.0 kg

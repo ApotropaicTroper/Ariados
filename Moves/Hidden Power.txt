@@ -1,0 +1,11 @@
+Hidden Power
+Normal / Special
+60
+100%
+15 PP
+All except:
+Spewpa
+Wobbuffet
+Tynamo
+Wynaut
+Kricketot

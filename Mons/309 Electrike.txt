@@ -1,0 +1,9 @@
+Electrike
+ElectricStatic, Lightning Rod, Minus
+ 40
+ 45
+ 40
+ 65
+ 40
+ 65
+ 15.2 kg

@@ -1,0 +1,10 @@
+Cloyster
+Water / Ice
+Shell Armor, Skill Link, Overcoat
+ 50
+ 95
+180
+ 85
+ 45
+ 70
+132.5 kg

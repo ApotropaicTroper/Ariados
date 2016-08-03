@@ -1,0 +1,10 @@
+Snover
+Grass / Ice
+Snow Warning, Soundproof
+ 60
+ 62
+ 50
+ 62
+ 60
+ 40
+ 50.5 kg

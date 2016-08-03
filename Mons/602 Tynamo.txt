@@ -1,0 +1,9 @@
+Tynamo
+ElectricLevitate
+ 35
+ 55
+ 40
+ 45
+ 40
+ 60
+  0.3 kg

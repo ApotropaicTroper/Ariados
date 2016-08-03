@@ -1,0 +1,10 @@
+Oddish
+Grass / Poison
+Chlorophyll, Run Away
+ 45
+ 50
+ 55
+ 75
+ 65
+ 30
+  5.4 kg

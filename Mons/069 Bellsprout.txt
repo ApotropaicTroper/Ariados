@@ -1,0 +1,10 @@
+Bellsprout
+Grass / Poison
+Chlorophyll, Gluttony
+ 50
+ 75
+ 35
+ 70
+ 30
+ 40
+  4.0 kg
